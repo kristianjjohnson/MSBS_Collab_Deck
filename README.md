@@ -1,1 +1,1 @@
-# MSBS_Collab_Deck_1 Collaborative Anki Deck for MSBS program using CrowdAnki. -KJ
+# MSBS_Collab_Deck Collaborative Anki Deck for MSBS program using CrowdAnki. -KJ
