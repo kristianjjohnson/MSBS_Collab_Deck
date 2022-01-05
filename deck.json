@@ -29,119 +29,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "20200801_120951.jpg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-1-A.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-1-Q.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-2-A.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-2-Q.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-3-A.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-3-Q.svg",
-                                "55ba4ab70697424b8891e950a7f0d577-oa-O.svg",
-                                "6018514392294eccb97c3a3713a8a0cc-oa-1-A.svg",
-                                "6018514392294eccb97c3a3713a8a0cc-oa-1-Q.svg",
-                                "6018514392294eccb97c3a3713a8a0cc-oa-O.svg",
-                                "Cool Miami Palm.jpg"
-                            ],
+                            "media_files": [],
                             "name": "Kris ANAT2",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "55ba4ab70697424b8891e950a7f0d577-oa-1",
-                                        "",
-                                        "<img src=\"Cool Miami Palm.jpg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-1-A.svg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-O.svg\" />"
-                                    ],
-                                    "guid": "tk>6X!mt=Q",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "55ba4ab70697424b8891e950a7f0d577-oa-2",
-                                        "",
-                                        "<img src=\"Cool Miami Palm.jpg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-2-A.svg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-O.svg\" />"
-                                    ],
-                                    "guid": "ti%t`9Q=4>",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "55ba4ab70697424b8891e950a7f0d577-oa-3",
-                                        "",
-                                        "<img src=\"Cool Miami Palm.jpg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-3-A.svg\" />",
-                                        "<img src=\"55ba4ab70697424b8891e950a7f0d577-oa-O.svg\" />"
-                                    ],
-                                    "guid": "p6)uj;+%de",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "test",
-                                        "test"
-                                    ],
-                                    "guid": "HvT]A2yn(T",
-                                    "note_model_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "1/4/20",
-                                        "test"
-                                    ],
-                                    "guid": "C}vPyEvv8|",
-                                    "note_model_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6018514392294eccb97c3a3713a8a0cc-oa-1",
-                                        "",
-                                        "<img src=\"20200801_120951.jpg\" />",
-                                        "<img src=\"6018514392294eccb97c3a3713a8a0cc-oa-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6018514392294eccb97c3a3713a8a0cc-oa-1-A.svg\" />",
-                                        "<img src=\"6018514392294eccb97c3a3713a8a0cc-oa-O.svg\" />"
-                                    ],
-                                    "guid": "fA7@xJrNqP",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -205,22 +95,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "paste-d4abbbe435ab813b9f55a1d53cb6c6f64822cfba.jpg"
-                            ],
+                            "media_files": [],
                             "name": "Kris IMUN",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Hello {{c1::world}}",
-                                        "<img src=\"paste-d4abbbe435ab813b9f55a1d53cb6c6f64822cfba.jpg\" style=\"width: 956px;\" class=\"resizer\">"
-                                    ],
-                                    "guid": "k*x`Hg-~hX",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -352,18 +229,7 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Kris PHYS2",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Test {{c1::me}}",
-                                        "test"
-                                    ],
-                                    "guid": "w_8%<D.+8b",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -396,6 +262,8 @@
                                 "89f4c44aec264365bf3f5f9d5953f3ab-oa-O.svg",
                                 "paste-2aba4af3cb1aa607f089506454d3fd65bd6f7ebf.jpg",
                                 "paste-72740f16049a477fb65c2fff05a3e8d22a2c2914.png",
+                                "paste-8d854a62fe9b832816de7393aa1d59efef373aff.jpg",
+                                "paste-e94fd04f4b9caa62fd1bdacebb7a697e03069be5.jpg",
                                 "paste-f6f7040015a89cb12d74a0a092fa792268fcde8f.jpg"
                             ],
                             "name": "Ricky PHYS2",
@@ -404,19 +272,19 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "89f4c44aec264365bf3f5f9d5953f3ab-oa-1",
-                                        "",
-                                        "<img src=\"paste-72740f16049a477fb65c2fff05a3e8d22a2c2914.png\" />",
+                                        "Trace Object through GI tract: (mouth to anus)",
+                                        "<img src=\"paste-72740f16049a477fb65c2fff05a3e8d22a2c2914.png\" class=\"resizer\">",
                                         "<img src=\"89f4c44aec264365bf3f5f9d5953f3ab-oa-1-Q.svg\" class=\"resizer\">",
                                         "",
                                         "",
                                         "",
-                                        "",
+                                        "<div><img src=\"paste-8d854a62fe9b832816de7393aa1d59efef373aff.jpg\" style=\"width: 800px;\" class=\"resizer\"><br>*Know the anatomy discussed\nin this lecture and be able to trace the anatomical path of a substance from\nthe mouth to the anus</div>",
                                         "",
                                         "<img src=\"89f4c44aec264365bf3f5f9d5953f3ab-oa-1-A.svg\" />",
                                         "<img src=\"89f4c44aec264365bf3f5f9d5953f3ab-oa-O.svg\" />"
                                     ],
                                     "guid": "M4Ihwgr.A<",
-                                    "note_model_uuid": "2d84e700-6dba-11ec-91d7-367ddaa5f0a8",
+                                    "note_model_uuid": "86f0d2f0-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Physio2::Block1::Week1::A"
                                     ]
@@ -425,19 +293,19 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "80ae7e7529794374a2ac2a94e9d13608-oa-1",
-                                        "",
+                                        "ID Sphincters",
                                         "<img src=\"paste-2aba4af3cb1aa607f089506454d3fd65bd6f7ebf.jpg\" />",
                                         "<img src=\"80ae7e7529794374a2ac2a94e9d13608-oa-1-Q.svg\" />",
                                         "",
                                         "",
                                         "",
-                                        "",
+                                        "<img src=\"paste-e94fd04f4b9caa62fd1bdacebb7a697e03069be5.jpg\" class=\"resizer\" style=\"width: 250px;\"><br>*Know the anatomy discussed in this lecture and be able to trace the anatomical path of a substance from the mouth to the anus.",
                                         "",
                                         "<img src=\"80ae7e7529794374a2ac2a94e9d13608-oa-1-A.svg\" />",
                                         "<img src=\"80ae7e7529794374a2ac2a94e9d13608-oa-O.svg\" />"
                                     ],
                                     "guid": "pC,]0-!?g3",
-                                    "note_model_uuid": "2d84e700-6dba-11ec-91d7-367ddaa5f0a8",
+                                    "note_model_uuid": "86f0d2f0-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Physio2::Block1::Week1::A"
                                     ]
@@ -467,7 +335,7 @@
                                         ""
                                     ],
                                     "guid": "CoHQ.YohBW",
-                                    "note_model_uuid": "2d8485b2-6dba-11ec-91d7-367ddaa5f0a8",
+                                    "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Physio2::Block1::Week1::A"
                                     ]
@@ -510,22 +378,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "paste-8b42940e0485f5ec0131f5afc25c9e1d382cf5d2.jpg"
-                            ],
+                            "media_files": [],
                             "name": "Kris Phram",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div>AAA/BB mnemonic for\nprinciples of absorption.</div>",
-                                        "<img src=\"paste-8b42940e0485f5ec0131f5afc25c9e1d382cf5d2.jpg\" style=\"width: 654px;\" class=\"resizer\">"
-                                    ],
-                                    "guid": "K9IGvq[7a_",
-                                    "note_model_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -550,6 +405,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "paste-66ebe3088fbf2fcd0ebf8f759b8f5df63b00d922.jpg",
                                 "paste-8b4f3b5230d83389d3a737f1bd381cd30a4d8f5d.jpg",
                                 "paste-9fcaefefe9fd509ae36e712f6ce6e9b11ceb7468.jpg"
                             ],
@@ -558,8 +414,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<ul>\n<li><b><font color=\"#f24033\">Pharmacodynamics</font></b>:</li>\n</ul>\n<div>Study of what {{c1::drugs}} do to the\n{{c1::body}} ({{c1::MOA}})</div>\n<ul>\n<li>Ex:&nbsp;<span style=\"text-decoration-line: underline;\">{{c1::Toxicity}}&nbsp;(side effect) and&nbsp;</span>{{c1::Efficacy}}</li></ul><br><ul><li><b><font color=\"#f24033\">Pharmacokinetics</font></b><br></li>\n</ul>\n<div>&nbsp;What the {{c1::body}} does to the {{c1::drugs}} ({{c1::ADME}}).</div><div class=\"centeredbox\"><div class=\"leftalign\"><div></div>\n<ul><li>1. {{c1::Absorption}}<br></li></ul></div></div>\n<div>&nbsp;</div>\n<ul>\n<li>2. {{c1::Distribution}}</li>\n</ul>\n<div>&nbsp;</div>\n<ul>\n<li>3. {{c1::Metabolism}}</li>\n</ul>\n<div>&nbsp;</div>\n<ul>\n<li>&nbsp;4. {{c1::Elimination}}</li></ul>",
-                                        "<br>*Define the\nterms: bioavailability, first-pass effect, pharmacodynamics, pharmacokinetics (ADME), and therapeutic\nwindow.",
+                                        "<ul>\n<li><b><font color=\"#f24033\">Pharmacodynamics</font></b>:</li>\n</ul>\n<div>Study of what {{c1::drugs}} do to the\n{{c1::body}} ({{c1::MOA}})<br><br>Ex:&nbsp;<span style=\"text-decoration-line: underline;\">{{c1::Toxicity}}&nbsp;(side effect) and&nbsp;</span>{{c1::Efficacy}}</div><br><ul><li><b><font color=\"#f24033\">Pharmacokinetics</font></b><br></li>\n</ul>\n<div>&nbsp;What the {{c1::body}} does to the {{c1::drugs}} ({{c1::ADME}}).<br>1. {{c1::Absorption}}</div>\n<div>2. {{c1::Distribution}}</div>\n<div>3. {{c1::Metabolism}}</div>\n<div>4. {{c1::Elimination}}</div>",
+                                        "<img src=\"paste-66ebe3088fbf2fcd0ebf8f759b8f5df63b00d922.jpg\" class=\"resizer\"><br>*Define the\nterms: bioavailability, first-pass effect, pharmacodynamics, pharmacokinetics (ADME), and therapeutic\nwindow.",
                                         "",
                                         "",
                                         "",
@@ -580,7 +436,7 @@
                                         ""
                                     ],
                                     "guid": "H2*7+b9S`R",
-                                    "note_model_uuid": "2d8485b2-6dba-11ec-91d7-367ddaa5f0a8",
+                                    "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Pharm::Block1::Week1::A"
                                     ]
@@ -610,7 +466,7 @@
                                         ""
                                     ],
                                     "guid": "j6Bb<zWQB0",
-                                    "note_model_uuid": "2d8485b2-6dba-11ec-91d7-367ddaa5f0a8",
+                                    "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Pharm::Block1::Week1::A"
                                     ]
@@ -716,256 +572,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [
-                "Exponent",
-                "rules"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "2d8485b2-6dba-11ec-91d7-367ddaa5f0a8",
+            "crowdanki_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
             "css": ".card {\n font-family: arial;\n font-size: 26px;\n text-align: center;\n color: white;\n background: gray;\n word-wrap: break-word;\n font-style: normal;\n margin: 0;\n margin: 2ex 0em;\n}\n\n.win .mycomments {\n font-size: 14.5px;\n font-style: italic;\n font-weight: lighter !important;  \n margin: 0ex 0em;\n}\n\n\n.night_mode .cloze {\ncolor: yellow !important;\n}\n\n.mobile .card {\n margin: 1.5ex 0em;\n font-family: georgia;\n color: white;\n font-weight: normal;\n}\n\n.night_mode .card {\n color: #0f0 !important;\n background-color: black;\n font-family: times;\n font-weight: bold;\n margin: 0;\n margin: 1.5ex 0.0em; \n\n}\n<!--.night_mode img { filter: invert(1); -webkit-filter:invert(1); }-->\n\n\n.cloze {\n font-weight: bold;\n color: cyan;\n}\n\n\n\n\n.win .clozestyle {\n margin: 2ex 1.25em;\n text-align: center;\n \n}\n\n.mobile .clozestyle {\n margin: 1.5ex .75em;\n}\n\n.mobile .night_mode .clozestyle {\n margin: 1.5ex .75em;\n color: #00aaff !important;\n font-weight:bold;\n\n}\n\n\n\n.mobile .mycomments {\n font-size: 12.5px;\n <-- font-style: italic; !-->\n font-weight: lighter !important;  \n Margin: 0ex 0em;\n}\n\n\n.night_mode .mycomments {\n font-size: 12.5px;\n <-- font-style: italic !-->;\n color: #0f0 !important;\n font-weight: lighter !important;  \n Margin: 0ex 0em;\n}\n\n.mobile .night_mode .mycomments {\n font-size: 12.5px;\n <-- font-style: italic; !-->\n color: #0f0 !important;\nfont-weight: lighter !important;\n Margin: 0ex .4em;\n}\n\n.win .card img {\n max-width: 100%; max-height: 100%;\n}\n\n.mobile .card img {\n max-width: none; \n max-height: none; }\n\n.mobile .card {margin: 0.5ex 0em;}\n\n.mobile #content {margin: 0.5ex 0em;}\n\n\n\nhtml {\n    overflow: scroll;\n    overflow-x: hidden;\n}\n::-webkit-scrollbar {\n    width: 0px;  /* remove scrollbar space */\n    background: transparent;  /* optional: just make scrollbar invisible */\n}\n\nimg {\n    display: block;\n    margin: auto;\n    width: 50%;\nheight: %\n}\n\nimg#star { max-width: 18px; }\n\n\n\nbody, div\n{\n    -webkit-touch-callout: none;\n    -webkit-user-select: none;\n    -khtml-user-select: none;\n    -moz-user-select: -moz-none;\n    -ms-user-select: none;\n    -o-user-select: none;\n    user-select: none;\n}\n\n.idstyle {\n font-size: 12px;\n font-style: italic !important;\n font-weight: lighter !important;\n Margin: 0ex 0em !important;\n\n}\n\n\n\n.hrtag {\n\tbackground:none;\n\tclear:both;\n\tfloat:none;\n\twidth:100%;\n\theight:1px;\n\tborder:none;\n\tmargin:-1px 0;\n}\n\n\n/* BEGIN WRAPPER CODE justify\nPlease do not edit this section directly, this code is generated automatically. Modify config.json instead */\n.leftalign {\n  display: inline-block;\n  text-align: left;\n}\n\n.centeredbox {\n  text-align: center;\n}\n\n/* END WRAPPER CODE */",
             "flds": [
                 {
@@ -1172,7 +779,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze (Multiple)",
+            "name": "Cloze (Multiple)-0806d",
             "req": [
                 [
                     0,
@@ -1212,7 +819,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "2d84e700-6dba-11ec-91d7-367ddaa5f0a8",
+            "crowdanki_uuid": "86f0d2f0-6dbe-11ec-871d-8c85906ce275",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
@@ -1329,7 +936,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced-fc552",
+            "name": "Image Occlusion Enhanced-3eb9e",
             "req": [
                 [
                     0,
