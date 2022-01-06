@@ -108,9 +108,49 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "Screen Shot 2022-01-05 at 7.45.33 PM.png",
+                                "paste-da4f807433040c37f81dc5bba89e03f399e41870.png"
+                            ],
                             "name": "Mercedes IMUN",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "The 4\n     “classes” of microorganisms that cause disease:<br><ol><li>{{c1::Viruses}}</li><li>{{c1::Bacteria}}</li><li>{{c1::Fungi}}</li><li>{{c1::Parasites}}</li></ol>",
+                                        "<img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\" class=\"resizer\">"
+                                    ],
+                                    "guid": "PN>L+]UTty",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Pathogen\n- {{c1::any organism with the potential to cause disease}}</div>\n<div>Opportunistic\npathogen - {{c1::organism that causes disease only in individuals whose immune system\nis some way compromised}}</div>\n<div>&nbsp;</div>",
+                                        "<img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\"><span style=\"font-weight: bold;\"><br>SLO: Distinguish between a pathogen and an opportunistic pathogen</span>."
+                                    ],
+                                    "guid": "BA,].C2ooQ",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Non-self: {{c1::Pathogens;\nimmune system responds to foreign things in the body}}</div>\n<div>Self: {{c1::immune system\ndoes not react}}</div>",
+                                        "<img src=\"Screen Shot 2022-01-05 at 7.45.33 PM.png\"><span style=\"font-weight: bold;\"><br>Distinguish\n     between self and non-self.&nbsp; </span><span style=\"font-weight: bold;\">How does\n     this relate to immunological tolerance?</span>"
+                                    ],
+                                    "guid": "Kk^+bwEp4i",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -691,6 +731,57 @@
     "media_files": [],
     "name": "MSBS Collab Deck",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
