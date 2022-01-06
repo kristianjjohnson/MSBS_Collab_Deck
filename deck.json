@@ -405,9 +405,22 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "paste-13ffe121c962040301ab3679e7ff2456388919f0.jpg",
+                                "paste-2ac88692130b85ad033b3b6f93f5c1aa7e978f7d.jpg",
+                                "paste-377de6b6c333772095513b4038ff457f1269be8c.jpg",
+                                "paste-43f12f5c20ad4487e0ac8607be5c0b15bc45cdd3.jpg",
+                                "paste-45509df3aca397d0c5f437244db5fa9b809cb570.png",
                                 "paste-66ebe3088fbf2fcd0ebf8f759b8f5df63b00d922.jpg",
                                 "paste-8b4f3b5230d83389d3a737f1bd381cd30a4d8f5d.jpg",
-                                "paste-9fcaefefe9fd509ae36e712f6ce6e9b11ceb7468.jpg"
+                                "paste-997072466fc628e81db108cb69ed1ad4c0edb8c6.jpg",
+                                "paste-9fcaefefe9fd509ae36e712f6ce6e9b11ceb7468.jpg",
+                                "paste-a4678f1a52aed548ced6d2189e46a107eae533b5.jpg",
+                                "paste-aafc2d23847b106e1fb7b9f7a9df1e273459d25d.jpg",
+                                "paste-afcabafb98863a968b2f9acbc5126bbfbefa7a0b.jpg",
+                                "paste-b077ca3203843090edd9dc3c5db26b7f2db58aa4.jpg",
+                                "paste-bf04a381d1f410f79a7d87528496005716c347d9.jpg",
+                                "paste-cfe54e10c1bda3ac11d2e9383d6a81c2ee33892d.jpg",
+                                "paste-df41b3e898cdb3bd03cddee10758984079388e67.png"
                             ],
                             "name": "Ricky Pharm",
                             "notes": [
@@ -466,6 +479,66 @@
                                         ""
                                     ],
                                     "guid": "j6Bb<zWQB0",
+                                    "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">How does the drug get into\nblood stream?</font></span></div>\n<div>{{c1::Permeation}} -&nbsp;drug&nbsp;<span style=\"font-style: italic;\">has to pass through several&nbsp;</span>{{c1::biological membranes}}<br></div>\n<ul>\n<li><span style=\"text-decoration-line: underline;\">There are several mechanisms but the </span><span style=\"text-decoration-line: underline;\">most important mechanism is&nbsp;</span><span style=\"text-decoration-line: underline;\">{{c1::<span style=\"font-weight: bold;\">passive diffusion</span> }} for most of drugs.</span></li></ul>\n<ul>\n<li><span style=\"text-decoration-line: underline;\">ONLY {{c1::lipid soluble}} or {{c1::unionized}}&nbsp;part of the drug can\n     diffuse cross&nbsp;</span>{{c1::plasma membrane}}</li></ul>",
+                                        "<img src=\"paste-a4678f1a52aed548ced6d2189e46a107eae533b5.jpg\" style=\"width: 555.594px;\" class=\"resizer\"><br><img src=\"paste-377de6b6c333772095513b4038ff457f1269be8c.jpg\" style=\"width: 612px;\" class=\"resizer\"><br>*Identify factors that affect drug absorption and predict resultant effects on the rate and extent of\nabsorption.",
+                                        "<div><font color=\"#fc0107\"><span style=\"font-weight: bold;\">Rules of </span><span style=\"font-weight: bold;\">AAA</span><span style=\"font-weight: bold;\"> or </span><span style=\"font-weight: bold;\">BB</span><span style=\"font-weight: bold;\"> for&nbsp;</span></font>{{c1::<b>absorption</b>}}<span style=\"font-weight: bold; text-decoration-line: underline;\"><br><br></span></div>\n<div><font color=\"#fc0107\">AAA</font>: {{c1::Acidic}}&nbsp;drugs are best {{c1::Absorbed}}&nbsp;from {{c1::Acidic}}&nbsp;environments</div>\n<div>&nbsp;</div>\n<div><font color=\"#fc0107\">BB</font>: {{c1::Basic}}&nbsp;drugs are\n{{c1::absorbed}}&nbsp;best in {{c1::Basic}}&nbsp;environments</div>\n<div>\n<table>\n<tbody><tr>\n<td>\n<div>&nbsp;</div>\n</td>\n<td>\n<div>pH</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Gastric\n  fluid</div>\n</td>\n<td>\n<div>{{c1::1-3}}</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Small\n  intestine</div>\n</td>\n<td>\n<div>{{c1::5-8}}</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Plasma</div>\n</td>\n<td>\n<div>{{c1::7.4}}</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Urine</div>\n</td>\n<td>\n<div>{{c1::4-8}}</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Mouth</div>\n</td>\n<td>\n<div>6.3</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Esophagus\n  </div>\n</td>\n<td>\n<div>7</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Stomach\n  </div>\n</td>\n<td>\n<div>2</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Small\n  intestine</div>\n</td>\n<td>\n<div>6</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>Colon </div>\n</td>\n<td>\n<div>8</div>\n</td>\n</tr>\n</tbody></table></div>",
+                                        "<img src=\"paste-45509df3aca397d0c5f437244db5fa9b809cb570.png\" style=\"width: 612px;\" class=\"resizer\"><br>*Recall the AAA/BB mnemonic for principles of absorption.",
+                                        "<div><font color=\"#fc0107\">{{c1::UN-IONIZED}}&nbsp;<span style=\"text-decoration-line: underline;\">is</span>&nbsp;{{c1::lipid}}<span style=\"text-decoration-line: underline;\">&nbsp;soluble, and absorbed</span></font></div>\n<div>{{c1::<font color=\"#fc0107\">Ionized</font> (with + or -)}} is {{c1::water}} soluble, and <font color=\"#fc0107\">excreted</font></div>",
+                                        "<img src=\"paste-cfe54e10c1bda3ac11d2e9383d6a81c2ee33892d.jpg\" style=\"width: 612px;\" class=\"resizer\"><br>*Recall the AAA/BB&nbsp;mnemonic for principles of&nbsp;absorption.<br>Extra Notes:<br><ul>\n<li><span style=\"font-weight: bold;\">NH</span><span style=\"font-weight: bold;\">3</span><span style=\"font-weight: bold;\">:\n     tertiary amine, unionized, lipid soluble</span></li></ul>\n<ul>\n<li><span style=\"font-weight: bold;\">NH</span><span style=\"font-weight: bold;\">4</span><span style=\"font-weight: bold;\">+</span><span style=\"font-weight: bold;\">: quaternary amine,\n     ionized, water soluble</span></li>\n<li>Paired ions=Uncharged=Un-ionized=Lipid\n     soluble</li></ul>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "ukEHl`shav",
+                                    "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-df41b3e898cdb3bd03cddee10758984079388e67.png\" style=\"\" class=\"resizer\"><br><div><b>Answer</b>: {{c1::Intradermal injection}}<br><b>Example</b>: {{c1::Penicillin\ntest}} or {{c1::PPD}}<br></div>",
+                                        "<img src=\"paste-afcabafb98863a968b2f9acbc5126bbfbefa7a0b.jpg\" style=\"width: 606px;\" class=\"resizer\"><br>*Not an objective but in&nbsp;<font color=\"#fc0107\">RED</font>",
+                                        "<div>{{c1::Drug}}\n= any agent used in the treatment or prevention of disease or the prevention of\npregnancy</div>\n<div>&nbsp;</div>\n<div>{{c1::Generic name}} – name of a drug that is the same between companies</div>\n<div>&nbsp;&nbsp; Eg. {{c1::Ibuprofen}}<span style=\"font-weight:bold\">&nbsp;</span></div>",
+                                        "<img src=\"paste-b077ca3203843090edd9dc3c5db26b7f2db58aa4.jpg\" style=\"width: 560px;\" class=\"resizer\"><br>*Not an objective but in&nbsp;<font color=\"#fc0107\">RED</font>",
+                                        "<div>{{c1::Enteral}}: feed drugs by GI tract</div>\n<div><b>Oral</b>-</div>\n<div><font color=\"#fc0107\">Disadvantages</font>:</div>\n<div>{{c1::First pass-}}-- metabolism of drug in GI and liver before the drug\nreaches blood circulation</div>\n<div>&nbsp;</div>\n<div>{{c1::Bioavailability}} is the fraction of administered drug that gains access to\nthe systemic circulation in an unchanged form</div>\n<div>&nbsp;</div>\n<div>Oral Bioavailability is {{c1::less\nthan 100%}} due to {{c1::first pass}}</div>\n<div>&nbsp;</div>\n<div><b>Sublingual</b>- lacks {{c1::First Pass&nbsp;}}</div>\n<div>&nbsp;</div>\n<div><b>Rectal</b>- bypass {{c1::liver}} (the veins below {{c1::pectinate line [dentate line]}} draining\ndirectly to the general circulation)<br>&nbsp;<br></div>\n<div><font color=\"#fc0107\">Disadvantage</font>:</div>\n<div>Drugs are put into rectum too deep passing {{c1::pectinate line}} then undergoes {{c1::first pass}}</div>",
+                                        "<div><img src=\"paste-aafc2d23847b106e1fb7b9f7a9df1e273459d25d.jpg\" style=\"width: 564px;\" class=\"resizer\"><br><img src=\"paste-997072466fc628e81db108cb69ed1ad4c0edb8c6.jpg\" style=\"width: 570px;\" class=\"resizer\"><br>*List common routes of drug administration and compare and contrast their relative advantages and\ndisadvantages.</div>",
+                                        "<div>{{c1::Parenteral}}: feed drugs by non-GI route {{c1::(injection)}}</div>\n<div>&nbsp;</div>\n<div>{{c1::Intravenous (IV)}}- </div>\n<div>Advantage:</div>\n<div>Bioavailability is {{c1::100}}%</div>\n<div>&nbsp;</div>\n<div>{{c1::Intramuscular}} (IM)-</div>\n<div>Advantages:</div>\n<div>Fairly rapid absorption of {{c1::water}} soluble drugs</div>\n<div>depot preparations ({{c1::slow\nreleasing}})<br><br><div>{{c1::Subcutaneous (S.C)}}-<br></div>\n<div>The drug injected then moves into {{c1::capillaries}} or reaches\nthe bloodstream through the {{c1::lymphatic\nvessels&nbsp;}}&nbsp;{{c1::(insulin\nenter lymphatic vessel)}}</div>\n<div>&nbsp;</div>\n<div>Eg. {{c1::protein}}\ndrugs because such drugs would be digested in\nthe digestive tract if they are taken orally</div></div>",
+                                        "<img src=\"paste-13ffe121c962040301ab3679e7ff2456388919f0.jpg\" style=\"width: 620px;\" class=\"resizer\"><img src=\"paste-bf04a381d1f410f79a7d87528496005716c347d9.jpg\" style=\"width: 620px;\" class=\"resizer\"><br>*List common routes of drug administration and compare and contrast their relative advantages and\ndisadvantages.",
+                                        "<div><font color=\"#fc0107\"><b>Categorize administration route:</b></font>&nbsp;{{c1::Local}}</div>\n<div>&nbsp;Eg:</div>\n<ul>\n<li>Cutaneous\n     (topical)</li></ul>\n<ul>\n<li>Percutaneous\n     (transdermal)</li></ul>\n<ul>\n<li>Nasal</li></ul>\n<ul>\n<li>inhalational</li></ul>\n<ul>\n<li>Vaginally</li></ul>\n<ul>\n<li>Eye\n     drop</li></ul>",
+                                        "<img src=\"paste-43f12f5c20ad4487e0ac8607be5c0b15bc45cdd3.jpg\" style=\"width: 554px;\" class=\"resizer\"><br>*List common routes of drug administration and compare and contrast their relative advantages and\ndisadvantages.",
+                                        "<b>Space for correct procedure:</b><br><div>-Lumber\npuncture- {{c1::Intrathecal}} aka [{{c1::subarachnoid space}}]<br>-<font color=\"#fc0107\">Epidural</font>= {{c1::Epidural Space<br></div>",
+                                        "<img src=\"paste-2ac88692130b85ad033b3b6f93f5c1aa7e978f7d.jpg\" style=\"width: 606px;\" class=\"resizer\"><br>*List common routes of drug administration&nbsp;and compare and contrast their relative advantages and disadvantages.",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "wqx|BAApAu",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Pharm::Block1::Week1::A"
@@ -693,7 +766,7 @@
                     "ord": 11,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "description": "",
