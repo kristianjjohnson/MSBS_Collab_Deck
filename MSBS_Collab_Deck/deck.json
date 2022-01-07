@@ -109,7 +109,15 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-1-A.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-1-Q.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-2-A.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-2-Q.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-3-A.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-3-Q.svg",
+                                "93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg",
                                 "Screen Shot 2022-01-05 at 7.45.33 PM.png",
+                                "paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png",
                                 "paste-da4f807433040c37f81dc5bba89e03f399e41870.png"
                             ],
                             "name": "Mercedes IMUN",
@@ -149,6 +157,63 @@
                                     "tags": [
                                         "**MSBS::IMUN::Block1::Week1::A"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "93f4db88115c4043a8ecd45a01d7dffa-ao-1",
+                                        "",
+                                        "<img src=\"paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-1-A.svg\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Il2K*humJ.",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "93f4db88115c4043a8ecd45a01d7dffa-ao-2",
+                                        "",
+                                        "<img src=\"paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-2-A.svg\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg\" />"
+                                    ],
+                                    "guid": "nzKPVhc_-=",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "93f4db88115c4043a8ecd45a01d7dffa-ao-3",
+                                        "",
+                                        "<img src=\"paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-3-A.svg\" />",
+                                        "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg\" />"
+                                    ],
+                                    "guid": "KM0$un;~>I",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -201,74 +266,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-A.svg",
-                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-Q.svg",
-                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-O.svg",
-                                "7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg",
-                                "7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg",
-                                "7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg",
-                                "paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png",
-                                "paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png",
-                                "paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png"
-                            ],
+                            "media_files": [],
                             "name": "Kris MBM2",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><div><span style=\"font-weight: 700;\">! Ways cell gene expression can be controlled or disrupted!</span><b><br><br><font color=\"#fc0107\">Transcriptional regulation:&nbsp;</font></b></div><div><div>- Adding {{c1::methyl groups}} on the {{c1::sequence}} a transcription factor needs to bind to will {{c1::decrease}} transcription of a gene and it's expression.&nbsp;&nbsp;</div></div><div><div>- Mutations or methylation of introns can cause {{c1::improper splicing}} (removal of interons), causing {{c1::exons}} to be left out or junk introns being left in the final {{c1::mRNA transcript}}. This messes up the proteins shape causing it to be {{c1::ubiquitied}} (targeted for destruction) by the {{c1::unfolded protein response}} (UPR).&nbsp;</div></div></div><div><div><b><br><font color=\"#fc0107\">Translational Regulation&nbsp;</font></b></div><div><div>- Micro RNAs (miRNA) can {{c1::bind to an mRNA transcript}} causing it to jam when trying to be {{c1::translated by the ribosome}}.&nbsp;</div></div></div><div><div><b><br><font color=\"#fc0107\">Histone regulation&nbsp;</font></b></div><div><div>- {{c1::HATS}} Open up histones {{c1::(increasing transcriptional access and gene expression)}} by adding negative acytal groups.&nbsp;</div><div>- {{c1::DACS}} deacetylate histones {{c1::(decrease transcriptional access and gene expression)}} allowing the now more positive histones hold negative DNA more tightly.&nbsp;</div></div></div>",
-                                        "*&nbsp;<span style=\"font-weight: bold;\">Differentiate the means in which gene expression can be controlled or disrupted. (1 Q on exam involving methylation or histones)</span>&nbsp;<br><img class=\"resizer\" src=\"paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png\" style=\"width: 956px;\">"
-                                    ],
-                                    "guid": "fgk|U8{,IY",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::MBM2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "2ac48c4cdcce4e46bc66b8d28be76159-ao-1",
-                                        "Describe how metabolic fuels are used",
-                                        "<img src=\"paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png\" />",
-                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-1-Q.svg\" class=\"resizer\" style=\"width: 954px;\">",
-                                        "",
-                                        "SLO: Describe how metabolic fuels are used and stored",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-1-A.svg\" />",
-                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-O.svg\" />"
-                                    ],
-                                    "guid": "N_z6()U]z`",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::MBM2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "7c480dbcf1734f49805e3a05e202dd2e-ao-1",
-                                        "Describe how metabolic fuels are stored",
-                                        "<img src=\"paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png\" class=\"resizer\">",
-                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg\" />",
-                                        "",
-                                        "SLO: Describe how metabolic fuels are used and stored",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg\" />",
-                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg\" />"
-                                    ],
-                                    "guid": "h,D)b{,{FQ",
-                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::MBM2::Block1::Week1::A"
-                                    ]
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -345,9 +345,360 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-1-A.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-1-Q.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-2-A.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-2-Q.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-3-A.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-3-Q.svg",
+                                "0b70cec236d94443a6eb7e90ad56eb1e-ao-O.svg",
+                                "975cf95bdc4e46ffbab2577675f54469-ao-1-A.svg",
+                                "975cf95bdc4e46ffbab2577675f54469-ao-1-Q.svg",
+                                "975cf95bdc4e46ffbab2577675f54469-ao-O.svg",
+                                "Screen Shot 2022-01-06 at 1.04.07 PM.png",
+                                "Screen Shot 2022-01-06 at 1.13.09 PM.png",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-1-A.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-1-Q.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-2-A.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-2-Q.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-3-A.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-3-Q.svg",
+                                "ac256c7262d846dd97a6b6862ebb0523-ao-O.svg",
+                                "cf56ad171357475bb333837123f8a812-ao-1-A.svg",
+                                "cf56ad171357475bb333837123f8a812-ao-1-Q.svg",
+                                "cf56ad171357475bb333837123f8a812-ao-O.svg",
+                                "paste-0294ade1756706db3c837585a855638200bd44e7.png",
+                                "paste-06cc3605dc5ad41d1f5f85050a87cfb6817fa148.png",
+                                "paste-106e4d425686c2d50994e46a6464ccdbccf74355.png",
+                                "paste-23a6d9cfe59b7014502d44fa5f07d18447dea764.png",
+                                "paste-31aa6044eecf6fae73338998576f4f567c68ca45.png",
+                                "paste-50b4973282769f0863183b32d4d60804d73d78df.jpg",
+                                "paste-6811fba8f5998028050317edc00f7adfebfe666b.png",
+                                "paste-779aef410f130a8fe48aa5c86cf19ba241c8bf07.png",
+                                "paste-82821ebb540e8600e30fae3765ad1a8bacd1d17f.png",
+                                "paste-9c18bd72a54283b7685ac59f4f29b5a3dfeb88de.png",
+                                "paste-a16f81ecb31d738ae22cf70ea29a7b16e533d90b.png",
+                                "paste-b345e1d7b5c9c3272f66b481b8cf58b27dd76c22.png",
+                                "paste-c4a54c404883d254133538c2e8f9ac2d8f8783f5.png",
+                                "paste-de1ff2cb861e5510645ffe079a653d9104d02098.png",
+                                "paste-e42b67f3280db604a9a3b8ffec9be8f1197a0346.png"
+                            ],
                             "name": "Mercedes PHYS2",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Hormones:&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">secreted systemically in the circulation</span></span>}}<br><ul><li><div><span style=\"color: windowtext;\"><span style=\"color: black;\">{{c1::Gastrin, cholecystokinin (CCK), secretin, Glucose-dependent insulinotropic peptide (GIP), motilin::Examples?}}</span>&nbsp;</span></div></li></ul><div style=\"display: inline !important;\"><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Paracrines</span><span style=\"background-color: inherit;\">:&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">diffuse short distances to nearby target cells</span></span>}}</div><ul><li>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Somatostatin, histamine::Examples?</span></span>}}</li></ul><span style=\"background-color: inherit;\">Neurocrines</span><span style=\"background-color: inherit;\">:&nbsp;</span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">released in response to an action potential across a synapse onto specific target cells</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}<br><ul><li>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Ach, NE, Gastrin-Releasing Peptide (GRP aka Bombesin), enkephalins (opiates)::Examples?</span></span>}}<div></div></li></ul>",
+                                        "<span style=\"color: windowtext; font-weight: bold;\">** SLO 18. Differentiate between mechanisms of hormones,&nbsp;paracrines, and&nbsp;neurocrines</span><span style=\"color: windowtext;\">&nbsp;<br></span><img src=\"paste-31aa6044eecf6fae73338998576f4f567c68ca45.png\" class=\"resizer\" style=\"width: 1024px;\"><span style=\"color: windowtext;\"><br></span>"
+                                    ],
+                                    "guid": "rj6Pp!ypdS",
+                                    "note_model_uuid": "e1fa2dae-6eb3-11ec-bc0a-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0b70cec236d94443a6eb7e90ad56eb1e-ao-1",
+                                        "<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">**SLO 19: For gastrin, CCK, Secretin, GIP, and motilin: know the stimuli for secretion, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions. Note: we will&nbsp;discus&nbsp;CCK, secretin, and GIP again)</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.04.07 PM.png\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-1-A.svg\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "gKziQ>Kcsq",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0b70cec236d94443a6eb7e90ad56eb1e-ao-2",
+                                        "<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">**SLO 19: For gastrin, CCK, Secretin, GIP, and motilin: know the stimuli for secretion, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions. Note: we will&nbsp;discus&nbsp;CCK, secretin, and GIP again)</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.04.07 PM.png\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-2-A.svg\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "*=_<.hIDu",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0b70cec236d94443a6eb7e90ad56eb1e-ao-3",
+                                        "<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">**SLO 19: For gastrin, CCK, Secretin, GIP, and motilin: know the stimuli for secretion, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions. Note: we will&nbsp;discus&nbsp;CCK, secretin, and GIP again)</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.04.07 PM.png\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-3-A.svg\" />",
+                                        "<img src=\"0b70cec236d94443a6eb7e90ad56eb1e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vUs,u-[[xo",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ac256c7262d846dd97a6b6862ebb0523-ao-1",
+                                        "<div><div><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">**SLO 20:&nbsp;<b>For somatostatin, histamine, and GRP: know the stimuli for release, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions</b></span></span><span style=\"color: windowtext;\">&nbsp;</span></div></div></div>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.13.09 PM.png\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-1-A.svg\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-O.svg\" />"
+                                    ],
+                                    "guid": "w-]Xyl7aaT",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ac256c7262d846dd97a6b6862ebb0523-ao-2",
+                                        "<span style=\"color: windowtext;\">**SLO 20:&nbsp;<b>For somatostatin, histamine, and GRP: know the stimuli for release, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions</b></span><span style=\"color: windowtext;\">&nbsp;</span>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.13.09 PM.png\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-2-A.svg\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-O.svg\" />"
+                                    ],
+                                    "guid": "lK^BB?LtyG",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ac256c7262d846dd97a6b6862ebb0523-ao-3",
+                                        "<span style=\"color: windowtext;\">**SLO 20:&nbsp;<b>For somatostatin, histamine, and GRP: know the stimuli for release, inhibiting factors, cell type that secretes it and location (just stomach vs duodenum is adequate), and actions</b></span><span style=\"color: windowtext;\">&nbsp;</span>",
+                                        "<img src=\"Screen Shot 2022-01-06 at 1.13.09 PM.png\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-3-A.svg\" />",
+                                        "<img src=\"ac256c7262d846dd97a6b6862ebb0523-ao-O.svg\" />"
+                                    ],
+                                    "guid": "i=R*_%c17w",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><div>Function of saliva:\n{{c1::initial digestion, buffers acidic food, and lubricates food to facilitate\nswallowing}}</div>\n<div>Structure of salivary\nglands: {{c1::branching duct system ending in acini}}</div>\n<div>Composition of\nsaliva: {{c1::mucous, Na, K, Cl, HCO3, and proteins}}</div>\n<ul>\n<li>Digestive enzymes: {{c1::amylase\n     (digests carbs), lipase (digests fats)}}</li>\n<li>Antimicrobials: {{c1::IgA, lysozymes}}</li>\n</ul>\n<div>Modification occurs\nduring transit through the duct</div>\n<ul>\n<li>The lower the saliva flow\n     rate, {{c1::the more ductal modification (and vise versa)}}</li>\n<li>This is something that tends\n     to come up regularly despite questionable clinical significance</li>\n</ul>\n<div>Three primary\nsalivary glands:</div>\n<ol>\n<li>{{c1::Parotid}}</li>\n<li>{{c1::Sublingual}}</li>\n<li>{{c1::Submandibular}}</li></ol></div>",
+                                        "<div><span style=\"font-weight:bold\">**SLO 22: Know the functions of saliva, composition of saliva,\ngeneral structure of salivary glands, three primary salivary glands.</span></div><br><img src=\"paste-6811fba8f5998028050317edc00f7adfebfe666b.png\" class=\"resizer\" style=\"width: 946px;\">"
+                                    ],
+                                    "guid": "KcxVGwfBPr",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "cf56ad171357475bb333837123f8a812-ao-1",
+                                        "<span style=\"color: windowtext; font-weight: bold;\"><span style=\"background-color: inherit;\">** SLO 23: Describe the regulation of saliva (ANS and main factors influencing the PNS)</span></span><span style=\"color: windowtext;\">&nbsp;</span>",
+                                        "<img src=\"paste-50b4973282769f0863183b32d4d60804d73d78df.jpg\" />",
+                                        "<img src=\"cf56ad171357475bb333837123f8a812-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "<ul><li><span style=\"color: rgb(64, 64, 64);\">Both\nparasympathetic and sympathetic systems increase saliva secretion, however, </span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">parasympathetic influences are by far the most\nsignificant</span></li></ul>",
+                                        "<img src=\"paste-9c18bd72a54283b7685ac59f4f29b5a3dfeb88de.png\" class=\"resizer\" style=\"width: 645px;\">",
+                                        "<img src=\"cf56ad171357475bb333837123f8a812-ao-1-A.svg\" />",
+                                        "<img src=\"cf56ad171357475bb333837123f8a812-ao-O.svg\" />"
+                                    ],
+                                    "guid": "tXaDwIM,.^",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"background-color: rgb(255, 255, 153);\">Mucous cells</span>: {{c1::secretes mucous (glycoproteins\nand bicarb protecting the stomach lining)}}</div>\n<div><span style=\"background-color: rgb(255, 255, 153);\">Chief cells</span>: {{c1::secretes pepsinogen (low pH\nconverts to pepsin, a protein-digesting enzyme)}}</div>\n<div><span style=\"background-color: rgb(255, 255, 153);\">Parietal cells</span>: {{c1::secretes intrinsic factor\n(protein that binds vitamin B12 and is necessary for B12 absorption) and HCl\n(lowers pH which activates pepsin, protects against microorganisms, and helps\ndigest)}}</div>\n<div>&nbsp;</div>\n<div>Complex regulation\nsystem that has significant clinical implications</div>\n<div>G cells are present\nin the stomach (not in the glands) and secrete gastrin</div>",
+                                        "<span style=\"color: windowtext; font-weight: bold;\"><span style=\"background-color: inherit;\">** SLO 25: Know the primary regulatory cells of the stomach, their roles, secretions/products, and impact of upregulation or downregulation</span></span><span style=\"color: windowtext;\">&nbsp;</span><br><br><img src=\"paste-779aef410f130a8fe48aa5c86cf19ba241c8bf07.png\" class=\"resizer\" style=\"width: 946px;\">"
+                                    ],
+                                    "guid": "B,,8pyjBON",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "975cf95bdc4e46ffbab2577675f54469-ao-1",
+                                        "<div><span style=\"font-weight:bold\">**SLO 30: Understand the protective and damaging factors to GI\nmucus layer and mucosa</span></div>",
+                                        "<img src=\"paste-06cc3605dc5ad41d1f5f85050a87cfb6817fa148.png\" />",
+                                        "<img src=\"975cf95bdc4e46ffbab2577675f54469-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "<div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Too much acid can cause:</span></span><span style=\"color: windowtext;\">&nbsp;</span></div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">GERD (if gastric contents reflux)</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Peptic ulcers (if protective factors are compromised)</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Duodenal ulcers in small bowel (if protective factors are compromised)</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li></ul>",
+                                        "",
+                                        "<img src=\"975cf95bdc4e46ffbab2577675f54469-ao-1-A.svg\" />",
+                                        "<img src=\"975cf95bdc4e46ffbab2577675f54469-ao-O.svg\" />"
+                                    ],
+                                    "guid": "o/0)rD(#7;",
+                                    "note_model_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"background-color: rgb(255, 255, 153);\">Cephalic phase</span>: Starts eating -&gt; vagal\ncenter in medulla kickstarts {{c1::salivation and sends ACh signal to parietal cells\nand GRP to G cells}} -&gt; parietal cells secrete {{c1::HCl}} -&gt; G cells release\n{{c1::gastrin to help parietal cells::which hormone?}} -&gt; gastrin recruits {{c1::ECL cells::What kind of cells?}} to {{c1::release histamine\nand help parietal cells more::Do what?}}</div>",
+                                        "<b>**SLO 28:&nbsp;</b><span style=\"color: windowtext; background-color: rgb(255, 0, 0); font-weight: bold;\"><span style=\"background-color: inherit;\">Describe the cellular responses and interactions of the cephalic phase, gastric phase, and intestinal phase and how the gastric environment is returned to normal</span></span><span style=\"color: windowtext;\">&nbsp;</span><br><br><img src=\"paste-de1ff2cb861e5510645ffe079a653d9104d02098.png\" class=\"resizer\" style=\"\">"
+                                    ],
+                                    "guid": "c~)w1.GvIl",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"background-color: rgb(255, 255, 153);\">Gastric phase</span>: Stomach distension -&gt; more\nvagus nerve signals to {{c1::increase HCl}} and the distension and food proteins directly\nactivate {{c1::G cells::which cells?}} to release {{c1::more gastrin::which hormone?}} -&gt; if drinking alcohol/caffeine, {{c1::G\ncells::which cells?}} are further stimulated -&gt; {{c1::gastrin::which hormone?}} also recruits {{c1::Chief cells::which cells?}} to make\n{{c1::more pepsinogen::what enzyme?}} -&gt; HCl converts {{c1::pepsinogen into pepsin::enzyme into what?}}.</div>",
+                                        "<div><span style=\"font-weight: bold; background-color: red;\">** SLO 28: Describe the cellular\nresponses and interactions of the cephalic phase, gastric phase, and intestinal\nphase and how the gastric environment is returned to normal<br></span><img src=\"paste-82821ebb540e8600e30fae3765ad1a8bacd1d17f.png\" class=\"resizer\" style=\"width: 946px;\"><span style=\"font-weight: bold; background-color: red;\"><br></span></div>"
+                                    ],
+                                    "guid": "un7znJk.#r",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"background-color: rgb(255, 255, 153);\">Intestinal phase</span>: food bolus is converted to\n{{c1::chyme}} -&gt; goes through {{c1::pylorus}} to the {{c1::duodenum}} -&gt; high HCl levels signal {{c1::D\ncells::what kind of cells?}} to release {{c1::somatostatin::which hormone?}} -&gt; {{c1::G cells and ECL cell::Which two types of cells?}} activity is slowed\ndown -&gt; stomach pH returns to normal -----&gt; {{c1::GIP and Secretin}} are sent\nover by small bowel to further help D cells {{c1::inhibit acid secretion::do what?}}</div>",
+                                        "<b>**SLO 28:</b><span style=\"color: windowtext; background-color: rgb(255, 0, 0); font-weight: bold;\"><span style=\"background-color: inherit;\">Describe the cellular responses and interactions of the cephalic phase, gastric phase, and intestinal phase and how the gastric environment is returned to normal</span></span><span style=\"color: windowtext;\">&nbsp;</span><br><br><img src=\"paste-23a6d9cfe59b7014502d44fa5f07d18447dea764.png\" class=\"resizer\" style=\"width: 946px;\">"
+                                    ],
+                                    "guid": "ANS3y;V_kI",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul>\n<li>Pancreatic juices (the\n     “Exocrine Pancreas”)</li>\n<ul>\n<li>HC03 to {{c1::neutralize incoming\n      acidic chyme::do what?}}</li>\n<li>Many digestive enzymes</li>\n</ul>\n<li>Bile (from the\n     liver/gallbladder)</li>\n<ul>\n<li>Helps with {{c1::the digestion and\n      absorption of lipids}}</li>\n<li>Major components of bile are {{c1::bile salts and acids, phospholipids, and bilirubin (a heme breakdown product)}}</li>\n</ul></ul>",
+                                        "<b>**SLO 29:&nbsp;</b><span style=\"color: windowtext; background-color: rgb(255, 0, 0); font-weight: bold;\"><span style=\"background-color: inherit;\">Explain the basics of pancreatic juices and bile</span></span><span style=\"color: windowtext;\">&nbsp;</span><br><br><img src=\"paste-106e4d425686c2d50994e46a6464ccdbccf74355.png\" class=\"resizer\" style=\"width: 946px;\">"
+                                    ],
+                                    "guid": "wkc[iYJZdE",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul>\n<li><span style=\"background-color: red;\">ETOH and Caffeine</span></li>\n<ul>\n<li>Upregulate {{c1::G cell secretion\n      of gastrin}}</li>\n<li>Coffee is also acidic&nbsp;</li>\n</ul></ul>",
+                                        "**SLO 31:&nbsp;<span style=\"font-weight: bold;\">Explain the GI pathophysiology of ETOH, Caffeine,\nNSAIDs, Stress ulcers, smoking, H pylori</span><br><br><img src=\"paste-c4a54c404883d254133538c2e8f9ac2d8f8783f5.png\" class=\"resizer\" style=\"width: 946px;\">"
+                                    ],
+                                    "guid": "xF{hhr:fv9",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><font color=\"rgba(0, 0, 0, 0.847058823529412)\">NSAIDS</font></div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Inhibit&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">prostaglandin synthesis (which inhibit parietal cells and ECL cells)</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Direct topical irritant to&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">mucosa/epithelial cells&nbsp;</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Reason we have enteric coated aspirin (reduces irritation)</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">We wouldn't want to give enteric coated aspirin for acute MI because&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">enteric-coated makes absorption slower; we want to take care of an acute MI quickly</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li></ul></li></ul>",
+                                        "**SLO 31:&nbsp;<span style=\"font-weight: bold;\">Explain the GI pathophysiology of ETOH, Caffeine, NSAIDs, Stress ulcers, smoking, H pylori<br></span><img src=\"paste-e42b67f3280db604a9a3b8ffec9be8f1197a0346.png\" class=\"resizer\" style=\"width: 946px;\"><span style=\"font-weight: bold;\"><br></span>"
+                                    ],
+                                    "guid": "PF5Qi=1&g.",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"color: windowtext; background-color: rgb(255, 0, 0);\"><span style=\"background-color: inherit;\">Stress ulcers&nbsp;</span></span><span style=\"color: windowtext;\">&nbsp;</span></div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Caused by&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">severe physiologic stress (sepsis, burns, mechanical ventilation in ICU), not anxiety</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Decreased&nbsp;</span></span><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">HCO</span></span><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">3</span></span><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">&nbsp;</span></span>}}in mucous and decreased</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\"> mucosal blood flow</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li></ul>",
+                                        "**SLO 31:&nbsp;<span style=\"font-weight: bold;\">Explain the GI pathophysiology of ETOH, Caffeine, NSAIDs, Stress ulcers, smoking, H pylori<br></span><img src=\"paste-a16f81ecb31d738ae22cf70ea29a7b16e533d90b.png\" class=\"resizer\"><span style=\"font-weight: bold;\"><br></span>"
+                                    ],
+                                    "guid": "m)Q+/|9/yJ",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"color: windowtext; background-color: rgb(255, 0, 0);\"><span style=\"background-color: inherit;\">Smoking</span></span><span style=\"color: windowtext;\">&nbsp;</span></div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Inhibits&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">prostaglandins</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Reduces&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">mucosal blood flow</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Quitting smoking is associated with healing of&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">ulcers</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li></ul>",
+                                        "<img src=\"paste-0294ade1756706db3c837585a855638200bd44e7.png\" class=\"resizer\">"
+                                    ],
+                                    "guid": "p1M#Gs-SC<",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><font color=\"rgba(0, 0, 0, 0.847058823529412)\">H.pylori</font></div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Bacterial infection that hides in&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">protective mucus layer + causes damage/inflammation to mucosa of stomach and duodenum</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div><ul><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Transmitted person-person, often groups of people and families will have infection.</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Chronic; can lead to gastritis, peptic ulcers, or even stomach cancer</span></span><span style=\"color: windowtext;\">&nbsp;</span></div></li></ul></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Produces {{c1::urease}}&nbsp;-&gt; {{c1::breaks down urea into basic ammonia::what does this enzyme do?}}&nbsp;-&gt; raises pH in local mucus to&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">protect bacteria from acid::do what?</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Diagnosis:&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">urea breath test or stool antigen test</span></span><span style=\"color: windowtext;\">&nbsp;</span>}}</div></li><li><div><span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">Treatment:&nbsp;</span></span>{{c1::<span style=\"color: windowtext;\"><span style=\"background-color: inherit;\">triple therapy - clarithromycin, amoxicillin/metronidazole, and proton pump inhibitor (could also add Bismuth)</span></span><span style=\"color: windowtext;\">&nbsp;::what abx are used?</span>}}</div></li></ul>",
+                                        "<span style=\"color: windowtext; font-weight: bold;\">SLO 31: Explain the GI pathophysiology of ETOH, Caffeine, NSAIDs, Stress ulcers, smoking, H pylori</span><span style=\"color: windowtext;\">&nbsp;<br></span><img src=\"paste-b345e1d7b5c9c3272f66b481b8cf58b27dd76c22.png\" class=\"resizer\" style=\"width: 946px;\"><span style=\"color: windowtext;\"><br></span>"
+                                    ],
+                                    "guid": "L2<$>,E5q;",
+                                    "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
+                                    "tags": [
+                                        "**MSBS::Physio2::Block1::Week1::B"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -419,7 +770,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div><font color=\"#f24033\"><b>Characteristics</b></font>: {{c1::Villi}}<b>&nbsp;&amp;&nbsp;</b>{{c1::Crypts}}</div>\n<div>Location:\n{{c1::small\nintestine}}</div>\n<div>Function:\nBoth increase\n{{c1::Surface Area}} and helps {{c1::with absorption}}</div>\n<div>Disease\ninvolvement: {{c1::Celiac}}\ndisease ({{c1::block folds}})</div>\n<div>&nbsp;</div>\n<div><font color=\"#f24033\"><b>Characteristics</b></font>: {{c1::Folds}}<b>&nbsp;</b>&amp; {{c1::Rugae}}</div>\n<div>Location:\n{{c1::stomach}} </div>\n<div>Function:\nallow for\n{{c1::expansion}}</div>",
-                                        "<img class=\"resizer\" src=\"paste-f6f7040015a89cb12d74a0a092fa792268fcde8f.jpg\" style=\"width: 616.188px;\"><br>*Describe the villi and crypts and predict\n     how changes in structure would impact function<br><br>From book:<br>-Structural features called villi and microvilli increase the surface area of the small intestine, maximizing the exposure of nutrients to digestive enzymes and creating a large absorptive surface.<br>-The epithelial cells lining the intestinal crypts secrete fluid and electrolytes (compared with the cells lining the villi, which absorb fluid and electrolytes)",
+                                        "<img src=\"paste-f6f7040015a89cb12d74a0a092fa792268fcde8f.jpg\" style=\"width: 250px;\" class=\"resizer\"><br>*Describe the villi and crypts and predict\n     how changes in structure would impact function<br><br>From book:<br>-Structural features called villi and microvilli increase the surface area of the small intestine, maximizing the exposure of nutrients to digestive enzymes and creating a large absorptive surface.<br>-The epithelial cells lining the intestinal crypts secrete fluid and electrolytes (compared with the cells lining the villi, which absorb fluid and electrolytes)",
                                         "",
                                         "",
                                         "",
@@ -821,7 +1172,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze-58ca9",
+            "name": "Cloze",
             "req": [
                 [
                     0,
@@ -849,67 +1200,11 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "crowdanki_uuid": "cd245996-6f5c-11ec-8afb-367dda438019",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
                     "name": "ID (hidden)",
                     "ord": 0,
                     "rtl": false,
@@ -918,7 +1213,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Header",
                     "ord": 1,
                     "rtl": false,
@@ -927,7 +1221,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Image",
                     "ord": 2,
                     "rtl": false,
@@ -936,7 +1229,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Question Mask",
                     "ord": 3,
                     "rtl": false,
@@ -945,7 +1237,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Footer",
                     "ord": 4,
                     "rtl": false,
@@ -954,7 +1245,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Remarks",
                     "ord": 5,
                     "rtl": false,
@@ -963,7 +1253,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Sources",
                     "ord": 6,
                     "rtl": false,
@@ -972,7 +1261,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Extra 1",
                     "ord": 7,
                     "rtl": false,
@@ -981,7 +1269,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Extra 2",
                     "ord": 8,
                     "rtl": false,
@@ -990,7 +1277,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Answer Mask",
                     "ord": 9,
                     "rtl": false,
@@ -999,7 +1285,6 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
                     "name": "Original Mask",
                     "ord": 10,
                     "rtl": false,
@@ -1021,13 +1306,9 @@
                 ]
             ],
             "sortf": 1,
-            "tags": [
-                "Exponent",
-                "rules"
-            ],
             "tmpls": [
                 {
-                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1035,11 +1316,10 @@
                     "did": null,
                     "name": "IO Card",
                     "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
-            "type": 0,
-            "vers": []
+            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -1317,7 +1597,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze-0ce33",
+            "name": "Cloze-5e38d",
             "req": [
                 [
                     0,
