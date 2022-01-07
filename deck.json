@@ -266,9 +266,74 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-A.svg",
+                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-Q.svg",
+                                "2ac48c4cdcce4e46bc66b8d28be76159-ao-O.svg",
+                                "7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg",
+                                "7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg",
+                                "7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg",
+                                "paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png",
+                                "paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png",
+                                "paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png"
+                            ],
                             "name": "Kris MBM2",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><div><span style=\"font-weight: 700;\">! Ways cell gene expression can be controlled or disrupted!</span><b><br><br><font color=\"#fc0107\">Transcriptional regulation:&nbsp;</font></b></div><div><div>- Adding {{c1::methyl groups}} on the {{c1::sequence}} a transcription factor needs to bind to will {{c1::decrease}} transcription of a gene and it's expression.&nbsp;&nbsp;</div></div><div><div>- Mutations or methylation of introns can cause {{c1::improper splicing}} (removal of interons), causing {{c1::exons}} to be left out or junk introns being left in the final {{c1::mRNA transcript}}. This messes up the proteins shape causing it to be {{c1::ubiquitied}} (targeted for destruction) by the {{c1::unfolded protein response}} (UPR).&nbsp;</div></div></div><div><div><b><br><font color=\"#fc0107\">Translational Regulation&nbsp;</font></b></div><div><div>- Micro RNAs (miRNA) can {{c1::bind to an mRNA transcript}} causing it to jam when trying to be {{c1::translated by the ribosome}}.&nbsp;</div></div></div><div><div><b><br><font color=\"#fc0107\">Histone regulation&nbsp;</font></b></div><div><div>- {{c1::HATS}} Open up histones {{c1::(increasing transcriptional access and gene expression)}} by adding negative acytal groups.&nbsp;</div><div>- {{c1::DACS}} deacetylate histones {{c1::(decrease transcriptional access and gene expression)}} allowing the now more positive histones hold negative DNA more tightly.&nbsp;</div></div></div>",
+                                        "*&nbsp;<span style=\"font-weight: bold;\">Differentiate the means in which gene expression can be controlled or disrupted. (1 Q on exam involving methylation or histones)</span>&nbsp;<br><img class=\"resizer\" src=\"paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png\" style=\"width: 956px;\">"
+                                    ],
+                                    "guid": "fgk|U8{,IY",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "2ac48c4cdcce4e46bc66b8d28be76159-ao-1",
+                                        "Describe how metabolic fuels are used",
+                                        "<img src=\"paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png\" />",
+                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-1-Q.svg\" class=\"resizer\" style=\"width: 954px;\">",
+                                        "",
+                                        "SLO: Describe how metabolic fuels are used and stored",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-1-A.svg\" />",
+                                        "<img src=\"2ac48c4cdcce4e46bc66b8d28be76159-ao-O.svg\" />"
+                                    ],
+                                    "guid": "N_z6()U]z`",
+                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "7c480dbcf1734f49805e3a05e202dd2e-ao-1",
+                                        "Describe how metabolic fuels are stored",
+                                        "<img src=\"paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png\" class=\"resizer\">",
+                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg\" class=\"resizer\">",
+                                        "",
+                                        "SLO: Describe how metabolic fuels are used and stored",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg\" />",
+                                        "<img src=\"7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "h,D)b{,{FQ",
+                                    "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -1172,7 +1237,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-76857",
             "req": [
                 [
                     0,
@@ -1295,7 +1360,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-a31d2",
             "req": [
                 [
                     0,
@@ -1320,6 +1385,200 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [
+                "Exponent",
+                "rules"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
         },
         {
             "__type__": "NoteModel",
