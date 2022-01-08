@@ -273,8 +273,13 @@
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg",
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg",
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg",
+                                "Screen Shot 2022-01-08 at 12.25.00 AM.png",
+                                "paste-06f0a88b2035c753042548cb6d4305616633d1b7.png",
+                                "paste-06faf265136b066cff9ba2a7d162ce2c308ba5b6.png",
+                                "paste-92bfc165e2775ef93f62f489ad9dd4339c5ef1b8.png",
                                 "paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png",
                                 "paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png",
+                                "paste-d216587b3eb777aa283c4430f4a6a0bbff056db0.png",
                                 "paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png"
                             ],
                             "name": "Kris MBM2",
@@ -329,6 +334,42 @@
                                     ],
                                     "guid": "h,D)b{,{FQ",
                                     "note_model_uuid": "50f6d226-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Describe the role glucose as a fuel source in different tissues.&nbsp;</b><br><br><div><div>These cells use glucose as their primary energy source: {{c1::Neurons}} (brain tissue), {{c1::RBCs}} (contain&nbsp;no mitochondria).<br><br></div></div><div><div>Normal blood glucose levels peak {{c1::1}} hour after a meal then should be {{c1::80-100}} mg/dl {{c1::2}} hours after eating... Mercedies!&nbsp;&nbsp;</div></div>",
+                                        "* Describe the role glucose as a fuel source in different tissues.&nbsp;<br><img src=\"paste-06faf265136b066cff9ba2a7d162ce2c308ba5b6.png\" style=\"width: 956px;\" class=\"resizer\">"
+                                    ],
+                                    "guid": "taMJJQt&;p",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><div><span style=\"font-weight: bold;\">Fed State</span>&nbsp;</div></div><div><ul><li><div><span style=\"font-weight: bold;\">Digestive tract</span>&nbsp;breaks down carbs into&nbsp;{{c1::monosaccharides}} (simple sugars like glucose) and proteins into amino acids which go to {{c1::liver, brain, and muscles}}.&nbsp;&nbsp;</div></li><li><div><span style=\"font-weight: bold;\">Liver&nbsp;</span>starts creating these 3 important&nbsp;things:&nbsp;</div><ul><li><div>1. {{c1::Glycogen}} in a process called&nbsp;glycogenosis&nbsp;using&nbsp;{{c1::monosaccharides}} from digestion.&nbsp;</div></li><li><div>2. {{c1::Triacylglycerols}}&nbsp;in the process of&nbsp;Triacylglycerol Synthesis&nbsp;using&nbsp;{{c1::monosaccharides}} from digestion.&nbsp;</div></li><li><div>3. {{c1::Albumin}}&nbsp;using&nbsp;Amino acids from digestion.&nbsp;&nbsp;</div></li></ul></li><li><div><span style=\"font-weight: bold;\">Adipose tissue</span>&nbsp;stores fat droplets that it creates from triacylglycerols sent through the blood on chylomicrons (cholesterol balls) from the intestinal epithelial cells.&nbsp;</div></li></ul></div><div><div><span style=\"font-weight: bold;\">Fasting State</span>&nbsp;</div><ul><li><div><span style=\"font-weight: bold;\">Liver&nbsp;</span>starts {{c1::glycogenolysis}} to break down glycogen and breaks down {{c1::fatty&nbsp;acids}}&nbsp;into&nbsp;ketone bodes.&nbsp;</div></li><li><div><span style=\"font-weight: bold;\">Adipose tissue</span>&nbsp;begins {{c1::lipolysis}} which oxidizes&nbsp;triacylglycerols to produce either {{c1::acetyl-coA}}&nbsp;for the&nbsp;Krebs aka {{c1::tricarboxylic acid}}&nbsp;(TCA) cycle. Can also&nbsp;oxidizes&nbsp;triacylglycerols into&nbsp;{{c1::ketone}} bodies.</div></li></ul></div>",
+                                        "* Compare and contrast metabolic processes during the fed and fasting states.&nbsp;<br><img src=\"paste-06f0a88b2035c753042548cb6d4305616633d1b7.png\" style=\"width: 956px;\" class=\"resizer\"><br><img src=\"paste-d216587b3eb777aa283c4430f4a6a0bbff056db0.png\" style=\"width: 956px;\" class=\"resizer\">"
+                                    ],
+                                    "guid": "qe8;}&k}08",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Describe the role of hormones in regulating metabolic pathways<br><img src=\"Screen Shot 2022-01-08 at 12.25.00 AM.png\" style=\"width: 250px;\" class=\"resizer\">",
+                                        "<div>\n<div>\n<div><img src=\"paste-92bfc165e2775ef93f62f489ad9dd4339c5ef1b8.png\" style=\"width: 956px;\" class=\"resizer\"></div>\n</div></div>"
+                                    ],
+                                    "guid": "vAEBN:4**9",
+                                    "note_model_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
                                     "tags": [
                                         "**MSBS::MBM2::Block1::Week1::A"
                                     ]
@@ -1575,6 +1616,61 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0,
