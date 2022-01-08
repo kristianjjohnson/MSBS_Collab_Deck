@@ -24,7 +24,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "a3074b6e-70ce-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a3075398-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -71,6 +71,19 @@
                             "media_files": [],
                             "name": "Ricky ANAT2",
                             "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d57563a8-70d1-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Rolando ANAT2",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f67330-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -103,7 +116,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "a30c7b84-70ce-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a30c7ecc-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -255,6 +268,19 @@
                             "media_files": [],
                             "name": "Ricky IMUN",
                             "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d57b23c4-70d1-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Rolando IMUN",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f720c8-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -287,7 +313,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "a310e782-70ce-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a310eb2e-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -439,6 +465,19 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Ricky  MBM2",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d5803f08-70d1-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Rolando MBM2",
                             "notes": []
                         }
                     ],
@@ -955,6 +994,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d58a702c-70d1-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Rolando PHYS2",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f94876-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -987,7 +1039,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "a3158bc0-70ce-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a3158f6c-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -1220,6 +1272,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "d5855916-70d1-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Rolando Pharm",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f8a542-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -1307,262 +1372,6 @@
                 "stepEase": 5,
                 "stopEase": 250,
                 "straightLength": 2
-            },
-            "timer": 0
-        },
-        {
-            "DisableFW": 0,
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "a3075398-70ce-11ec-9756-8c85906ce275",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "leechAction": 1,
-                "leechFails": 4,
-                "minInt": 1,
-                "mult": 0.2
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    3,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 9999,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.5,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 180,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "straightReward": {
-                "baseEase": 15,
-                "enableNotifications": true,
-                "startEase": 130,
-                "stepEase": 5,
-                "stopEase": 250,
-                "straightLength": 0
-            },
-            "timer": 0
-        },
-        {
-            "DisableFW": 0,
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "a30c7ecc-70ce-11ec-9756-8c85906ce275",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "leechAction": 1,
-                "leechFails": 4,
-                "minInt": 1,
-                "mult": 0.2
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    3,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 9999,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.5,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 180,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "straightReward": {
-                "baseEase": 15,
-                "enableNotifications": true,
-                "startEase": 130,
-                "stepEase": 5,
-                "stopEase": 250,
-                "straightLength": 0
-            },
-            "timer": 0
-        },
-        {
-            "DisableFW": 0,
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "a310eb2e-70ce-11ec-9756-8c85906ce275",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "leechAction": 1,
-                "leechFails": 4,
-                "minInt": 1,
-                "mult": 0.2
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    3,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 9999,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.5,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 180,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "straightReward": {
-                "baseEase": 15,
-                "enableNotifications": true,
-                "startEase": 130,
-                "stepEase": 5,
-                "stopEase": 250,
-                "straightLength": 0
-            },
-            "timer": 0
-        },
-        {
-            "DisableFW": 0,
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "a3158f6c-70ce-11ec-9756-8c85906ce275",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "leechAction": 1,
-                "leechFails": 4,
-                "minInt": 1,
-                "mult": 0.2
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    3,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 9999,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.5,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 180,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "straightReward": {
-                "baseEase": 15,
-                "enableNotifications": true,
-                "startEase": 130,
-                "stepEase": 5,
-                "stopEase": 250,
-                "straightLength": 0
             },
             "timer": 0
         },
