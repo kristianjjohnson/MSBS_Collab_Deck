@@ -23,6 +23,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "a3074b6e-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a3075398-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Elsa ANAT2",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "50f6b548-6daa-11ec-9cd8-367ddaa5f0a8",
                             "deck_config_uuid": "50f9d35e-6daa-11ec-9cd8-367ddaa5f0a8",
                             "desc": "",
@@ -84,6 +97,19 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Amin  IMUN",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "a30c7b84-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a30c7ecc-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Elsa IMUN",
                             "notes": []
                         },
                         {
@@ -260,6 +286,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "a310e782-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a310eb2e-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Elsa MBM2",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "50f8358a-6daa-11ec-9cd8-367ddaa5f0a8",
                             "deck_config_uuid": "50f9d35e-6daa-11ec-9cd8-367ddaa5f0a8",
                             "desc": "",
@@ -427,6 +466,19 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Amin PHYS2",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "a319eabc-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Elsa PHYS2",
                             "notes": []
                         },
                         {
@@ -934,6 +986,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "a3158bc0-70ce-11ec-9756-8c85906ce275",
+                            "deck_config_uuid": "a3158f6c-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Elsa Pharm",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "50f8e94e-6daa-11ec-9cd8-367ddaa5f0a8",
                             "deck_config_uuid": "50f9d35e-6daa-11ec-9cd8-367ddaa5f0a8",
                             "desc": "",
@@ -1242,6 +1307,326 @@
                 "stepEase": 5,
                 "stopEase": 250,
                 "straightLength": 2
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a3075398-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a30c7ecc-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a310eb2e-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a3158f6c-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
             },
             "timer": 0
         }
@@ -1590,7 +1975,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-afbda",
             "req": [
                 [
                     0,
@@ -1648,7 +2033,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-1eed0",
             "req": [
                 [
                     0,
