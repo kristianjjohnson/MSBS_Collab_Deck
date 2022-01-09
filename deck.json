@@ -4711,7 +4711,9 @@
                                     ],
                                     "guid": "B,pp<>gC;}",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4739,7 +4741,9 @@
                                     ],
                                     "guid": "GRQ=4YSj,,",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4767,7 +4771,9 @@
                                     ],
                                     "guid": "pM<-AtLgMf",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4786,7 +4792,9 @@
                                     ],
                                     "guid": "g@t&Gm~JIY",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4805,7 +4813,9 @@
                                     ],
                                     "guid": "NZ4#2FZk<,",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4824,7 +4834,9 @@
                                     ],
                                     "guid": "Q6mBk.8aJ0",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4843,7 +4855,9 @@
                                     ],
                                     "guid": "p/0FMO]v0w",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4862,7 +4876,9 @@
                                     ],
                                     "guid": "Hkc&l;fXYN",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4890,7 +4906,9 @@
                                     ],
                                     "guid": "f7*6jwxvtt",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4918,7 +4936,9 @@
                                     ],
                                     "guid": "m9;y_$QdWv",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4937,7 +4957,9 @@
                                     ],
                                     "guid": "f_i!&{Fni_",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4956,7 +4978,9 @@
                                     ],
                                     "guid": "ALEHVo,8;:",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4975,7 +4999,9 @@
                                     ],
                                     "guid": "i9Y[f<K6UQ",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4994,7 +5020,9 @@
                                     ],
                                     "guid": "I[:-z^B1|i",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5013,7 +5041,9 @@
                                     ],
                                     "guid": "F5Rv5>`gzG",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5032,7 +5062,9 @@
                                     ],
                                     "guid": "x/Gjj39A,g",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5051,7 +5083,9 @@
                                     ],
                                     "guid": "tIY/$0J[.)",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5070,7 +5104,9 @@
                                     ],
                                     "guid": "ri}tZ6+%8d",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5089,7 +5125,9 @@
                                     ],
                                     "guid": "jO5x`+y_(o",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5108,7 +5146,9 @@
                                     ],
                                     "guid": "BPX*o[9BEe",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5118,7 +5158,9 @@
                                     ],
                                     "guid": "AMtF~VrYr9",
                                     "note_model_uuid": "ea0cf9d4-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5137,7 +5179,9 @@
                                     ],
                                     "guid": "o~6L/@~1WD",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5156,7 +5200,9 @@
                                     ],
                                     "guid": "x`}M);p)t<",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5175,7 +5221,9 @@
                                     ],
                                     "guid": "va0J7vZ0ji",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5194,7 +5242,9 @@
                                     ],
                                     "guid": "o9R(L?o[n`",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5222,7 +5272,9 @@
                                     ],
                                     "guid": "ik7lKZ=pe0",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5241,7 +5293,9 @@
                                     ],
                                     "guid": "v6`Z<vjTjJ",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5260,7 +5314,9 @@
                                     ],
                                     "guid": "D1fiBfeZFu",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5288,7 +5344,9 @@
                                     ],
                                     "guid": "eITfo|?KJJ",
                                     "note_model_uuid": "86eac59a-6dbe-11ec-871d-8c85906ce275",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5307,7 +5365,9 @@
                                     ],
                                     "guid": "f,H+U^5r!.",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5326,7 +5386,9 @@
                                     ],
                                     "guid": "EItB,x(A.{",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5345,7 +5407,9 @@
                                     ],
                                     "guid": "7>N>LmS8j",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5364,7 +5428,9 @@
                                     ],
                                     "guid": "gKe.FG4E$W",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5383,7 +5449,9 @@
                                     ],
                                     "guid": "eq2L:__1+_",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5402,7 +5470,9 @@
                                     ],
                                     "guid": "P+b}n2#>0r",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5421,7 +5491,9 @@
                                     ],
                                     "guid": "LsU9I%l}a#",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5440,7 +5512,9 @@
                                     ],
                                     "guid": "IhQ2Vb&G?L",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5459,7 +5533,9 @@
                                     ],
                                     "guid": "CS8lTAr`*4",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5478,7 +5554,9 @@
                                     ],
                                     "guid": "G<<N.z*IX/",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5497,7 +5575,9 @@
                                     ],
                                     "guid": "Gf=+WG}VbA",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5516,7 +5596,9 @@
                                     ],
                                     "guid": "ed)qP7FthW",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5535,7 +5617,9 @@
                                     ],
                                     "guid": "n{@j?r?pjO",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5554,7 +5638,9 @@
                                     ],
                                     "guid": "IcBnRBogeK",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5564,7 +5650,9 @@
                                     ],
                                     "guid": "cwv=6?.}Cb",
                                     "note_model_uuid": "ea0cf9d4-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5583,7 +5671,9 @@
                                     ],
                                     "guid": "tuWlNMg&/c",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5602,7 +5692,9 @@
                                     ],
                                     "guid": "NT+9`/7I@f",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5621,7 +5713,9 @@
                                     ],
                                     "guid": "QOo+n1=>!)",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5640,7 +5734,9 @@
                                     ],
                                     "guid": "B!/(dZ!xG[",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5659,7 +5755,9 @@
                                     ],
                                     "guid": "H=z/[.>aGM",
                                     "note_model_uuid": "ea0678b6-717b-11ec-8329-f45c899656dd",
-                                    "tags": []
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week2"
+                                    ]
                                 }
                             ]
                         },
