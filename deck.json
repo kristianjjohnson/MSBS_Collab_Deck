@@ -7605,18 +7605,18 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-78868",
             "req": [
                 [
                     0,
-                    "all",
+                    "any",
                     [
                         0
                     ]
                 ],
                 [
                     1,
-                    "all",
+                    "any",
                     [
                         1
                     ]
