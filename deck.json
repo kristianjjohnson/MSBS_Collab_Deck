@@ -3600,19 +3600,6 @@
                             "media_files": [],
                             "name": "Ricky ANAT2",
                             "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "d57563a8-70d1-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Rolando ANAT2",
-                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f67330-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -3796,19 +3783,6 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Ricky IMUN",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "d57b23c4-70d1-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Rolando IMUN",
                             "notes": []
                         }
                     ],
@@ -3994,19 +3968,6 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "Ricky  MBM2",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "d5803f08-70d1-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Rolando MBM2",
                             "notes": []
                         }
                     ],
@@ -4492,40 +4453,11 @@
                                 "89f4c44aec264365bf3f5f9d5953f3ab-oa-1-A.svg",
                                 "89f4c44aec264365bf3f5f9d5953f3ab-oa-1-Q.svg",
                                 "89f4c44aec264365bf3f5f9d5953f3ab-oa-O.svg",
-                                "paste-08ffabf66c939128a8d8cc524d9113b48ab9cefb.png",
-                                "paste-22cb4f5d98a841419d7034bb2c3b9308b5c3eabf.png",
-                                "paste-24cb91253e21ad2c8dfd9a719cfab48b1892f0e6.png",
-                                "paste-289648f452b475b49901f1f5804af0691346b57a.png",
                                 "paste-2aba4af3cb1aa607f089506454d3fd65bd6f7ebf.jpg",
-                                "paste-36816630994580a053c4b77fc781d4ba0fbf7fba.png",
-                                "paste-36a5696e95071c4a8ff5ed9ef89669037a71e5f7.png",
-                                "paste-3eee1ade6fc8ac03035be97ee97e10bfd4553160.png",
-                                "paste-42b8cf127ab62816acc115a98013f34268000eb3.png",
-                                "paste-593b2da02c22ce303af2fa7f9b1f191b37c2cd8c.png",
-                                "paste-5e5f5cd44e7928df6ce35b4381ebb5437e2df086.png",
-                                "paste-668e04a120c419d4a888f39771c4750006e9c0ba.png",
-                                "paste-6cf1cd947fc35c56c7e3c255ee8ec93900b08ecf.png",
-                                "paste-6ee01789dcb3cebe3b65b9b17b2cd50cc968118c.png",
-                                "paste-709d07ad3053b081aab19e1b90d78d039dfdf16c.png",
                                 "paste-72740f16049a477fb65c2fff05a3e8d22a2c2914.png",
-                                "paste-7538f91a878556d9bff53418e94d2cca70a55c04.png",
-                                "paste-81ff409b41f45b2bd329044032bef2e92e303d0f.png",
-                                "paste-840e4f71f6d391e09e46075484d0d17984ba8ad0.png",
                                 "paste-8d854a62fe9b832816de7393aa1d59efef373aff.jpg",
-                                "paste-9696e8b47e8eda1d6d0cc6760df7de1e05c8fe81.png",
-                                "paste-a1ae5a04375fe5dafcc878cc81a8699ff1cd0934.png",
-                                "paste-ae3f7a3c5159d2be69e2ecd7e2bc839041d34a2a.png",
-                                "paste-b494bc3c306bc110c15ed28db40f13a2af72c411.png",
-                                "paste-bbc27616f73ce4c613e045492a23319ca33823b5.png",
-                                "paste-cc1762c55432aaba3bd61773082c16bc3df11536.png",
-                                "paste-ccce55c977f39bd8b5d9916c269b4b104dc9441d.png",
-                                "paste-d043abeff7d06d4dcdb070f11ef75f3cbfd75f4d.png",
-                                "paste-d34b568b11f3cc077f7822090a2ebedb030d00d6.png",
-                                "paste-db078fc7163ba2d50e3cb5de7354774fbd5c99df.png",
-                                "paste-e503d77a84da641f4d7899dddbc8aa616a75ab70.png",
                                 "paste-e94fd04f4b9caa62fd1bdacebb7a697e03069be5.jpg",
-                                "paste-f6f7040015a89cb12d74a0a092fa792268fcde8f.jpg",
-                                "paste-fa17df91137e74ff65393acf4afbd5d5122c80cd.png"
+                                "paste-f6f7040015a89cb12d74a0a092fa792268fcde8f.jpg"
                             ],
                             "name": "Ricky PHYS2",
                             "notes": [
@@ -4600,297 +4532,8 @@
                                     "tags": [
                                         "**MSBS::Physio2::Block1::Week1::A"
                                     ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">&nbsp;Purposes of the GI Tract:</font></span></div>\n<div>&nbsp;-{{c3::Intake}},\n{{c4::breakdown/digestion}}, and {{c5::absorption}} of water and nutrients (and a huge\nimmunological role)</div>\n<div>-Clearance of {{c1::waste products}}</div>\n<div>-Signaling to other {{c2::organ systems}}</div>",
-                                        "<div><img src=\"paste-840e4f71f6d391e09e46075484d0d17984ba8ad0.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>*<span style=\"font-weight:bold\">Understand the\noverall purposes of the GI tract, liver, and pancreas to the level discussed in\nthis lecture</span></div>"
-                                    ],
-                                    "guid": "oBD^H3%M3i",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><font color=\"#fc0107\"><span style=\"font-weight:bold\">Purposes of the\nliver</span>:</font></div>\n<div>-Production of {{c1::proteins}} ({{c1::albumin, clotting\nfactors}})</div>\n<div>-{{c1::Glucose}} management</div>\n<div>-{{c1::metabolism}} of substances (drugs, toxins, etc)</div>\n<div>-{{c1::waste}} excretion</div>\n<div>-{{c1::bile}} production</div>",
-                                        "<br>\n<div><img src=\"paste-9696e8b47e8eda1d6d0cc6760df7de1e05c8fe81.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>*<span style=\"font-weight:bold\">Understand the\noverall purposes of the GI tract, liver, and pancreas to the level discussed in\nthis lecture</span></div>\n<div>&nbsp;</div>"
-                                    ],
-                                    "guid": "b%dAo8d:nN",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">Purposes of the\nPancreas</font></span></div>\n<ul>\n<li>{{c1::Secretes digestive}} enzymes into GI tract (ie {{c1::lipase}})</li>\n<li>{{c1::Glucose}} management</li>\n<li>Related conditons: {{c1::pancreatitis}}, tract obstruction,\n     cancer, {{c1::diabetes}}</li><li>**most common cause pancreatitis is {{c1::cholecystitis}}**)</li></ul>",
-                                        "<br><img src=\"paste-24cb91253e21ad2c8dfd9a719cfab48b1892f0e6.png\" class=\"resizer\" style=\"width: 514px;\">\n<div>*<span style=\"font-weight:bold\">Understand\nthe overall purposes of the GI tract, liver, and pancreas to the level\ndiscussed in this lecture</span></div>"
-                                    ],
-                                    "guid": "gxaK-6AYQr",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\">How would the following\n\"</font><span style=\"font-weight:bold\"><font color=\"#fc0107\">obstructions\" typically present if causing an infection?</font><br></span><div>Large pancreatic head tumor= <br>{{c1::Bile}} back up leading to {{c1::Hepatitis}} (jaundice)</div>\n<div>&nbsp;</div>\n<div>Stone in the common bile duct\n(choledocolithiasis)= {{c1::Bile}} back up leading to&nbsp;{{c1::Hepatitis}} (jaundice) &amp; {{c1::cholecystitis}}</div>\n<div>&nbsp;</div>\n<div>Large pancreatic tail tumor=<br>{{c1::Pancreatitis}}</div>\n<div>&amp; ONLY if LARGE Enough: {{c1::Bile}} back up leading to&nbsp;{{c1::Hepatitis}}\n(jaundice)</div>\n<div>&nbsp;</div>\n<div>Sphincter of Oddi spasm (rare and long\nlasting)/stenosis= {{c1::EVERYTHING}}: {{c1::Bile}} back up leading to&nbsp;{{c1::Hepatitis}} (jaundice),\n{{c1::cholecystitis}},&amp; {{c1::Pancreatitis}}</div>\n<div>&nbsp;</div>\n<div>Stone in the gallbladder ({{c1::cholelithiasis}})=\n{{c1::cholecystitis}}</div>\n<div>&nbsp;</div>\n<div>Stone in the cystic duct= {{c1::cholecystitis}}</div>\n<div>&nbsp;</div>\n<div>Stone in the pancreatic duct= {{c1::Pancreatitis}}<br></div>",
-                                        "<div>&nbsp;</div>\n<div><img src=\"paste-36a5696e95071c4a8ff5ed9ef89669037a71e5f7.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-6ee01789dcb3cebe3b65b9b17b2cd50cc968118c.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-3eee1ade6fc8ac03035be97ee97e10bfd4553160.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-ae3f7a3c5159d2be69e2ecd7e2bc839041d34a2a.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>*<span style=\"font-weight:bold\">Predict\npresentation of different types of obstruction (e.g. stenotic sphincters, where\ncontents would back up, what would there be bile or digested food or etc in the\nbackup, would result in jaundice, etc)</span></div>"
-                                    ],
-                                    "guid": "O~~<{IJ4|~",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<span style=\"font-weight: bold;\"><font color=\"#fc0107\">Compare and contrast the histologic layers of the GI\n     tract and the important neurological plexi:</font></span><br><ol>\n</ol>\n<div>1. <span style=\"text-decoration-line: underline;\">Outer&nbsp;</span>{{c1::serosa}}&nbsp;(faces blood)</div>\n<div>2. {{c1::Muscularis}}<span style=\"text-decoration-line: underline;\">&nbsp;externa</span></div>\n<ul>\n<li>Outer longitudinal and inner circular muscle layers →{{c1::motilty}}</li>\n</ul>\n<div>3. {{c1::Myenteric}}<span style=\"text-decoration-line: underline;\">&nbsp;(</span>{{c1::Auerbach}}<span style=\"text-decoration-line: underline;\">) plexus</span></div>\n<ul>\n<li>Lies between circular and longitudinal muscle layers</li></ul>\n<ul>\n<li>Innervates circular and longitudinal muscle</li></ul>\n<ul>\n<li><span style=\"font-weight: bold;\">Main job:&nbsp;</span>{{c1::Movement through the GI tract}}</li>\n</ul>\n<div>4. <span style=\"text-decoration-line: underline;\">Submucosa</span></div>\n<div><ul><li>&nbsp;Contains some glands, large blood vessels and submucosal\n     ({{c1::Meissner}}) plexus</li></ul></div>\n<div>5. {{c1::Submucosal}}<span style=\"text-decoration-line: underline;\">&nbsp;(</span>{{c1::Meissner}}<span style=\"text-decoration-line: underline;\">) plexus</span></div>\n<ul>\n<li>Innervates glands, endocrine cells, blood vessels</li></ul>\n<ul>\n<li><span style=\"font-weight: bold;\">Main job:&nbsp;</span>{{c1::Regulating intestinal secretions with\n     some sensory function}}</li>\n</ul>\n<div>6. {{c1::Mucosa}}&nbsp;(faces lumen)</div>\n<ul>\n<li>Consists of epithelium, lamina propria (collagen, glands,\n     capillaries), and muscularis mucosa (inner smooth muscle) → {{c1::absorption &amp;\n     secretions}}</li></ul>",
-                                        "<div>&nbsp;</div>\n<div><img src=\"paste-b494bc3c306bc110c15ed28db40f13a2af72c411.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-289648f452b475b49901f1f5804af0691346b57a.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div><span style=\"font-weight:bold\">*Compare and\ncontrast the histologic layers of the GI tract and the important neurological\nplexi</span></div>"
-                                    ],
-                                    "guid": "z!M$|EHh==",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">Explain neural\ncontrol of the GI tract, specifically difference in intrinsic and extrinsic\ninnervation:</font></span></div>\n<div>&nbsp;</div>\n<div>{{c1::Intrinsic or enteric}}<span style=\"text-decoration-line: underline;\">&nbsp;nervous system</span>: found in the submucosal and myenteric plexuses in GI tract wall; does\ncommunicate with para &amp; sympathetic NS&nbsp;\n</div>\n<div>&nbsp;</div>\n<div>{{c1::Extrinsic}}: Sympathetic and\nparasympathetic innervation of GI tract</div>\n<div>&nbsp;</div>",
-                                        "<div><div>&nbsp;</div>\n<div><img src=\"paste-fa17df91137e74ff65393acf4afbd5d5122c80cd.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-d043abeff7d06d4dcdb070f11ef75f3cbfd75f4d.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-81ff409b41f45b2bd329044032bef2e92e303d0f.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-709d07ad3053b081aab19e1b90d78d039dfdf16c.png\" style=\"width: 554px;\" class=\"resizer\"></div>*Explain neural control of the GI tract,\nspecifically differences in intrinsic and extrinsic innervation, important\nparasympathetic nerves, location and roles of myenteric (Auerbach) plexus,\nlocation and roles of the submucosal (Meissner) plexus, and importance of\nafferent sensory nerves.</div>"
-                                    ],
-                                    "guid": "I}(.r:}Gm^",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">Explain neural\ncontrol of the GI tract, specifically,\nlocation and roles of myenteric (Auerbach) plexus:</font></span></div>\n<div><ul><li>Location :Between {{c1::circular and longitudinal}} muscle layers</li><li>Innervates: {{c1::circular}} and {{c1::longitudinal}} muscle</li></ul></div>\nRole of&nbsp;<span style=\"font-weight: 700;\">myenteric (Auerbach) plexus:</span><br>\n<div>{{c1::movement\nthrough the GI tract}}<br></div>",
-                                        "<br>\n<div><img src=\"paste-fa17df91137e74ff65393acf4afbd5d5122c80cd.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-d043abeff7d06d4dcdb070f11ef75f3cbfd75f4d.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-81ff409b41f45b2bd329044032bef2e92e303d0f.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-709d07ad3053b081aab19e1b90d78d039dfdf16c.png\" style=\"width: 554px;\" class=\"resizer\"></div>*Explain neural control of the GI tract,\nspecifically differences in intrinsic and extrinsic innervation, important\nparasympathetic nerves, location and roles of myenteric (Auerbach) plexus,\nlocation and roles of the submucosal (Meissner) plexus, and importance of\nafferent sensory nerves."
-                                    ],
-                                    "guid": "b?rQvf=o(.",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">Explain neural\ncontrol of the GI tract, specifically location and roles of the submucosal\n(Meissner) plexus:</font></span></div>\n<div><ul><li>Located in: {{c1::submucosa}}</li><li>Innervates: {{c1::glands}}, {{c1::endocrine}} cells, &amp;{{c1::blood vessels}}</li><li>Role: {{c1::regulating intestinal secreations}}</li></ul></div>",
-                                        "<br>\n<div><img src=\"paste-fa17df91137e74ff65393acf4afbd5d5122c80cd.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-d043abeff7d06d4dcdb070f11ef75f3cbfd75f4d.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-81ff409b41f45b2bd329044032bef2e92e303d0f.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-709d07ad3053b081aab19e1b90d78d039dfdf16c.png\" style=\"width: 554px;\" class=\"resizer\"></div>*Explain neural control of the GI tract,\nspecifically differences in intrinsic and extrinsic innervation, important\nparasympathetic nerves, location and roles of myenteric (Auerbach) plexus,\nlocation and roles of the submucosal (Meissner) plexus, and importance of\nafferent sensory nerves."
-                                    ],
-                                    "guid": "i6&Ee=h/lu",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight:bold\"><font color=\"#fc0107\">Explain neural\ncontrol of the GI tract, specifically importance of afferent sensory nerves:</font></span></div>\n<div>Afferent Sensory Nerves:</div>\n<ul>\n<li>Involved in many {{c1::GI reflexes}}</li></ul>\n<ul>\n<li>Sense {{c1::irritation}} to mucosa, {{c1::distension}}, {{c1::chemical}} substances</li></ul>",
-                                        "<br>\n<div><img src=\"paste-fa17df91137e74ff65393acf4afbd5d5122c80cd.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-d043abeff7d06d4dcdb070f11ef75f3cbfd75f4d.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-81ff409b41f45b2bd329044032bef2e92e303d0f.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-709d07ad3053b081aab19e1b90d78d039dfdf16c.png\" style=\"width: 554px;\" class=\"resizer\"></div>*Explain neural control of the GI tract,\nspecifically differences in intrinsic and extrinsic innervation, important\nparasympathetic nerves, location and roles of myenteric (Auerbach) plexus,\nlocation and roles of the submucosal (Meissner) plexus, and importance of\nafferent sensory nerves."
-                                    ],
-                                    "guid": "ImcsJ5g_%w",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\">Know the major sphincters\n     in the GI tract and how they and peristalsis promote unidirectional\n     movement of <span style=\"font-weight: bold;\">chyme.</span>&nbsp;</font><div><ul><li>Sphincters are {{c1::circular muscle rings}} with\nresting tone that normally remain {{c1::constricted/closed}} until signaled to {{c1::relax}}.</li><li>They regulate {{c1::uni-directional}} movement of <span style=\"font-weight:bold\">chyme</span> through the GI tract</li><li>*Unless emessis ({{c1::reverse}} direction)*</li></ul></div>\n<div><ol><li>Upper esophageal sphincter\n({{c1::pharynx}} and {{c1::esophagus}})</li><li>Lower esophageal sphincter\n({{c1::esophagus}} and {{c1::stomach}})</li><li>Pyloric sphincter ({{c1::stomach}} and\n{{c1::small}} bowel)- Relax to allow stomach content into Duodenum</li><li>Ileocecal sphincter ({{c1::small}}\nbowel and {{c1::colon}})</li><li>Internal anal sphincter ({{c1::rectum}}\nand {{c1::anus}}, {{c1::involuntary}} controlled smooth muscle)</li><li>External anal sphincter ({{c1::rectum}}\nand {{c1::anus}}, {{c1::voluntary}} controlled skeletal muscle)</li></ol></div>\n\n\n\n\n",
-                                        "<div>&nbsp;</div>\n<div><img src=\"paste-22cb4f5d98a841419d7034bb2c3b9308b5c3eabf.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div>*Know the major sphincters in the GI tract and\nhow they and peristalsis promote unidirectional movement of chyme.</div>"
-                                    ],
-                                    "guid": "vSJG]-~a]r",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Describe the three phases\n     of swallowing and be able to apply this knowledge to potential medical\n     problems including but not limited to aspiration, stroke, achalasia, GERD:</b></font><br><ol>\n</ol>\n<div><b><u>Oral Phase:</u></b></div>\n<ul>\n<li>{{c1::Tongue}} pushes bolus into {{c1::pharynx}}</li>\n<li>Stretch receptor signal to {{c1::medulla}} and initiate\n     {{c1::swallowing}} reflex</li>\n</ul>\n<div>potential medical problems :</div>\n<ul>\n<li>{{c1::Losing muscle tone- stroke/ neurological defects}}</li>\n</ul>\n<div><b><u>Pharyngeal Phase</u></b></div>\n<ul>\n<li>{{c1::Soft}} palate raised, {{c1::epiglottis}} covers airway, {{c1::UES}}\n     relaxes</li>\n<li>{{c1::Peristaltic}} wave in {{c1::pharynx}}</li>\n</ul>\n<div>potential medical problems : </div>\n<ul>\n<li>{{c1::Aspiration- non control of epiglottis, stroke/ Central\n     neurological problem}}</li>\n</ul>\n<div><b><u>Esophageal Phase</u></b></div>\n<ul>\n<li>{{c1::Peristaltic}} wave moves bolus through esophagus</li>\n<li>{{c1::LES}} relaxes</li>\n</ul>\n<div>&nbsp;potential medical problems:</div>\n<ul>\n<li>{{c1::Achalasia}}- esophageal stenosis<br></li>\n<li>GERD- Pressure in stomach is {{c1::greater}} than pressure of {{c1::LES}}</li>\n<li>{{c1::Uncoordinated}} Peristaltic waves -Central neurological\n     problem</li></ul>",
-                                        "<img src=\"paste-593b2da02c22ce303af2fa7f9b1f191b37c2cd8c.png\" style=\"width: 554px;\" class=\"resizer\"><br><div>*Describe the three phases of\nswallowing and be able to apply this knowledge to potential medical problems\nincluding but not limited to aspiration, stroke, achalasia, GERD</div>"
-                                    ],
-                                    "guid": "kA#G0y2fj-",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Distinguish between\n     segmentation and peristaltic contraction<br><ol>\n</ol>\n<ul>\n<li>Segmentation:</li>\n<ul>\n<li>{{c1::Mixes}} chyme</li>\n</ul>\n<li>Peristaltic:</li>\n<ul>\n<li>{{c1::Move}} chyme {{c1::through}}</li>\n</ul></ul>",
-                                        "<ul>\n<li><img src=\"paste-cc1762c55432aaba3bd61773082c16bc3df11536.png\" style=\"width: 514px;\" class=\"resizer\"></li>\n</ul>\n<div>*Distinguish between\nsegmentation and peristaltic contraction</div>"
-                                    ],
-                                    "guid": "u]0f,fxPQ;",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Describe the\n     rectosphincteric reflex and the gastrocolic reflex:<br></b></font><ol>\n</ol>\n<div><b><u><font color=\"#fc0107\">Rectosphincteric reflex:</font></u></b></div>\n<ul>\n<li><span style=\"font-weight: bold;\">{{c1::Stretch}}&nbsp;receptors</span> in rectum,\n     sigmoid, and descending colon trigger reflex</li>\n<li><span style=\"text-decoration-line: underline;\">Rectum&nbsp;</span>{{c1::contracts}}</li>\n<li><span style=\"text-decoration-line: underline;\">Internal anal sphincter&nbsp;</span>{{c1::relaxes}}</li>\n<li><span style=\"text-decoration-line: underline;\">External sphincter {{c1::relaxes}}&nbsp;=&nbsp;</span>{{c1::defecation}}</li></ul>\n<div><b><u><font color=\"#fc0107\">Gastrocolic reflex:</font></u></b></div>\n<ul>\n<li><span style=\"text-decoration-line: underline;\">{{c1::Distension}}&nbsp;of stomach {{c1::increases}}&nbsp;contractions and motility</span> throughout the colon</li>\n</ul>\n<div>Hint: \"get out of helping with the\ndishes\" or Prairie Dog&nbsp;☺</div>",
-                                        "<div><span style=\"font-weight:bold\">The\nexternal anal sphincter is under volitional control and must be consciously\nrelaxed in order for defecation to proceed.</span></div>\n<img src=\"paste-36816630994580a053c4b77fc781d4ba0fbf7fba.png\" class=\"resizer\" style=\"width: 514px;\"><ol>\n</ol>\n<div>*Describe the rectosphincteric\nreflex and the gastrocolic reflex</div>"
-                                    ],
-                                    "guid": "oh2Dl*MJjL",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<b><font color=\"#fc0107\">Know the primary\n     differences between the internal and external anal sphincters:</font></b><br>\n<ol>\n<li>{{c1::Internal}}\n     anal sphincter is relaxed by inhibitory signals from {{c1::myenteric}} plexus&nbsp;</li><li>{{c1::External}} anal sphincter is relaxed\nvoluntarily</li></ol>\n<ul>\n<li>Rectal smooth muscle contracts creating pressure</li></ul>\n<ul>\n<li>Feces forced out through anal canal</li></ul>\n<ul>\n<li>If defecation not desired sphincter remains contracted</li></ul>",
-                                        "<img src=\"paste-bbc27616f73ce4c613e045492a23319ca33823b5.png\" style=\"width: 554px;\" class=\"resizer\"><br>*Know the primary\n     differences between the internal and external anal sphincters"
-                                    ],
-                                    "guid": "u:+1N3/I2Z",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><font color=\"#fc0107\"><b>Gastric Motility is Regulation by:</b></font></div>\n<div><ul><li>{{c1::ANS}} and {{c1::enteric}} system</li><li>{{c1::Motilin}} and {{c1::gastrin}} increase\ncontractions</li><li>{{c1::Secretin}} and {{c1::GIP}} decrease\ncontractions</li></ul></div>\n\n",
-                                        "<div>&nbsp;</div>\n<div><img src=\"paste-5e5f5cd44e7928df6ce35b4381ebb5437e2df086.png\" style=\"width: 554px;\" class=\"resizer\"></div>\n<div>&nbsp;</div>\n<div><img src=\"paste-42b8cf127ab62816acc115a98013f34268000eb3.png\" style=\"\" class=\"resizer\"><br><div>*Describe the key components\nregulating GI motility</div></div>"
-                                    ],
-                                    "guid": "iEB:AnZzE3",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Know the main\n     neurotransmitters and GI effects of the sympathetic and parasympathetic\n     systems:</b></font><br><ol>\n</ol>\n<div><span style=\"font-weight: bold; text-decoration-line: underline;\">Parasympathetic </span></div>\n<div>Neurotransmission: {{c1::Cholinergic}} and/or {{c1::peptidergic}}</div>\n<ul>\n<li>Cholinergic: {{c1::Ach}} onto {{c1::muscarinic}} receptors</li></ul>\n<ul>\n<li>Peptidergic: Substance {{c1::P}}; {{c1::vasoactive intestinal peptide}} (VIP)&nbsp;</li></ul>\n<div>{{c1::Excitatory}} fibers (can also be inhibitory,\nmediating relaxation of the lower esophageal sphincter (LES) and stomach during\nswallowing)</div>\n<br>\n<div>{{c1::Enhances}} activity of enteric system and overall\nGI activity (muscle contractions, motility, secretion, and hormonal release)</div>\n<div>&nbsp;</div>\n<div>Innervation occurs:</div>\n<ul>\n<li>{{c1::Vagus}} nerve innervates <span style=\"text-decoration-line: underline;\">UPPER</span> GI tract:</li></ul>\n<ul>\n<li>{{c1::Pelvic}}&nbsp; nerve innervates the <span style=\"text-decoration-line: underline;\">LOWER</span> GI tract</li></ul>",
-                                        "<img src=\"paste-ccce55c977f39bd8b5d9916c269b4b104dc9441d.png\" style=\"width: 554px;\" class=\"resizer\"><br><b style=\"color: rgb(252, 1, 7);\">*Know the main neurotransmitters and GI effects of the sympathetic and parasympathetic systems:</b>"
-                                    ],
-                                    "guid": "J)<I!v|{=1",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><font color=\"#fc0107\"><b>Know the main\n     neurotransmitters and GI effects of the sympathetic and parasympathetic\n     systems:</b></font><br><span style=\"font-weight: bold; text-decoration-line: underline;\">Sympathetic</span></div>\n<div>Neurotransmission: {{c1::Adrenergic}}</div>\n<ul>\n<li>{{c1::Norepinephrine::Chemical}}</li>\n</ul>\n<div>{{c1::Inhibitory}} fibers are adrenergic (Inhibits enteric system and GI\nsmooth muscle</div>\n<div>&nbsp;</div>\n<div>{{c1::Inhibits}} motility and secretory activities and {{c1::vasoconstricts}}\nsmooth muscle of blood vessels</div>",
-                                        "<img src=\"paste-ccce55c977f39bd8b5d9916c269b4b104dc9441d.png\" style=\"width: 554px;\" class=\"resizer\"><br><b style=\"color: rgb(252, 1, 7);\">*Know the main neurotransmitters and GI effects of the sympathetic and parasympathetic systems:</b>"
-                                    ],
-                                    "guid": "E!p(psr&w&",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><b><font color=\"#fc0107\">“Slow wave” depolarizations-</font></b><br>Initiated by\n{{c1::enteric}} pacemaker cells: <span style=\"font-weight:bold\">interstitial cells of&nbsp;</span>{{c1::Cajal}}<span style=\"font-weight:bold\">&nbsp;</span></div>",
-                                        "<img src=\"paste-6cf1cd947fc35c56c7e3c255ee8ec93900b08ecf.png\" style=\"width: 554px;\" class=\"resizer\"><br><font color=\"#fc0107\"><b style=\"\">*</b>Know what the “pacemaker cells” of the enteric nervous system are.</font><br>"
-                                    ],
-                                    "guid": "d4>Zp!DFN6",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Understand the process of\nsmooth muscle contraction and how it differs from skeletal and cardiac muscle\ncontraction:<br></b></font><ul><li><b>B</b>asically the same as skeletal except Actin-myosin&nbsp;<span style=\"font-style: italic; text-decoration-line: underline;\"><font color=\"#fc02ff\">NOT</font></span>&nbsp;organized into&nbsp;{{c1::sarcomeres}}:</li></ul><ul><li>Ca+2&nbsp;binds&nbsp;{{c1::calmodulin}}&nbsp;</li></ul><ul><li>Facilitates the myosin-actin cross bridging by activating myosin-light chain kinase to phosphorylate myosin light chain&nbsp;</li></ul><ul><li><u><font color=\"#fc02ff\">Smooth muscle</font></u>: Increases myosin ATPase activity which {{c1::enhances}} conversion of {{c1::ATP-Myosin}} (unbound to actin) to {{c1::ADP-Myosin}} (actin bound)&nbsp;→ <b><u><i>rate-limiting</i></u></b> step in smooth muscle contraction</li></ul><ul><li><font color=\"#fc02ff\"><u>Skeletal muscle</u> </font>primary <u><b>rate-limiting</b></u> step is {{c1::actin binding site availability}}<br></li></ul>",
-                                        "<div><img src=\"paste-668e04a120c419d4a888f39771c4750006e9c0ba.png\" style=\"width: 474px;\" class=\"resizer\"></div><br>\n<div><img src=\"paste-e503d77a84da641f4d7899dddbc8aa616a75ab70.png\" style=\"width: 554px;\" class=\"resizer\"><br>*Understand the process of\nsmooth muscle contraction and how it differs from skeletal and cardiac muscle\ncontraction</div>"
-                                    ],
-                                    "guid": "bF,-$z2nX1",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Compare and contrast how GI\nsmooth muscle contraction and depolarization/action potentials differ from\nskeletal muscle contraction and action potentials:</b></font><br><br>Threshold is reached:<ul>\n<li>{{c1::Many}} action potentials fire and {{c1::cumulate}}\n     into {{c1::a certain strength}} of smooth muscle contraction.</li></ul>\n<ul>\n<li><i><font color=\"#fc02ff\"><b>Contrasts</b></font></i> with skeletal muscle, where {{c1::each}}\n     action potential results in {{c1::a certain strength}} contraction</li></ul>",
-                                        "<img src=\"paste-db078fc7163ba2d50e3cb5de7354774fbd5c99df.png\" style=\"width: 554px;\" class=\"resizer\"><br>*Compare and contrast how GI\nsmooth muscle contraction and depolarization/action potentials differ from\nskeletal muscle contraction and action potentials"
-                                    ],
-                                    "guid": "FYl>pS-r@:",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>Recognize classic\n     presentation of and explain the pathophysiology of hiatal hernia and\n     achalasia:</b></font><br><div><u><b>Hiatal\nHernia:</b></u></div>\n<div>S/S: heartburn, difficulty keeping food down, worsening {{c1::breathing}},\n\"{{c1::Gurgling}}\" sounds @ auscultations of LL lung<br>(confirm with xRay:\nstomach over top of diaphragm, no fever, no cough.)</div>\n<div><b><u>Achalasia:<br></u></b>S/S: Difficulty {{c1::swallowing}}, {{c1::chest}} pain, vomiting, heartburn<b><u><br></u></b></div>\n<div>Vomit\nup undigested bolus due to failure of {{c1::lower esophageal spinctor}} ({{c1::LES}})</div>",
-                                        "<div><img src=\"paste-a1ae5a04375fe5dafcc878cc81a8699ff1cd0934.png\" style=\"width: 629px;\" class=\"resizer\"></div>\n<div>&nbsp;* Recognize classic\n     presentation of and explain the pathophysiology of hiatal hernia and\n     achalasia</div>"
-                                    ],
-                                    "guid": "LB(4uD2,?e",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<font color=\"#fc0107\"><b>What is ileus?</b></font><br>\n<div>{{c1::Inability}}\nof the intestine ({{c1::bowel}}) to {{c1::contract}} normally and move waste out of the body</div>\n<br>\n<div>Of note:\nclinicians usually refer to the small intestines as “{{c1::bowel}}” and the large\nintestines as “{{c1::colon}}”.</div>",
-                                        "<img src=\"paste-08ffabf66c939128a8d8cc524d9113b48ab9cefb.png\" style=\"\" class=\"resizer\"><br><b><u><i>*No Objective</i></u></b>"
-                                    ],
-                                    "guid": "qZxm?U<L^C",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<div><span style=\"font-weight: bold; text-decoration-line: underline;\"><font color=\"#fc0107\">What is the most likey Diagonosis?</font><br></span>{{c1::Peptic\nUlcer}}<span style=\"font-weight: bold; text-decoration-line: underline;\"><br></span></div>\n<ul>\n<li><span style=\"text-decoration-line: underline;\">Symptoms</span>: Abdominal pain/bloating; nausea,\n     hemetemesis (vomiting blood); waterbrash (rush of saliva after an episode\n     of regurgitation to dilute the acid in esophagus); melena (tarry,\n     foul-smelling feces due to oxidized iron from Hb); gastric or duodenal\n     perforation.</li></ul>\n<ul>\n<li><span style=\"text-decoration-line: underline;\">Treatments</span>: Antacids, H2 antagonists.</li></ul>&nbsp;With <span style=\"font-style: italic;\">H.\n     pylori</span>\n     infection, the most effective treatments are combinations of 2 antibiotics\n     (e.g. Clarithromycin, Amoxicillin, Tetracycline, Metronidazole) and 1\n     proton pump inhibitor (PPI), sometimes together with a bismuth compound.<br>\n<ul>\n<li>80% of {{c1::ulcers}} are associated with <span style=\"font-style: italic;\">Helicobacter\n     pylori</span>,\n     a spiral-shaped bacterium that lives in acidic stomach environment</li></ul>",
-                                        "<div><img src=\"paste-7538f91a878556d9bff53418e94d2cca70a55c04.png\" style=\"width: 629px;\" class=\"resizer\"></div>\n<div><img src=\"paste-d34b568b11f3cc077f7822090a2ebedb030d00d6.png\" style=\"\" class=\"resizer\"><br><b><i><u>*No Objective</u></i></b></div>"
-                                    ],
-                                    "guid": "bCN_C<;l^1",
-                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-                                    "tags": [
-                                        "**MSBS::Physio2::Block1::Week1::A"
-                                    ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "d58a702c-70d1-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Rolando PHYS2",
-                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f94876-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -6342,19 +5985,6 @@
                                     ]
                                 }
                             ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "d5855916-70d1-11ec-9756-8c85906ce275",
-                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Rolando Pharm",
-                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "50f8a542-6daa-11ec-9cd8-367ddaa5f0a8",
@@ -6453,70 +6083,6 @@
             "autoAnswer": 0,
             "autoplay": true,
             "crowdanki_uuid": "a3075398-70ce-11ec-9756-8c85906ce275",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "leechAction": 1,
-                "leechFails": 4,
-                "minInt": 1,
-                "mult": 0.2
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    25.0,
-                    1440.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    3,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 9999,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.5,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 180,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "reviewOrder": 0,
-            "straightReward": {
-                "baseEase": 15,
-                "enableNotifications": true,
-                "startEase": 130,
-                "stepEase": 5,
-                "stopEase": 250,
-                "straightLength": 0
-            },
-            "timer": 0
-        },
-        {
-            "DisableFW": 0,
-            "__type__": "DeckConfig",
-            "autoAgain": 0,
-            "autoAlert": 0,
-            "autoAnswer": 0,
-            "autoplay": true,
-            "crowdanki_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
             "dyn": false,
             "interdayLearningMix": 0,
             "lapse": {
@@ -6709,6 +6275,70 @@
             "autoAnswer": 0,
             "autoplay": true,
             "crowdanki_uuid": "a3158f6c-70ce-11ec-9756-8c85906ce275",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "straightReward": {
+                "baseEase": 15,
+                "enableNotifications": true,
+                "startEase": 130,
+                "stepEase": 5,
+                "stopEase": 250,
+                "straightLength": 0
+            },
+            "timer": 0
+        },
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
             "dyn": false,
             "interdayLearningMix": 0,
             "lapse": {
@@ -6991,7 +6621,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic-2dd69",
+            "name": "Basic",
             "req": [
                 [
                     0,
