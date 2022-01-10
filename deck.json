@@ -3861,20 +3861,30 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "16osE86OOGepRA71Vy7EM0qRMzfn9IffzOtNMNTSWV0REP3tBl1FKk4IzhJaMhtJAvIMvUd3JPpwSgz1ZcRm6YFkQEOpjXLF5L0YftHukDfra4PpY49.png",
                                 "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-A.svg",
                                 "2ac48c4cdcce4e46bc66b8d28be76159-ao-1-Q.svg",
                                 "2ac48c4cdcce4e46bc66b8d28be76159-ao-O.svg",
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-1-A.svg",
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-1-Q.svg",
                                 "7c480dbcf1734f49805e3a05e202dd2e-ao-O.svg",
+                                "8ms4T-aM9NKhtkzUZlFTaFubHaYAK3TJcbymQaYndyiJUwB80jwM3ghCzvav9ICZ7P8sMGShaHQa3uyuvPPHDWX359o5ereMtctTqlZVeErW5b8TQfy.png",
                                 "Screen Shot 2022-01-08 at 12.25.00 AM.png",
+                                "Screen Shot 2022-01-09 at 8.05.59 PM.png",
+                                "Screen Shot 2022-01-09 at 8.13.59 PM.png",
+                                "Screen Shot 2022-01-09 at 9.35.46 PM.png",
+                                "Screen Shot 2022-01-09 at 9.36.08 PM.png",
+                                "XFXK4za--pEuXQ02MwCxCwaxd6Fq9Judy3YxBxaC7WoOH5YNcFqi-8nVqqMLe670mLEzSgt5BdlIXBB41ppni_tcoUst1P8DZpQDfvFSP4dKbKNHKwq.png",
+                                "_YGgtpli_L3AhN4S40ST12C1ZjRiATaknQQXsI2artluC9MN6HNcmzlqPiJtydt9Ix1G5yQHT4fdZ02T0vR90GjDziNUWUCkI4NGjZQUe7l-m5RgeT-.png",
+                                "mnZkK_h4KEbcuHL8k7a_JcyldaYXW52teeSamsH8TWdKTBTdMZuUbaGychLHHgV8cEQGTPd3Lbgq-SR8KQ5dyXqy0KEClsPz3Xu88QHDMxEkFGp-Mmq.png",
                                 "paste-06f0a88b2035c753042548cb6d4305616633d1b7.png",
                                 "paste-06faf265136b066cff9ba2a7d162ce2c308ba5b6.png",
                                 "paste-92bfc165e2775ef93f62f489ad9dd4339c5ef1b8.png",
                                 "paste-a5409c691abc35bd09ff9517093c3735c3cd3959.png",
                                 "paste-c8668fe70d0d83f27c9eb24089d66ff9e0f66588.png",
                                 "paste-d216587b3eb777aa283c4430f4a6a0bbff056db0.png",
-                                "paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png"
+                                "paste-d94aa58f7edfa168e4f72e2b4bbb0eaa13585372.png",
+                                "y4xyyuzi3UmG_AwhowmpK3HSNYHXaW3kCinwcFeYt7qV0bz9u_7uleTxcg-AQKcTh_7xncCNIas6YfP8TBrZROwAMF1NUtJr93VSyWW1H5bEeu3URaV.png"
                             ],
                             "name": "Kris MBM2",
                             "notes": [
@@ -3964,6 +3974,78 @@
                                     ],
                                     "guid": "vAEBN:4**9",
                                     "note_model_uuid": "50f84f84-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Important cell cycle factors (Tumor suppressor genes that make proteins that inhibit growth)<br></b><b><br>P53&nbsp;</b>{{c1::Tumor suppressor gene}}<b><span style=\"font-weight: 400;\">- Makes the P53&nbsp;</span></b>{{c1::Transcription factor}}&nbsp;<b><span style=\"font-weight: 400;\">protein that is activated by&nbsp;</span></b>{{c1::DNA Damage}}<b><span style=\"font-weight: 400;\">. In the event of&nbsp;</span></b>{{c1::DNA damage}}<b><span style=\"font-weight: 400;\">&nbsp;the p53 Transcription factor will increase the expression of the CDK inhibitor&nbsp;</span></b>{{c1::p21}}<b><span style=\"font-weight: 400;\">&nbsp;“pausing” the cell cycle. The p53 Transcription factor will also transcribe&nbsp;</span></b>{{c1::DNA repair enzymes}}<b><span style=\"font-weight: 400;\">, which if unable to repair the DNA damage, will induce&nbsp;</span></b>{{c1::apoptosis}}<b><span style=\"font-weight: 400;\">.</span></b>",
+                                        "*&nbsp;<b><span style=\"font-weight: 400;\">Describe how the disruption of the cell cycle can lead to unregulated cell growth.&nbsp;</span></b><br><b><span style=\"font-weight: 400;\"><img src=\"_YGgtpli_L3AhN4S40ST12C1ZjRiATaknQQXsI2artluC9MN6HNcmzlqPiJtydt9Ix1G5yQHT4fdZ02T0vR90GjDziNUWUCkI4NGjZQUe7l-m5RgeT-.png\" class=\"resizer\" style=\"width: 250px;\"></span></b>"
+                                    ],
+                                    "guid": "i_p)w4Q|9a",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Important cell cycle factors (Tumor suppressor genes that make proteins that inhibit growth)<br><br></b><b>Rb&nbsp;</b>{{c1::Tumor suppressor gene}}<b>/ protein<span style=\"font-weight: 400;\"> - Rb protein Is normally attached to&nbsp;</span></b>{{c1::E2F}}<b><span style=\"font-weight: 400;\">&nbsp;inorder to suppress&nbsp;</span></b>{{c1::E2F}}<b><span style=\"font-weight: 400;\">. But when growth factors trigger the Ras signaling pathway.&nbsp; Rb is&nbsp;</span></b>{{c1::phosphorylated}}&nbsp;<b><span style=\"font-weight: 400;\">(from Cyclin D bound to CDK4 and CDK6) and dissociates</span></b><b><span style=\"font-weight: 400;\">&nbsp;allowing&nbsp;</span></b>{{c1::E2F}}<b><span style=\"font-weight: 400;\">&nbsp;to transcribe the genes (like Cyclin E) needed for progression from&nbsp;</span></b>{{c1::G1 to S phase}}<b><span style=\"font-weight: 400;\">&nbsp;of cell cycle.&nbsp;</span></b><b><br></b>",
+                                        "*<b><span style=\"font-weight: 400;\">Describe how the disruption of the cell cycle can lead to unregulated cell growth.</span></b><b><span style=\"font-weight: 400;\"><br></span></b><img src=\"Screen Shot 2022-01-09 at 8.05.59 PM.png\" style=\"width: 383px;\" class=\"resizer\"><br><b><span style=\"font-weight: 400;\"><img src=\"_YGgtpli_L3AhN4S40ST12C1ZjRiATaknQQXsI2artluC9MN6HNcmzlqPiJtydt9Ix1G5yQHT4fdZ02T0vR90GjDziNUWUCkI4NGjZQUe7l-m5RgeT-.png\" class=\"resizer\" style=\"width: 250px;\"></span></b>"
+                                    ],
+                                    "guid": "xt/EEX,&L6",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Know the Cyclins, CDKs, and Phases of the Cell Cycle since they regulate Cell Growth<br><img src=\"Screen Shot 2022-01-09 at 8.13.59 PM.png\" style=\"width: 956px;\" class=\"resizer\">",
+                                        "*<b><span style=\"font-weight: 400;\">Describe how the disruption of the cell cycle can lead to unregulated cell growth.</span></b><br><b><span style=\"font-weight: 400;\"><img src=\"XFXK4za--pEuXQ02MwCxCwaxd6Fq9Judy3YxBxaC7WoOH5YNcFqi-8nVqqMLe670mLEzSgt5BdlIXBB41ppni_tcoUst1P8DZpQDfvFSP4dKbKNHKwq.png\" class=\"resizer\" style=\"width: 229.766px;\"></span></b>"
+                                    ],
+                                    "guid": "hME&~llR,u",
+                                    "note_model_uuid": "fe68bda2-71ce-11ec-8774-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b><div>Receptor Tyrosine Kinases (RTS)<span style=\"font-weight: 400;\">- The majority of&nbsp;</span>{{c1::growth factors}}&nbsp;<span style=\"font-weight: 400;\">receptors that encourage cell growth are RTKs. RTKs have a N terminal domain on the</span> {{c1::outside}}<span style=\"font-weight: 400;\">&nbsp;of the cell where a ligand (Like</span> {{c1::Growth factor}}<span style=\"font-weight: 400;\">&nbsp;or&nbsp;</span>{{c1::Insulin}}<span style=\"font-weight: 400;\">) can bind and a C-Terminal domain in the&nbsp;</span>{{c1::cytosol}}<span style=\"font-weight: 400;\">&nbsp;that has an autophosporalating&nbsp;</span>{{c1::SH2 domain}}<span style=\"font-weight: 400;\">&nbsp;which sequesters a&nbsp;</span>{{c1::signaling protein}}<span style=\"font-weight: 400;\">&nbsp;until a ligand binds. Most RTKs are single polypeptide chains, but some use two that&nbsp;</span>{{c1::dimerize}}<span style=\"font-weight: 400;\">&nbsp;like the&nbsp;</span>{{c1::insulin}}<span style=\"font-weight: 400;\">&nbsp;receptor.&nbsp;<br></span><img src=\"Screen Shot 2022-01-09 at 9.35.46 PM.png\" class=\"resizer\" style=\"width: 250px;\"><br><br></div>NON-Receptor Tyrosine Kinases (</b>{{c1::nRTK}}<b>) - <span style=\"font-weight: 400;\">&nbsp;do not&nbsp;</span></b>{{c1::autophosphorylate}}<b><span style=\"font-weight: 400;\">&nbsp;their SH2 domains. Is used by some Growth Hormones,&nbsp; prolactin, EPO, and many T- and B-cell activators.&nbsp;<br></span></b><img src=\"Screen Shot 2022-01-09 at 9.36.08 PM.png\" class=\"resizer\" style=\"width: 250px;\">",
+                                        "*<b><span style=\"font-weight: 400;\">Explain how cell signaling pathways regulate intracellular processes.&nbsp;</span></b><br><b><span style=\"font-weight: 400;\"><img src=\"8ms4T-aM9NKhtkzUZlFTaFubHaYAK3TJcbymQaYndyiJUwB80jwM3ghCzvav9ICZ7P8sMGShaHQa3uyuvPPHDWX359o5ereMtctTqlZVeErW5b8TQfy.png\" style=\"width: 956px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "dR_vAO-85>",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>MAP Kinase (MAPK) Pathway<span style=\"font-weight: 400;\"> -&nbsp; when a&nbsp;</span></b>{{c1::growth factor}}&nbsp;<b><span style=\"font-weight: 400;\">binds to a </span>Receptor Tyrosine Kinases (could also be a G protein<span style=\"font-weight: 400;\">), the RTK SH2 Domain autophosporalates causing guanine nucleotide exchange factor (</span></b>{{c1::GEF}}<b><span style=\"font-weight: 400;\">) to phosphorylate&nbsp;</span></b>{{c1::RAS}}<b><span style=\"font-weight: 400;\">, Ras recruits&nbsp;</span></b>{{c1::RAF}}<b><span style=\"font-weight: 400;\">&nbsp;to the membrane allowing it to phosphorylate&nbsp;</span></b>{{c1::MEK}}<b><span style=\"font-weight: 400;\">, which phosphorylates&nbsp;</span></b>{{c1::ERK}}<b><span style=\"font-weight: 400;\">. This growth signaling pathway is involved with&nbsp;</span></b>{{c1::cancer}}<b><span style=\"font-weight: 400;\">.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"y4xyyuzi3UmG_AwhowmpK3HSNYHXaW3kCinwcFeYt7qV0bz9u_7uleTxcg-AQKcTh_7xncCNIas6YfP8TBrZROwAMF1NUtJr93VSyWW1H5bEeu3URaV.png\" class=\"resizer\" style=\"width: 250px;\"></span></b><b><span style=\"font-weight: 400;\"><img src=\"mnZkK_h4KEbcuHL8k7a_JcyldaYXW52teeSamsH8TWdKTBTdMZuUbaGychLHHgV8cEQGTPd3Lbgq-SR8KQ5dyXqy0KEClsPz3Xu88QHDMxEkFGp-Mmq.png\" class=\"resizer\" style=\"width: 250px;\"></span></b>",
+                                        "*&nbsp;<b><span style=\"font-weight: 400;\">Explain how cell signaling pathways regulate intracellular processes.</span></b><br><b><span style=\"font-weight: 400;\"><img src=\"8ms4T-aM9NKhtkzUZlFTaFubHaYAK3TJcbymQaYndyiJUwB80jwM3ghCzvav9ICZ7P8sMGShaHQa3uyuvPPHDWX359o5ereMtctTqlZVeErW5b8TQfy.png\" class=\"resizer\" style=\"width: 569px;\"></span></b>"
+                                    ],
+                                    "guid": "k0/@8xs;gg",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::MBM2::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>PI 3-Kinase/AKT Pathway<span style=\"font-weight: 400;\"> - This signaling pathway can be used by </span>Receptor Tyrosine Kinases&nbsp;</b>{{c1::RTKs}}<b><span style=\"font-weight: 400;\">&nbsp;and&nbsp;</span></b>{{c1::G}}<b><span style=\"font-weight: 400;\">&nbsp;Proteins to send a signal into the cell. When a ligand attaches to the receptor,&nbsp;</span></b>{{c1::PI 3}}<b><span style=\"font-weight: 400;\">&nbsp;kinase phosphorylase the membrane bound&nbsp;</span></b>{{c1::PIP2}}<b><span style=\"font-weight: 400;\">, turning it into&nbsp;</span></b>{{c1::PIP3}}<b><span style=\"font-weight: 400;\">.&nbsp;</span></b>{{c1::PIP3}}<b><span style=\"font-weight: 400;\">&nbsp;then recruits&nbsp;</span></b>{{c1::AKT}}<b><span style=\"font-weight: 400;\">&nbsp;to the membrane so it can be phosphorylated by&nbsp;</span></b>{{c1::PDK1}}<b><span style=\"font-weight: 400;\">. Once phosphorylated AKT will fly away and&nbsp;</span></b>{{c1::phosphorylate}}<b><span style=\"font-weight: 400;\">&nbsp;proteins and transcription factors.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"16osE86OOGepRA71Vy7EM0qRMzfn9IffzOtNMNTSWV0REP3tBl1FKk4IzhJaMhtJAvIMvUd3JPpwSgz1ZcRm6YFkQEOpjXLF5L0YftHukDfra4PpY49.png\" class=\"resizer\" style=\"width: 466.672px;\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "<b><span style=\"font-weight: 400;\">*Explain how cell signaling pathways regulate intracellular processes.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"8ms4T-aM9NKhtkzUZlFTaFubHaYAK3TJcbymQaYndyiJUwB80jwM3ghCzvav9ICZ7P8sMGShaHQa3uyuvPPHDWX359o5ereMtctTqlZVeErW5b8TQfy.png\" class=\"resizer\" style=\"width: 555.484px;\"></span></b>"
+                                    ],
+                                    "guid": "qBl^PgDgrH",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
                                     "tags": [
                                         "**MSBS::MBM2::Block1::Week1::A"
                                     ]
@@ -7491,6 +7573,79 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "fe68bda2-71ce-11ec-8774-367ddaa5f0a8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0,
