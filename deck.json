@@ -6209,9 +6209,171 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "337bS7DhEd7Cj5rqnS1m5u3rnekLt3T5W8n9XvWnVpvODMcRsKz2fF8t4eTqJ_bHKcHWmtD3P1mbS8meCxweavgk-TClMMIQ9wdoEipuq228WXyFgDf.png",
+                                "BTdKZm7HgXFJMC5FX6iwevUC7XFG2XBa4-lHZsfrrJyOFRobxLAYH_iD5T8mdIFugwS_pQmIfL_A7JZyHoY3FyGhRn0qmcMs5rvDBtvhjIrub_MhqEJ.png",
+                                "D4RFiov8wETNAG4nFo8-csffDGDNWL8ON6cqDBCfV9hfVv6m-qVeQZ3HjGpdSUrP3XXU3jzFn1YeOU3Xx6iOsKDP4AJSAzK4MxhuS-QcR0s3K0FO5AT.png",
+                                "JugV6wqyq8RJBr7DjSeXMTHk8joMQUnOk5JMPbfeODdWbc36I8yV-fYHXMN6EExb1_LJUC1rG8SY_QU01kuBmu_jq8QWgEQUGwH_id0B7OWr61OqZha.png",
+                                "L02gtEf90fmYIBtKmVgy4GrFtdPiBnqWrUbMcpLneewlNyRnvLGUmodIH_8GFTy_YqscA8Yy0sLfCRIy_lWWnqRelBQuY8ymTR5HwHx4Ig9EWiZRQrU.png",
+                                "ONQJw8bcsDEtPW0SpBQHy0zwsiBc9U2g2PEXSsJS25pBoV6QywmJlyMypwt5cTgvpHs5xW98pfzdu-kDOCjO4b87OKkr1BmXHCWAoWMahbYv5MuC4M6.png",
+                                "Screen Shot 2022-01-10 at 10.15.03 PM.png",
+                                "Screen Shot 2022-01-10 at 10.15.29 PM.png",
+                                "Screen Shot 2022-01-10 at 10.19.04 PM.png",
+                                "Screen Shot 2022-01-11 at 12.10.37 AM.png",
+                                "US0Md7PRXBZA0aApa0dMXqRcu4KGRLRVtGhcWgoeFnLba105uyM6wNK84HST4lVBlzrQ5hne7EPuC2eCF4XlaJdFEQWhH7Ikg3tfQ9FjuP80SQspyNR.png",
+                                "UWlXSHx6AcDHpChsB8ekN3hEuf-JejTIqxTzqMzI9R0dfkOJJk6l2FWawzm_zQ9D3lFVIpJC6izeK3Llt730bnpq7NTONiNaUxarkg8x6_NMiJSgmc4.png",
+                                "h1Z5qIjVlo1Ac27U7I6Hh7uq6Ctv2Y5UnP-LWnKDj2i7ke0e3SLE0nlO5j3HXK3C7CrNCECQXEybkRqgFfIedq1mmN8sG81z3p41cneK53IqZ2f9eKJ.png",
+                                "kuoEl2Hdqrw3Jh5H0PPfYfN9U_NtUXb3KxYVUn_CpUQJmwEa3CFsscCDCPGuUPtD5jm0I8KOQUVOU1UOZCo0IFYGLQvNH7P8KPa3kTasWRcwbV7NjvS.png",
+                                "qZD2ywImwufT9D5jbs-lgmaav9YQgSAK3kMdlge_I6OC9wFdhL4f2TDSnCx-mcrCo6j7bLuChKyTBRL-jdH8CnOYiL0j0HKxAAa2ZrQY2345fzPrpUH.png",
+                                "vhqo9IA4Vt-W-c6XGzL8i2NgfiW9fOrywx6m-xoT06-cuV-mNzLyNAz9cP9Fg0xAJy0bI8St7vWYnzfLo5WexphuUMa7T0LlYV_TABVBxWDHZfGvAKz.png"
+                            ],
                             "name": "Kris Phram",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b><div>Volume of distribution (Vd)<span style=\"font-weight: 400;\"> - how well a drug distributes to</span> {{c1::target body tissues}}<span style=\"font-weight: 400;\">&nbsp;which roughly correlate with&nbsp;</span>{{c1::serum plasma drug}}&nbsp;<span style=\"font-weight: 400;\">concentrations.</span></div><span style=\"font-weight: 400;\">Vd is calculated by accounting for things that impact a drug's actual absorption from the bloodstream to tissue like:</span></b> {{c1::plasma protein}}<b><span style=\"font-weight: 400;\">&nbsp;binding,&nbsp;</span></b>{{c1::capillary}}<b><span style=\"font-weight: 400;\">&nbsp;permeability, drug&nbsp;</span></b>{{c1::lipophilicity}}<b><span style=\"font-weight: 400;\">, and molecular&nbsp;</span></b>{{c1::size}}<b><span style=\"font-weight: 400;\">.</span><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*Defines terms.<br><b><span style=\"font-weight: 400;\"><img src=\"337bS7DhEd7Cj5rqnS1m5u3rnekLt3T5W8n9XvWnVpvODMcRsKz2fF8t4eTqJ_bHKcHWmtD3P1mbS8meCxweavgk-TClMMIQ9wdoEipuq228WXyFgDf.png\" class=\"resizer\" style=\"width: 633.812px;\"></span></b><br><b><span style=\"font-weight: 400;\"><img src=\"ONQJw8bcsDEtPW0SpBQHy0zwsiBc9U2g2PEXSsJS25pBoV6QywmJlyMypwt5cTgvpHs5xW98pfzdu-kDOCjO4b87OKkr1BmXHCWAoWMahbYv5MuC4M6.png\" class=\"resizer\" style=\"width: 641.172px;\"></span></b>"
+                                    ],
+                                    "guid": "pGwM[v%NhP",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b><div>First order kinetics <span style=\"font-weight: 400;\">- clearance of drug that&nbsp;</span>{{c1::varies}}<span style=\"font-weight: 400;\">&nbsp;with time.&nbsp; Generally will be dependent on&nbsp;</span>{{c1::half-life}}<span style=\"font-weight: 400;\">.<br>&nbsp;</span><img src=\"Screen Shot 2022-01-10 at 10.15.03 PM.png\" style=\"width: 342.828px;\" class=\"resizer\"></div></b><b>Zero Order kinetics -<span style=\"font-weight: 400;\">&nbsp; </span><span style=\"font-weight: 400;\">clearance of drugs that&nbsp;</span></b>{{c1::is the same}}<b><span style=\"font-weight: 400;\">&nbsp;for given time interval.&nbsp; E.g.,&nbsp;</span></b>{{c1::alcohol}}<b><span style=\"font-weight: 400;\">, aspirin and&nbsp;</span></b>{{c1::phenytoin}}<b><span style=\"font-weight: 400;\">&nbsp;</span><span style=\"font-weight: 400;\">&nbsp;<br></span></b><img src=\"Screen Shot 2022-01-10 at 10.15.29 PM.png\" style=\"width: 341.141px;\" class=\"resizer\"><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*Define terms<br><b><span style=\"font-weight: 400;\"><img src=\"UWlXSHx6AcDHpChsB8ekN3hEuf-JejTIqxTzqMzI9R0dfkOJJk6l2FWawzm_zQ9D3lFVIpJC6izeK3Llt730bnpq7NTONiNaUxarkg8x6_NMiJSgmc4.png\" style=\"width: 1024px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "v;x$WX.oY3",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Half-life (t1/2) <span style=\"font-weight: 400;\">- time it takes for a drug to reach&nbsp;</span></b>{{c1::50%}}<b><span style=\"font-weight: 400;\">&nbsp;of it’s original (or previous) concentration in the body.<br></span></b><img src=\"Screen Shot 2022-01-10 at 10.19.04 PM.png\" style=\"width: 353.703px;\" class=\"resizer\">",
+                                        "*Define terms.<br><b><span style=\"font-weight: 400;\"><img src=\"L02gtEf90fmYIBtKmVgy4GrFtdPiBnqWrUbMcpLneewlNyRnvLGUmodIH_8GFTy_YqscA8Yy0sLfCRIy_lWWnqRelBQuY8ymTR5HwHx4Ig9EWiZRQrU.png\" class=\"resizer\" style=\"width: 580.453px;\"></span></b>"
+                                    ],
+                                    "guid": "eM;{*s/,Ul",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Clearance (CL) <span style=\"font-weight: 400;\">- The volume which the body&nbsp;</span></b>{{c1::eliminates}}<b><span style=\"font-weight: 400;\">&nbsp;of drug from its system per unit time. Generally eliminated by&nbsp;</span></b>{{c1::kidneys}}<b><span style=\"font-weight: 400;\">, but may include saliva, sweat, and bile.<br></span></b>",
+                                        "*Define terms.<br><b><span style=\"font-weight: 400;\"><img src=\"JugV6wqyq8RJBr7DjSeXMTHk8joMQUnOk5JMPbfeODdWbc36I8yV-fYHXMN6EExb1_LJUC1rG8SY_QU01kuBmu_jq8QWgEQUGwH_id0B7OWr61OqZha.png\" style=\"width: 740.078px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "y(r]+Z{v+E",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Steady-state concentration (Css)<span style=\"font-weight: 400;\">- the point at which a drug reaches the desired drug plasma concentration (generally within the Therapeutic window). Usually requires&nbsp;</span></b>{{c1::4 or 5}}<b><span style=\"font-weight: 400;\">&nbsp;repeated doses of a drug administered at its half-life to get to&nbsp;</span></b>{{c1::97-100}}<b><span style=\"font-weight: 400;\">% of pharmacological steady state assuming first order kinetics.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"h1Z5qIjVlo1Ac27U7I6Hh7uq6Ctv2Y5UnP-LWnKDj2i7ke0e3SLE0nlO5j3HXK3C7CrNCECQXEybkRqgFfIedq1mmN8sG81z3p41cneK53IqZ2f9eKJ.png\" style=\"width: 958px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*Define terms.<br><b><span style=\"font-weight: 400;\"><img src=\"US0Md7PRXBZA0aApa0dMXqRcu4KGRLRVtGhcWgoeFnLba105uyM6wNK84HST4lVBlzrQ5hne7EPuC2eCF4XlaJdFEQWhH7Ikg3tfQ9FjuP80SQspyNR.png\" style=\"width: 916px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "N3l`4<61T=",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Therapeutic window <span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\"> the range between&nbsp;</span></b>{{c1::Minimal Toxic Concentration}}&nbsp;<b><span style=\"font-weight: 400;\">(MEC Toxic) and&nbsp;</span></b>{{c1::Minimal Effective Concentration}}<b><span style=\"font-weight: 400;\">&nbsp;(MEC therapeutic). This is the window in which the drug has the&nbsp;</span></b>{{c1::desired}}<b><span style=\"font-weight: 400;\">&nbsp;effect without&nbsp;</span></b>{{c1::adverse side effects}}<b><span style=\"font-weight: 400;\">.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"vhqo9IA4Vt-W-c6XGzL8i2NgfiW9fOrywx6m-xoT06-cuV-mNzLyNAz9cP9Fg0xAJy0bI8St7vWYnzfLo5WexphuUMa7T0LlYV_TABVBxWDHZfGvAKz.png\" style=\"width: 628.312px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*Define terms.<br><b><span style=\"font-weight: 400;\"><img src=\"vhqo9IA4Vt-W-c6XGzL8i2NgfiW9fOrywx6m-xoT06-cuV-mNzLyNAz9cP9Fg0xAJy0bI8St7vWYnzfLo5WexphuUMa7T0LlYV_TABVBxWDHZfGvAKz.png\" class=\"resizer\" style=\"width: 568.75px;\"></span></b>"
+                                    ],
+                                    "guid": "q//5#8N9fu",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div style=\"\"><span style=\"font-weight: 400;\">Things that impact a drugs actual absorption from the bloodstream to tissue like: precent bount to&nbsp;</span><b>{{c1::plasma}}</b><span style=\"font-weight: 400;\">&nbsp;protein, capillary&nbsp;</span><b>{{c1::permeability}}</b><span style=\"font-weight: 400;\">, drug&nbsp;</span><b>{{c1::Hydrophilicity/Hydrophobicity}} (lipophobicity)</b><span style=\"font-weight: 400;\">, molecular&nbsp;</span><b>{{c1::size}}</b>, and drug {{c1::Polarity}} (ionization)</div>",
+                                        "*<b><span style=\"font-weight: 400;\">List major factors that impact </span><span style=\"font-weight: 400;\">drug distribution</span><span style=\"font-weight: 400;\">.<br></span></b>"
+                                    ],
+                                    "guid": "nC^T;C.VQl",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Explain why a given drug’s volume of distribution can potentially exceed any physical volume in the body.<br></b><b><span style=\"font-weight: 400;\">A large Volume of Distribution (Vd) calue can be caused by factors such&nbsp;</span></b>{{c1::high}}<b><span style=\"font-weight: 400;\">&nbsp;initial drug dose and a&nbsp;</span></b>{{c1::low}}<b><span style=\"font-weight: 400;\">&nbsp;plasma concentration. This can make it appear to exceed body's volume.&nbsp; E.g., Vd= initial dose/plasma concentration,&nbsp; 1500mg/15mg/L = 100L</span><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "<b><span style=\"font-weight: 400;\">*Explain why a given drug’s volume of distribution can potentially exceed any physical volume in the body.&nbsp;<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"kuoEl2Hdqrw3Jh5H0PPfYfN9U_NtUXb3KxYVUn_CpUQJmwEa3CFsscCDCPGuUPtD5jm0I8KOQUVOU1UOZCo0IFYGLQvNH7P8KPa3kTasWRcwbV7NjvS.png\" style=\"width: 629.328px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>"
+                                    ],
+                                    "guid": "oh?b6Ue~#[",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Discuss drug metabolism/biotransformation.</b><br><br>Drugs can be delivered as drugs or {{c1::pro-drugs}}.&nbsp; Eventually the drugs are metabolized by the {{c1::liver}}.&nbsp; If a drug is delivered as a pro-drug, it will need to first be {{c1::metabolized}} in order to act.&nbsp; However, a drug in its active form that is metabolized by the liver will become {{c1::inactivated}}.&nbsp; Example a patient on warfarin that is then given {{c1::erythromycin}} may experience bleeding, because, {{c1::erythromycin}} deactivates the liver enzyme {{c1::CY P450}} in the liver that metabolizes warfarin.&nbsp;Conversely, a patient on warfarin may experience an ischemic episode if the patient receives the drug {{c1::phenytoin}}, because, {{c1::phenytoin}} increases the activity of P450 and thus deactivates more warfarin.&nbsp;&nbsp;",
+                                        "*<b><span style=\"font-weight: 400;\">Discuss </span><span style=\"font-weight: 400;\">drug metabolism/biotransformation</span><span style=\"font-weight: 400;\">.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"qZD2ywImwufT9D5jbs-lgmaav9YQgSAK3kMdlge_I6OC9wFdhL4f2TDSnCx-mcrCo6j7bLuChKyTBRL-jdH8CnOYiL0j0HKxAAa2ZrQY2345fzPrpUH.png\" style=\"width: 656px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>"
+                                    ],
+                                    "guid": "q]$nVg/Mg<",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Compare and contrast first-order and zero-order kinetic processes.<br></b><b></b><br><b>First order kinetics</b>- the amount of drug cleared {{c1::varies}} with time.<b><br>Zero order kinetics</b>- a {{c1::constant}} amount of the drug is cleared over a particular time frame.<br><b><span style=\"font-weight: 400;\"><img src=\"D4RFiov8wETNAG4nFo8-csffDGDNWL8ON6cqDBCfV9hfVv6m-qVeQZ3HjGpdSUrP3XXU3jzFn1YeOU3Xx6iOsKDP4AJSAzK4MxhuS-QcR0s3K0FO5AT.png\" style=\"width: 587.562px;\" class=\"resizer\"></span></b>",
+                                        "*<b>Compare and contrast first-order and zero-order kinetic processes.</b><br><b><span style=\"font-weight: 400;\"><img src=\"D4RFiov8wETNAG4nFo8-csffDGDNWL8ON6cqDBCfV9hfVv6m-qVeQZ3HjGpdSUrP3XXU3jzFn1YeOU3Xx6iOsKDP4AJSAzK4MxhuS-QcR0s3K0FO5AT.png\" class=\"resizer\" style=\"width: 589.688px;\"></span></b>"
+                                    ],
+                                    "guid": "Pk:J,RD3vI",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b><span style=\"font-weight: 400;\">Factors which may impact a drug’s half-life.</span></b><br><ol style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\"><b>{{c1::Volume of distribution}} (</b>Vd)</span></div></li><li><div><span style=\"font-weight: 400;\"><span style=\"font-weight: bold;\">{{c1::Clearance}}</span>&nbsp;(CL)</span></div></li><li><div><span style=\"font-weight: 400;\">How a {{c1::Dose}}&nbsp;of a drug is administered.</span></div></li><li><div><span style=\"font-weight: 400;\">Drugs with clearance following {{c1::Zero order}}&nbsp;kinetics do not have a half-life.</span></div></li></ol>",
+                                        "*<b><span style=\"font-weight: 400;\">Describe factors which may impact a drug’s half-life.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"US0Md7PRXBZA0aApa0dMXqRcu4KGRLRVtGhcWgoeFnLba105uyM6wNK84HST4lVBlzrQ5hne7EPuC2eCF4XlaJdFEQWhH7Ikg3tfQ9FjuP80SQspyNR.png\" class=\"resizer\" style=\"width: 479px;\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>"
+                                    ],
+                                    "guid": "hvGC}pgGBb",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Explain how drug dose and dosing frequency affect plasma drug concentrations (Css).<div style=\"\"><span style=\"font-weight: 400;\">Think of steady state.<br><br></span>a. It takes {{c1::4 to 5}} half lives (t&nbsp;1/2) in order for a drug to reach a steady state.&nbsp; <br>b. It is better to give {{c1::smaller}}&nbsp;frequent doses to avoid large peaks and throughs in plasma concentration.<br><img src=\"Screen Shot 2022-01-11 at 12.10.37 AM.png\" style=\"width: 698px;\" class=\"resizer\"><br></div>",
+                                        "*Explain&nbsp;how drug dose and dosing frequency affect plasma drug concentrations (Css).<div>Think of steady state.</div><b><span style=\"font-weight: 400;\"><img src=\"BTdKZm7HgXFJMC5FX6iwevUC7XFG2XBa4-lHZsfrrJyOFRobxLAYH_iD5T8mdIFugwS_pQmIfL_A7JZyHoY3FyGhRn0qmcMs5rvDBtvhjIrub_MhqEJ.png\" style=\"width: 528.141px;\" class=\"resizer\"></span></b><br>"
+                                    ],
+                                    "guid": "s*RhYeIDo:",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1::Week1::B"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -7605,7 +7767,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed card)-78868",
+            "name": "Basic (and reversed card)",
             "req": [
                 [
                     0,
