@@ -3663,9 +3663,183 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "6k3JpKAmz-tbmmMWDEpY86lWxP_D4V765clx_VH_-_S_UqHNcC8a8pFnTq8Y4v3qUXoxdLrkmui5RzLr1oHuMo_Av9SFlsDjpcdhXRni4_24kkr368x.png",
+                                "77cb0e655a9d414d97dca7d22b21744b-ao-1-A.svg",
+                                "77cb0e655a9d414d97dca7d22b21744b-ao-1-Q.svg",
+                                "77cb0e655a9d414d97dca7d22b21744b-ao-O.svg",
+                                "916fb4a26d0e4169aa8470ca0e8c2c9f-ao-1-A.svg",
+                                "916fb4a26d0e4169aa8470ca0e8c2c9f-ao-1-Q.svg",
+                                "916fb4a26d0e4169aa8470ca0e8c2c9f-ao-O.svg",
+                                "CQrV_IFOY7ROt3YB0Fc2J4LTWkuiQmtdUQzUbkyOGNnM9IctoiWScmJlZ6-WDbMD_pP0FIID8j_vKtzp1YUxrR2xe3Oym3LDrQ4RMkU2etp2txaGL4S.png",
+                                "Mv4B5_Aa_2kuJFXIay4124xsTniU6pyf8Qq-K3BdbWooCMgpPR7ecLyKz04yNdG_jYv2-aVUeBRo8ZMilF3k-kfUCLKXh2hqHCGYSfrIsAfxx8BqV4Y.png",
+                                "Zsyyq7XHW6xkmwEfqos8t7vzCrJLwCCxY-Cw-KBP_j5GaHIq0o3bAQBYPM6HSZhzlLnPEaQjF4aNowjPkoP0H7bgdfo2gCoLjpIpFjQ5ejYGOsfb-DS.png",
+                                "dl1l9z43OYYilj72CabTZRGuRajdpAQLuVVTTpgSkn4xd0mqD5K5Chb_qt-3WZqkGhckK-z_7rCYKhNvF7nbRdlFWSAAzfyfglx4ZN0Xk6sG7_c1YCW.png",
+                                "e4d1e61806ae44bf9bbbeb313a3306ee-ao-1-A.svg",
+                                "e4d1e61806ae44bf9bbbeb313a3306ee-ao-1-Q.svg",
+                                "e4d1e61806ae44bf9bbbeb313a3306ee-ao-O.svg",
+                                "ix7YcJ7KY6RapLVv9BS1vj8aEWB_ejLvRYXwgItRANzmscQK9rRo8MNKQPwBPx2jGL-sqhYzxCikLF8Fjap-6CUbBXsqNfHqKBaJ5uxjcKwnUt_g8u3.png",
+                                "paste-0a65d7425283fa0d4ba83f51066a4287d87ba1c8.png",
+                                "paste-7a23266b177d0465ad621197bb7d9650df8b4af1.jpg",
+                                "paste-80bda454044fc4119a74578a30bb1633c43404a2.jpg",
+                                "paste-9507b65028b21d749720d88fe2722f1f63dd66ab.jpg",
+                                "paste-9de4991cfca470a4a3059ca8fb0defc3fc70fd76.png",
+                                "paste-d57a64d11f9c373ddf81d57b64d9a9b2c90058c6.jpg",
+                                "paste-dbff72495e83ddd57002732f8ba5830ebf8fe35a.jpg",
+                                "tmp5y7c8jrm.png",
+                                "tmpq4z2gw2b.png",
+                                "tmptaj6chg1.png"
+                            ],
                             "name": "Kris IMUN",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "77cb0e655a9d414d97dca7d22b21744b-ao-1",
+                                        "List the entry points for pathogens into the body. Recall the chemical, mechanical, and microbiological defense at these entry points.",
+                                        "<img src=\"tmptaj6chg1.png\" />",
+                                        "<img src=\"77cb0e655a9d414d97dca7d22b21744b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "*List the entry points for pathogens into the body. Recall the chemical, mechanical, and microbiological defense at these entry points.<br>Respiratory Tract<br>GI tract<br>GU tract<br>Eyes<br>Oral cavity<br>Skin<br>Nails<br><b><span style=\"font-weight: 400;\"><img src=\"dl1l9z43OYYilj72CabTZRGuRajdpAQLuVVTTpgSkn4xd0mqD5K5Chb_qt-3WZqkGhckK-z_7rCYKhNvF7nbRdlFWSAAzfyfglx4ZN0Xk6sG7_c1YCW.png\" class=\"resizer\" style=\"width: 403.734px;\"></span></b>",
+                                        "",
+                                        "<img src=\"77cb0e655a9d414d97dca7d22b21744b-ao-1-A.svg\" />",
+                                        "<img src=\"77cb0e655a9d414d97dca7d22b21744b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "nK9.SEm*y9",
+                                    "note_model_uuid": "fff4d910-735b-11ec-92ca-acde48001122",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Name the major central and peripheral lymphoid organs. What are the different functions of these organs in the immune system?</b><b><br><ol><li><div>Central<span style=\"font-weight: 400;\"> - Where lymphocytes {{c1::develop}}&nbsp;and mature.&nbsp;</span></div></li><ol><li><div><span style=\"font-weight: 400;\">Bone marrow: {{c1::B}}&nbsp;cells develop and mature and other immune cells develop&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Thymus: Where {{c1::T}}&nbsp;cells continue to develop and mature</span></div></li></ol><li><div>Peripheral<span style=\"font-weight: 400;\"> - where {{c1::mature}}&nbsp;lymphocytes interact w/ each other and pathogens to become stimulated to respond.</span></div></li></ol><div>S.L.A.P.T.&nbsp; M.A!</div><br><div><span style=\"font-weight: 400;\">-</span> S<span style=\"font-weight: 400;\">pleen (Defends against&nbsp;</span>{{c1::Blood-borne}}&nbsp;<span style=\"font-weight: 400;\">pathogens)</span></div><div><span style=\"font-weight: 400;\">-</span> L<span style=\"font-weight: 400;\">ymph nodes</span></div><div><span style=\"font-weight: 400;\">- </span>A<span style=\"font-weight: 400;\">ppendix</span></div><div><span style=\"font-weight: 400;\">- </span>P<span style=\"font-weight: 400;\">eyer's patches</span></div><div><span style=\"font-weight: 400;\">- </span>T<span style=\"font-weight: 400;\">onsils</span></div><div><span style=\"font-weight: 400;\">- </span>M<span style=\"font-weight: 400;\">ALT/GALT/BALT (</span>{{c1::Mucosal}}<span style=\"font-weight: 400;\">,&nbsp;</span>{{c1::Gut}}<span style=\"font-weight: 400;\">,&nbsp;</span>{{c1::Bronchial}}<span style=\"font-weight: 400;\">&nbsp;associated lymphoid tissue)</span></div><span style=\"font-weight: 400;\">-</span> A<span style=\"font-weight: 400;\">denoids<br><br></span></b><img class=\"resizer\" src=\"paste-dbff72495e83ddd57002732f8ba5830ebf8fe35a.jpg\" style=\"width: 256px;\">",
+                                        "*<b>Name the major central and peripheral lymphoid organs. What are the different functions of these organs in the immune system?<br></b><b><span style=\"font-weight: 400;\"><img src=\"Zsyyq7XHW6xkmwEfqos8t7vzCrJLwCCxY-Cw-KBP_j5GaHIq0o3bAQBYPM6HSZhzlLnPEaQjF4aNowjPkoP0H7bgdfo2gCoLjpIpFjQ5ejYGOsfb-DS.png\" class=\"resizer\" style=\"width: 370.547px;\"></span></b><b><br></b>"
+                                    ],
+                                    "guid": "ofQ1J{k(32",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Lymphocytes circulate in the {{c1::blood}}. Leave the blood and go into {{c1::lymph node}}. If encounters pathogen draining from&nbsp;<span style=\"color: var(--field-fg);\">{{c1::afferent&nbsp;<span style=\"color: var(--field-fg);\">lymphatic vessel</span>}}, the lymphocyte {{c1::stays}}. If not it {{c1::reenters}} circulation via&nbsp;</span><span style=\"color: var(--field-fg);\">{{c1::efferent lymphatic&nbsp;</span><span style=\"color: var(--field-fg);\">vessel</span><span style=\"color: var(--field-fg);\">}}.&nbsp;<br></span><div><img class=\"resizer\" src=\"paste-80bda454044fc4119a74578a30bb1633c43404a2.jpg\" style=\"width: 353.359px;\"><img class=\"resizer\" src=\"paste-9507b65028b21d749720d88fe2722f1f63dd66ab.jpg\" style=\"width: 250px;\"></div>",
+                                        "<div>\n<div>\n<div>*(No SLO but she talked about this)<br><img src=\"paste-0a65d7425283fa0d4ba83f51066a4287d87ba1c8.png\" style=\"width: 1080px;\" class=\"resizer\"></div>\n</div></div>"
+                                    ],
+                                    "guid": "Go|df~mZ=C",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Know the normal&nbsp;</b><b>percentage&nbsp;</b><b>range of the different leukocytes in a complete blood count (CBC)</b><br><img class=\"resizer\" src=\"paste-7a23266b177d0465ad621197bb7d9650df8b4af1.jpg\" style=\"width: 1067px;\">",
+                                        "*<b><span style=\"font-weight: 400;\">Know the normal&nbsp;</span></b><b><span style=\"font-weight: 400;\">percentage </span></b><b><span style=\"font-weight: 400;\">range of the different leukocytes in a complete blood count (CBC). (percentage ranges not actual number ranges)</span></b><br><img src=\"paste-d57a64d11f9c373ddf81d57b64d9a9b2c90058c6.jpg\" style=\"width: 1377px;\" class=\"resizer\">"
+                                    ],
+                                    "guid": "G->JV2MMI2",
+                                    "note_model_uuid": "fe68bda2-71ce-11ec-8774-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "916fb4a26d0e4169aa8470ca0e8c2c9f-ao-1",
+                                        "List and describe the function of the main components of human blood.",
+                                        "<img src=\"tmpq4z2gw2b.png\" class=\"resizer\">",
+                                        "<img src=\"916fb4a26d0e4169aa8470ca0e8c2c9f-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "*List and describe the function of the main components of human blood.",
+                                        "",
+                                        "<img src=\"916fb4a26d0e4169aa8470ca0e8c2c9f-ao-1-A.svg\" />",
+                                        "<img src=\"916fb4a26d0e4169aa8470ca0e8c2c9f-ao-O.svg\" />"
+                                    ],
+                                    "guid": "q8#](%kfF5",
+                                    "note_model_uuid": "fff4d910-735b-11ec-92ca-acde48001122",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Hematopoiesis<span style=\"font-weight: 400;\"> - the differentiation of&nbsp;</span></b>{{c1::Lymphoid}}<b><span style=\"font-weight: 400;\">,&nbsp;</span></b>{{c1::Myeloid}}<b><span style=\"font-weight: 400;\">&nbsp;and&nbsp;</span></b>{{c1::Megakaryocyte/Erythroid}}<b><span style=\"font-weight: 400;\">&nbsp;cell types from a pluripotent hematopoietic stem cell. In a fetus this process takes place in the&nbsp;</span></b>{{c1::liver}}<b><span style=\"font-weight: 400;\">&nbsp;and&nbsp;</span></b>{{c1::speen}}<b><span style=\"font-weight: 400;\">, In adults it takes place in the&nbsp;</span></b>{{c1::bone marrow}}<b><span style=\"font-weight: 400;\">. If the bone marrow is irradiated, It will kill the&nbsp;</span></b>{{c1::hematopoietic}}<b><span style=\"font-weight: 400;\">&nbsp;stem cells leading to the inability to produce&nbsp;</span></b>{{c1::RBCs}}<b><span style=\"font-weight: 400;\">&nbsp;and&nbsp;</span></b>{{c1::WBCs}}<b><span style=\"font-weight: 400;\">.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"Mv4B5_Aa_2kuJFXIay4124xsTniU6pyf8Qq-K3BdbWooCMgpPR7ecLyKz04yNdG_jYv2-aVUeBRo8ZMilF3k-kfUCLKXh2hqHCGYSfrIsAfxx8BqV4Y.png\" style=\"width: 568.203px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*<b><span style=\"font-weight: 400;\">What is hematopoiesis? What is a stem cell? What is the result to a patient if their stem cells are irradiated? Identify the different anatomical locations where hematopoiesis occurs in embryonic, fetal, and adult life.<br></span></b><b><span style=\"font-weight: 400;\"><img src=\"CQrV_IFOY7ROt3YB0Fc2J4LTWkuiQmtdUQzUbkyOGNnM9IctoiWScmJlZ6-WDbMD_pP0FIID8j_vKtzp1YUxrR2xe3Oym3LDrQ4RMkU2etp2txaGL4S.png\" style=\"width: 1377px;\" class=\"resizer\"></span></b><b><span style=\"font-weight: 400;\"><br></span></b>"
+                                    ],
+                                    "guid": "Mrn1qVb7Df",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e4d1e61806ae44bf9bbbeb313a3306ee-ao-1",
+                                        "Compare and contrast the recognition mechanisms of innate and adaptive immunity",
+                                        "<img src=\"tmp5y7c8jrm.png\" />",
+                                        "<img src=\"e4d1e61806ae44bf9bbbeb313a3306ee-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "*Compare and contrast the recognition mechanisms of innate and adaptive immunity.<br />",
+                                        "",
+                                        "<img src=\"e4d1e61806ae44bf9bbbeb313a3306ee-ao-1-A.svg\" />",
+                                        "<img src=\"e4d1e61806ae44bf9bbbeb313a3306ee-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B&sGZL(]jb",
+                                    "note_model_uuid": "fff4d910-735b-11ec-92ca-acde48001122",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>List the five cardinal signs of inflammation.</b><br><ol style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">DCRTF</span></div></li></ol><div style=\"font-weight: bold;\"><span style=\"font-weight: 400;\">-&nbsp;</span>{{c1::Dolor}}<span style=\"font-weight: 400;\">: Pain</span></div><div style=\"font-weight: bold;\"><span style=\"font-weight: 400;\">- Calor:&nbsp;</span>{{c1::Heat}}</div><div style=\"font-weight: bold;\"><span style=\"font-weight: 400;\">-&nbsp;</span>{{c1::Rubor}}<span style=\"font-weight: 400;\">: Redness</span></div><div style=\"font-weight: bold;\"><span style=\"font-weight: 400;\">- Tumor:&nbsp;</span>{{c1::Swelling}}</div><div style=\"font-weight: bold;\"><span style=\"font-weight: 400;\">-&nbsp;</span>{{c1::Functio}}<span style=\"font-weight: 400;\">&nbsp;Laesa: Loss of function</span></div><ol style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Example: Hitting your head on something might cause a small area of inflammation without breaking the skin. A small scrape to that area may become infected and have pus, heat, swelling, redness and pain</span></div></li></ol>",
+                                        "*<b><ol><li><div><span style=\"font-weight: 400;\">List the five cardinal signs of inflammation. Describe the difference between inflammation and infection with an example.</span></div></li></ol></b><b><span style=\"font-weight: 400;\"><img src=\"ix7YcJ7KY6RapLVv9BS1vj8aEWB_ejLvRYXwgItRANzmscQK9rRo8MNKQPwBPx2jGL-sqhYzxCikLF8Fjap-6CUbBXsqNfHqKBaJ5uxjcKwnUt_g8u3.png\" style=\"width: 1348px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "el)(VaEgqE",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b><span style=\"font-weight: 400;\">What was the first virus to be eradicated by vaccination?&nbsp; What would be the consequence today if a bioterrorist released this virus into a city?<br><br></span></b>{{c1::Small pox }}<b><span style=\"font-weight: 400;\">- Lots of people would die since everyone (except the military)would have no adaptive immunity.</span></b><b><span style=\"font-weight: 400;\"><br></span></b>",
+                                        "*<b><span style=\"font-weight: 400;\">What was the first virus to be eradicated by vaccination?&nbsp; What would be the consequence today if a bioterrorist released this virus into a city?<br></span></b><div>\n<div>\n<div><img src=\"paste-9de4991cfca470a4a3059ca8fb0defc3fc70fd76.png\" style=\"width: 1061px;\" class=\"resizer\"></div>\n</div></div>"
+                                    ],
+                                    "guid": "u<9$PQa4~E",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Commensal bacteria<span style=\"font-weight: 400;\"> - bacteria which are not pathogenic and&nbsp;</span></b>{{c1::benefit}}<b><span style=\"font-weight: 400;\">&nbsp;the host in some way. They help us with&nbsp;</span></b>{{c1::digestion}}<b><span style=\"font-weight: 400;\">, out competing pathogenic bacteria for resources preventing&nbsp;</span></b>{{c1::colonization}}<b><span style=\"font-weight: 400;\">. Antibiotics can disturb the balance and lead to problems, like with C. diff.&nbsp;</span></b>",
+                                        "*<span style=\"font-weight: bold;\">Define commensal bacteria. Name the benefits of commensals in the human gut.&nbsp; How do antibiotics upset the function of commensals?</span><br><b><span style=\"font-weight: 400;\"><img src=\"6k3JpKAmz-tbmmMWDEpY86lWxP_D4V765clx_VH_-_S_UqHNcC8a8pFnTq8Y4v3qUXoxdLrkmui5RzLr1oHuMo_Av9SFlsDjpcdhXRni4_24kkr368x.png\" style=\"width: 1080px;\" class=\"resizer\"></span></b>"
+                                    ],
+                                    "guid": "j6K1W)dYw+",
+                                    "note_model_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+                                    "tags": [
+                                        "**MSBS::IMUN::Block1::Week1::A"
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -3685,6 +3859,7 @@
                                 "93f4db88115c4043a8ecd45a01d7dffa-ao-3-Q.svg",
                                 "93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg",
                                 "Screen Shot 2022-01-05 at 7.45.33 PM.png",
+                                "dl1l9z43OYYilj72CabTZRGuRajdpAQLuVVTTpgSkn4xd0mqD5K5Chb_qt-3WZqkGhckK-z_7rCYKhNvF7nbRdlFWSAAzfyfglx4ZN0Xk6sG7_c1YCW.png",
                                 "paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png",
                                 "paste-da4f807433040c37f81dc5bba89e03f399e41870.png"
                             ],
@@ -3694,7 +3869,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "The 4\n     “classes” of microorganisms that cause disease:<br><ol><li>{{c1::Viruses}}</li><li>{{c1::Bacteria}}</li><li>{{c1::Fungi}}</li><li>{{c1::Parasites}}</li></ol>",
-                                        "<img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\" class=\"resizer\">"
+                                        "*<b>Name the 4 “classes” of microorganisms that cause disease.</b><br><img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\" class=\"resizer\" style=\"width: 652px;\">"
                                     ],
                                     "guid": "PN>L+]UTty",
                                     "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
@@ -3706,7 +3881,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>Pathogen\n- {{c1::any organism with the potential to cause disease}}</div>\n<div>Opportunistic\npathogen - {{c1::organism that causes disease only in individuals whose immune system\nis some way compromised}}</div>\n<div>&nbsp;</div>",
-                                        "<img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\"><span style=\"font-weight: bold;\"><br>SLO: Distinguish between a pathogen and an opportunistic pathogen</span>."
+                                        "*<span style=\"font-weight: bold;\">SLO: Distinguish between a pathogen and an opportunistic pathogen</span>.<br><br><img src=\"paste-da4f807433040c37f81dc5bba89e03f399e41870.png\" class=\"resizer\" style=\"width: 652px;\">"
                                     ],
                                     "guid": "BA,].C2ooQ",
                                     "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
@@ -3717,8 +3892,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>Non-self: {{c1::Pathogens;\nimmune system responds to foreign things in the body}}</div>\n<div>Self: {{c1::immune system\ndoes not react}}</div>",
-                                        "<img src=\"Screen Shot 2022-01-05 at 7.45.33 PM.png\"><span style=\"font-weight: bold;\"><br>Distinguish\n     between self and non-self.&nbsp; </span><span style=\"font-weight: bold;\">How does\n     this relate to immunological tolerance?</span>"
+                                        "<div><b>Non-self:</b> Immune system responds to foreign {{c1::antigens}} (often on Pathogens)</div>\n<div><b>Self: </b>immune system {{c1::does not react}} against \"self\" antigen<br><br></div><div><b>Immunological Tolerance<span style=\"font-weight: 400;\"> - The body learns how to&nbsp;</span></b>{{c1::tolerate}}<b><span style=\"font-weight: 400;\">&nbsp;and diferentiate&nbsp;</span></b>{{c1::self}}<b><span style=\"font-weight: 400;\">&nbsp;vs.&nbsp;</span></b>{{c1::non-self}}<b><span style=\"font-weight: 400;\">&nbsp;cells. Problems with this can lead to the creation of&nbsp;</span></b>{{c1::autoantibodys}}<b><span style=\"font-weight: 400;\">&nbsp;causing autoimune diseases.&nbsp;</span></b><br></div>",
+                                        "*<span style=\"font-weight: bold;\">Distinguish between self and non-self.&nbsp;&nbsp;</span><span style=\"font-weight: bold;\">How does this relate to immunological tolerance?</span><br><img src=\"Screen Shot 2022-01-05 at 7.45.33 PM.png\" class=\"resizer\" style=\"width: 250px;\"><span style=\"font-weight: bold;\"><br></span>"
                                     ],
                                     "guid": "Kk^+bwEp4i",
                                     "note_model_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
@@ -3730,13 +3905,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "93f4db88115c4043a8ecd45a01d7dffa-ao-1",
-                                        "",
-                                        "<img src=\"paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png\" />",
+                                        "<b>Recall the chemical, mechanical, and microbiological defense at these entry points.</b>",
+                                        "<img src=\"paste-2689c5d50d1259f6bd87b3a892d90c6d4b512ae1.png\" class=\"resizer\">",
                                         "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-1-Q.svg\" />",
                                         "",
                                         "",
                                         "",
-                                        "",
+                                        "*<b>List the entry points for pathogens into the body. Recall the chemical, mechanical, and microbiological defense at these entry points.</b><br><b><span style=\"font-weight: 400;\"><img src=\"dl1l9z43OYYilj72CabTZRGuRajdpAQLuVVTTpgSkn4xd0mqD5K5Chb_qt-3WZqkGhckK-z_7rCYKhNvF7nbRdlFWSAAzfyfglx4ZN0Xk6sG7_c1YCW.png\" class=\"resizer\" style=\"width: 250px;\"></span></b>",
                                         "",
                                         "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-1-A.svg\" />",
                                         "<img src=\"93f4db88115c4043a8ecd45a01d7dffa-ao-O.svg\" />"
@@ -7319,6 +7494,257 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "fff4d910-735b-11ec-92ca-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "fe68bda2-71ce-11ec-8774-367ddaa5f0a8",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "a1a82cac-6eb2-11ec-8ae8-367dda438019",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
@@ -7490,61 +7916,6 @@
                 }
             ],
             "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "50f77366-6daa-11ec-9cd8-367ddaa5f0a8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
         },
         {
             "__type__": "NoteModel",
@@ -7735,79 +8106,6 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "fe68bda2-71ce-11ec-8774-367ddaa5f0a8",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (and reversed card)",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0,
