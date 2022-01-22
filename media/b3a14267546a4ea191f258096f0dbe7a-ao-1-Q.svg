@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1472" height="622">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="b3a14267546a4ea191f258096f0dbe7a-ao-1" class="qshape">
+   <rect height="51.35135" width="214.86487" y="14.48649" x="69.89183" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="60.81081" width="232.43243" y="11.78379" x="440.1621" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="59.45946" width="187.83784" y="7.72973" x="806.37832" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="55.40541" width="152.7027" y="13.13514" x="1183.40535" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="21.62162" width="186.48649" y="111.78379" x="1203.67562" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="21.62162" width="183.78378" y="110.43243" x="853.67562" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="24.32432" width="245.94595" y="110.43243" x="436.10805" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="51.35135" width="229.72973" y="106.37838" x="63.13507" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="36.48649" width="260.81081" y="468.54054" x="409.08102" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="29.72973" width="59.45946" y="379.35135" x="161.78372" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="78.37838" width="279.72973" y="471.24325" x="53.67561" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="51.35135" width="228.37838" y="476.64865" x="810.43237" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="21.62162" width="18.91892" y="399.62162" x="895.56751" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="25.67568" width="72.97297" y="400.97298" x="949.62156" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="81.08108" width="267.56757" y="469.8919" x="1186.10805" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+ </g>
+</svg>
