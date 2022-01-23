@@ -11418,154 +11418,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "{{c1::Atropine}} is a <i>nonselective&nbsp;</i>{{c2::muscarinic}} <i>antagonist </i>and can be used as an antidote for cholinergic toxicity, sinus brady, and/or AV block.&nbsp;<br>",
-                                        "<img src=\"paste-f7847a241e2234b59a6c1214b152bdc9e091d08a.jpg\">",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "iB8Sq+SX0T",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Phys::Block2"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<b>Atropine </b>{{c1::increases}} heart rate and cardiac output, {{c1::reduces}} secretions, {{c1::inhibits}} sweating, {{c1::dilates}} pupils, and {{c1::inhibits}} histamine-induced bronchoconstriction.&nbsp;",
-                                        "Nonselective muscarinic antagonist<div><img src=\"paste-f7847a241e2234b59a6c1214b152bdc9e091d08a.jpg\"><br></div>",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "CA[2@qYe(9",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Pharm::Block1",
-                                        "**MSBS::Phys::Block2"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Drugs with the suffix \"-omab\" are monoclonal antibodies of&nbsp;{{c1::mouse}} origin.&nbsp;",
-                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "i4Jm~C%/P+",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Immuno::Block1"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Drugs of suffix \"-umab\" are monoclonal antibodies of&nbsp;{{c1::human}} origin.&nbsp;",
-                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "GG!qT{A;Ty",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Immuno::Block1"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Drugs of suffix \"-zumab\" are monoclonal antibodies of&nbsp;{{c1::humanized}} origin.&nbsp;",
-                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "L_RLxgv1,&",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Immuno::Block1"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "{{c1::<u>Cevimeline</u>}} is a <i>synthetic <b>direct-acting&nbsp;muscarinic agonist</b></i>, selective for&nbsp;{{c2::<u>M3</u>}} receptors. It is given as an oral tablet to treat {{c3::dry mouth (xerostomia)}} in patients with <b>Sjogren's syndrome or damaged salivary glands</b>.&nbsp;<br><div><br></div><div>Common adverse effects include <b>excessive sweating, nausea, and blurred vision.&nbsp;</b></div>",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "BEnv85}rLN",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Pharm::Block1"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ibritumomab is a antibody-delivered chemotherapeutic conjugated to anti-{{c1::CD20}}, which binds to B-cells, resulting in proximal killing of the tumor cells with the conjugated&nbsp;{{c2::radionuclide}}",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "Q7RldTJyPL",
-                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
-                                    "tags": [
-                                        "**MSBS::Immuno::Block4"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "<ul>\n<li><b><font color=\"#f24033\">Pharmacodynamics</font></b>:</li>\n</ul>\n<div>Study of what {{c1::drugs}} do to the\n{{c1::body}} ({{c1::MOA}})<br><br>Ex:&nbsp;<span style=\"text-decoration-line: underline;\">{{c1::Toxicity}}&nbsp;(side effect) and&nbsp;</span>{{c1::Efficacy}}</div><br><ul><li><b><font color=\"#f24033\">Pharmacokinetics</font></b><br></li>\n</ul>\n<div>&nbsp;What the {{c1::body}} does to the {{c1::drugs}} ({{c1::ADME}}).<br>1. {{c1::Absorption}}</div>\n<div>2. {{c1::Distribution}}</div>\n<div>3. {{c1::Metabolism}}</div>\n<div>4. {{c1::Elimination}}</div>",
                                         "<img src=\"paste-66ebe3088fbf2fcd0ebf8f759b8f5df63b00d922.jpg\" class=\"resizer\"><br>*Define the\nterms: bioavailability, first-pass effect, pharmacodynamics, pharmacokinetics (ADME), and therapeutic\nwindow.",
                                         "",
@@ -11729,6 +11581,154 @@
                                     "note_model_uuid": "e1fa2dae-6eb3-11ec-bc0a-8c85906ce275",
                                     "tags": [
                                         "**MSBS::Pharm::Block1::Week1::A"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Atropine}} is a <i>nonselective&nbsp;</i>{{c2::muscarinic}} <i>antagonist </i>and can be used as an antidote for cholinergic toxicity, sinus brady, and/or AV block.&nbsp;<br>",
+                                        "<img src=\"paste-f7847a241e2234b59a6c1214b152bdc9e091d08a.jpg\">",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "iB8Sq+SX0T",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Phys::Block2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Atropine </b>{{c1::increases}} heart rate and cardiac output, {{c1::reduces}} secretions, {{c1::inhibits}} sweating, {{c1::dilates}} pupils, and {{c1::inhibits}} histamine-induced bronchoconstriction.&nbsp;",
+                                        "Nonselective muscarinic antagonist<div><img src=\"paste-f7847a241e2234b59a6c1214b152bdc9e091d08a.jpg\"><br></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "CA[2@qYe(9",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1",
+                                        "**MSBS::Phys::Block2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Drugs with the suffix \"-omab\" are monoclonal antibodies of&nbsp;{{c1::mouse}} origin.&nbsp;",
+                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "i4Jm~C%/P+",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Immuno::Block1"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Drugs of suffix \"-umab\" are monoclonal antibodies of&nbsp;{{c1::human}} origin.&nbsp;",
+                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "GG!qT{A;Ty",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Immuno::Block1"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Drugs of suffix \"-zumab\" are monoclonal antibodies of&nbsp;{{c1::humanized}} origin.&nbsp;",
+                                        "<img src=\"paste-0c3d45ac6e6ef776472d64f5be9c074776b81dd0.jpg\">",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "L_RLxgv1,&",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Immuno::Block1"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::<u>Cevimeline</u>}} is a <i>synthetic <b>direct-acting&nbsp;muscarinic agonist</b></i>, selective for&nbsp;{{c2::<u>M3</u>}} receptors. It is given as an oral tablet to treat {{c3::dry mouth (xerostomia)}} in patients with <b>Sjogren's syndrome or damaged salivary glands</b>.&nbsp;<br><div><br></div><div>Common adverse effects include <b>excessive sweating, nausea, and blurred vision.&nbsp;</b></div>",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "BEnv85}rLN",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Pharm::Block1"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ibritumomab is a antibody-delivered chemotherapeutic conjugated to anti-{{c1::CD20}}, which binds to B-cells, resulting in proximal killing of the tumor cells with the conjugated&nbsp;{{c2::radionuclide}}",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Q7RldTJyPL",
+                                    "note_model_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
+                                    "tags": [
+                                        "**MSBS::Immuno::Block4"
                                     ]
                                 }
                             ]
@@ -16977,16 +16977,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "What are the 4 classes of pathogens?",
-                                        "<img src=\"paste-64624a0b513568e38f2fc41107142c4a43f1a70b.jpg\">"
-                                    ],
-                                    "guid": "NZD3q&gS!>",
-                                    "note_model_uuid": "a0343a3e-7b4e-11ec-b0f5-8c85906ce275",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "What are the entry points for the pathogens into the body?&nbsp;",
                                         "<div>1. Respiratory Tract</div><div>2. GI tract</div><div>3. GU tract</div><div>4. Eyes</div><div>5. Oral cavity</div><div>6. Skin</div><div>7. Nails</div><div><br></div><div><br></div><img src=\"paste-04a9cfc98da948cc1b560f1b2f0e5fd489b605df.jpg\">"
                                     ],
@@ -18112,6 +18102,16 @@
                                     "guid": "kNxCxBIT|0",
                                     "note_model_uuid": "a0343a3e-7b4e-11ec-b0f5-8c85906ce275",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "What are the 4 classes of pathogens?",
+                                        "<img src=\"paste-64624a0b513568e38f2fc41107142c4a43f1a70b.jpg\">"
+                                    ],
+                                    "guid": "NZD3q&gS!>",
+                                    "note_model_uuid": "a0343a3e-7b4e-11ec-b0f5-8c85906ce275",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -18202,20 +18202,20 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<img src=\"paste-9650cc4f8b5a056567b1dcc3515be84d121e1205.jpg\">",
-                                                "<img src=\"paste-fe57435dae6af89e796b229b2de5e7c3592a6b00.jpg\">"
+                                                "What are metabolic fuels used for (3)?&nbsp;<div><br></div><div><img src=\"paste-a859f378082e1d889d0f11611f6639ebb660d2cb.jpg\"><br></div>",
+                                                "<div>1. Energy via oxidation</div><div>2. Cellular processes and components</div><div>3. Stored</div><div><br></div><div><img src=\"paste-62af79effb0ec1162b463b2ee496ade258ac555b.jpg\"><br></div><img src=\"paste-c8cde44509fbb2165937f61a891c2029d1fc2041.jpg\">"
                                             ],
-                                            "guid": "eXi7)!7@t[",
+                                            "guid": "fD2~N[?|m}",
                                             "note_model_uuid": "a0343a3e-7b4e-11ec-b0f5-8c85906ce275",
                                             "tags": []
                                         },
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "What are metabolic fuels used for (3)?&nbsp;<div><br></div><div><img src=\"paste-a859f378082e1d889d0f11611f6639ebb660d2cb.jpg\"><br></div>",
-                                                "<div>1. Energy via oxidation</div><div>2. Cellular processes and components</div><div>3. Stored</div><div><br></div><div><img src=\"paste-62af79effb0ec1162b463b2ee496ade258ac555b.jpg\"><br></div><img src=\"paste-c8cde44509fbb2165937f61a891c2029d1fc2041.jpg\">"
+                                                "<img src=\"paste-9650cc4f8b5a056567b1dcc3515be84d121e1205.jpg\">",
+                                                "<img src=\"paste-fe57435dae6af89e796b229b2de5e7c3592a6b00.jpg\">"
                                             ],
-                                            "guid": "fD2~N[?|m}",
+                                            "guid": "eXi7)!7@t[",
                                             "note_model_uuid": "a0343a3e-7b4e-11ec-b0f5-8c85906ce275",
                                             "tags": []
                                         }
@@ -34096,6 +34096,63 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "e1fa2dae-6eb3-11ec-bc0a-8c85906ce275",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-5e38d",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "cb63d4ba-7b55-11ec-851e-8c85906ce275",
             "css": ".mobile .ondesktop {  display:none;  }\n.android .ondesktop{  display:none;  }\n.win .onmobile{  display:none;  }\n.mac .onmobile{  display:none;  }\n.linux .onmobile{  display:none;  }\n\n@import url(\"https://fonts.googleapis.com/css?family=Roboto:400,500,700\");\nhtml, body {\n\tmin-height: 100%;\n\tmargin: 0;\n\tpadding: 0;\n}\nbody {\n\tfont-family: \"Roboto\", sans-serif;\n\tcolor: #E0E5EE;\n\tline-height: 1.5em;\n\tfont-size: 1.2em;\n\tbackground-repeat: no-repeat;\n\tbackground-attachment: fixed;\n\t/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#51233d+0,223a66+55,136d67+100 */\n\tbackground: -webkit-linear-gradient(top, #51233d 0%,#223a66 55%,#136d67 100%);\n\t/* Chrome10-25,Safari5.1-6 */\n\tbackground: linear-gradient(to bottom, #51233d 0%,#223a66 55%,#136d67 100%);\n\t/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */\n}\n\n.card-wrap {\n\tmargin: 2rem auto;\n\tmax-width:900px;\n\tword-wrap: break-word;\n\ttext-align: center;\n}\n\n/* The center wrap */\n.cardy {\n\tpadding: 0.9em 0.9em;\n\tmargin: 0.5em 10%;\n\tbackground-color: #030303;\n\tborder-radius: 10px;\n\ttext-align: center;\n\tbox-shadow: 0px 7px 6px 0 rgba(33, 33, 33, 1);\n\tword-wrap: break-word;\n}\n.card-front {\n\tline-height: 1.7em;\n\tfont-size: 1.2em;\n\tfont-weight: 400;\n\tmax-width: 900px;\nmargin: auto auto\n}\n\n.cardy img {\n\tdisplay: inline-block ;\n\tmargin: auto auto;\n\tmax-height: 20rem;\n}\n.mobile .cardy img {\n\tmax-width: 100%;\n\tmax-height: none;\n}\n.mobile .cardy {\n\tmargin: 0.1em 0.1em;\n}\n.mobile #content {\n\tmargin: 0.1em 0.1em;\n}\n.question {\n\tborder-radius: 7px 7px 7px 7px;\n}\n.answer {\n\tborder-radius: 7px 7px 7px 7px;\n}\nhr {\n\tmargin: 1em 3em 1em;\n\tpadding: 0;\n\tborder: 0;\n\theight: 6px;\n\tbackground: #5e4700;\n}\n.mobile .card {\n\tcolor: #E0E5EE;\n\tbackground-color: #333B45;\n}\n/*HINT FONT SIZE*/\n.hints{\n\tfont-size: 1rem;\n}\n/*First Aid, Sketchy, Physeo, Additional Resources Font Size*/\n#firstaid, #sketchy, #additional {\n\tfont-size: 1rem !important;\n}\n/*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/\n.mobile #firstaid, .mobile #sketchy, .mobile #physeo, .mobile #additional {\n\tfont-size: 1rem!important;\n}\n/*MAX IMAGE WIDTH*/\n#myextra img, #extrazanki img, #extra img, #lecture img, #missed img, #pathoma img, #extrazanki img {\n\tmax-width: 600px!important;\n}\n#firstaid img, #sketchy img, #physeo img, #additional img {\n\tmax-width: 70%!important;\n}\n\n/* Classes for individual cards */\n.image40 img { width: 40%!important; }\n.image50 img { width: 50%!important; }\n.image60 img { width: 60%!important; }\n.image70 img { width: 70%!important; }\n.image80 img { width: 80%!important; }\n.image90 img { width: 90%!important; }\n.image40 img, .image50 img, .image60 img, .image70 img, .image80 img, .image90 img { display:block; margin-right:auto; margin-left: auto; }\n.mobile .image40 img, .mobile .image50 img, .mobile .image60 img, .mobile .image70 img, .mobile .image80 img, .mobile .image90 img {width: auto!important;}\n\n/*Compatibility with Image Style Editor add-on*/\n.mobile .card {--w:100%!important;}\n.card {--w:0%;}\n\n/*Max image width for resize images in editor add-on */\n    .card [class^=ui-] img {max-width: 100%!important; }\n\n/*Compatibility with resize images in editor add-on */\n    .resizer {min-width: 0%!important; }\n    .mobile .resizer {min-width:100%!important;}\n\n/*Image hover zoom*/\n#extra img:hover { transform:scale(1.2); }\n#myextra img:hover { transform:scale(1.2); }\n#extrazanki img:hover { transform:scale(1.2); }\n#firstaid img:hover { transform:scale(1.5); }\n#sketchy img:hover { transform:scale(1.5); }\n#lecture img:hover { transform:scale(1.5); }\n#additional img:hover { transform:scale(1.5); }\n.mobile #firstaid img:hover { transform:scale(1.0); }\n.mobile #sketchy img:hover { transform:scale(1.0); }\n.mobile #physeo img:hover { transform:scale(1.0); }\n.mobile #additional img:hover { transform:scale(1.0); }\n\n/* ~~COLORS~~ */\n/*DEFAULT TEXT COLOR*/\n.card {\n\tcolor: #F3F4F8;\n}\n/*BACKGROUND COLOR*/\n.card, #tags-container {\n\tbackground-color: #333B45;\n}\n/* CLOZE FORMAT */\n.cloze, .cloze b, .cloze u, .cloze i {\n\tfont-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n/* \"EXTRA\" FIELD COLOR */\n#extra {\n\tcolor: magenta;\n}\n/* HINT COLOR*/\na[href=\"#\"] {\n\tcolor: #4297F9!important;\n}\n/* HINT REVEAL COLOR */\n.hints {\n\tcolor: #cyan;\n}\n/* Missed Questions Reveal Color */\n#missed {\n\tcolor: red;\n}\n\n\n/* ~~NIGHT MODE COLORS~~ */\n\n/* NM DEFAULT TEXT COLOR*/\n.nightMode.card, .night_mode .card{\n\tcolor: #E0E5EE !important;\n}\n/* NM BACKGROUND COLOR*/\n.nightMode.card, .night_mode .card, .nightMode #tags-container, .night_mode #tags-container{\n\tbackground-color: #002b36 !important;\n}\n/* NM CLOZE COLOR */\n.nightMode .cloze, .night_mode .cloze {\n\tcolor: font-weight: bold;\n\tcolor: MediumSeaGreen !important;\n}\n/* NM \"EXTRA\" FIELD COLOR */\n.nightMode #extra, .night_mode #extra {\n\tcolor: magenta;\n}\n/* NM HINT COLOR */\n.nightMode a[href=\"#\"], .night_mode a[href=\"#\"] {\n\tcolor: #4297F9!important;\n}\n/* NM HINT REVEAL COLOR */\n.nightMode .hints, .night_mode .hints {\n\tcolor: cyan;\n}\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE*/\n\nb {\n\tcolor: #C695C6 !important;\n}\nu {\n\ttext-decoration: none;\n\tcolor: #5EB3B3;\n}\ni {\n\tcolor: IndianRed;\n}\na {\n\tcolor: LightGray !important;\n\ttext-decoration: none;\n\tfont-size: 10px;\n\tfont-style: normal;\n}\n\n\n/* Details For IMAGES */\n\n.mobile .cardy img {\n\tmax-width: 100%!important;\n\tmax-height: none ;\n}\n}\n.mobile .cardy {\nmargin: 0.5ex 0em;\n}\n.cardy #extra img {\nmin-width: 40%!important;\n}\n.mobile .cardy #extra img, .mobile .cardy #lecture img, .mobile .cardy #missed img, .mobile .cardy #pathoma img, .mobile .cardy #extrazanki img, .mobile .cardy #firstaid img, .mobile .cardy #sketchy img, .mobile .cardy #physeo img, .mobile .cardy #additional img {\nmax-width: 100%!important;\nmax-height: none;\n}\n}\n\n/* Adjustments For Cloze Edit In Review On Mobile */\n.clozefield, .mobile .editcloze {\ndisplay: none;\n}\n.editcloze, .mobile .clozefield {\ndisplay: block;\n}\n\n/* BEGIN HINT FIELDS */\n\n/* Hint Link */\na[href=\"#\"] {\nfont-style: italic;\npadding: 0 !important;\n}\n\n/* Text When Hint Is Shown*/\n.hints {\nfont-style: italic;\n}\n\n/* Put Bottom Hints Lower */\n#firstaid {\npadding-top: 1px!important;\n}\n.hints + #extra {\nmargin-top: .4rem;\n}\n\n/* END HINT FIELDS */\n\n/* EXTRA FIELD */\n#extra, #extra i {\nfont-size: 18px;\nfont-style: italic;\n}\n\n/* Fix to make pop-up dictionary images the right size */\n.qtip img {\nmax-width: 95% !important;\nmax-height: 95% !important;\n}\n\n/*FIX FOR EDIT CLOZE FIELDS ON MOBILE*/\n.mobile .ondesktop {\n\tdisplay:none;\n}\n.android .ondesktop{\n\tdisplay:none;\n}\n.win .onmobile{\n\tdisplay:none;\n}\n.mac .onmobile{\n\tdisplay:none;\n}\n.linux .onmobile{\n\tdisplay:none;\n}\n\n/* MNEMONICS CENTER OR LEFT */\n.mnemonics { display: inline-block; } \n.centerbox {text-align:center;}\n\n/*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */\n.mobile .card img {height:unset  !important; width:unset  !important;}\n/*End of style added by resize image add-on*/",
             "flds": [
@@ -34239,63 +34296,6 @@
                     "ord": 0,
                     "qfmt": "<!-- question -->\n<div class=\"card-wrap\">\n  <div class=\"cardy card-front\">\n<div class=\"ondesktop\">{{edit:cloze:Text}}</div>\n<div class=\"onmobile\">{{cloze:Text}}</div>\n  </div>\n</div>\n<!-- question -->",
                     "scratchPad": false
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "e1fa2dae-6eb3-11ec-bc0a-8c85906ce275",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze-5e38d",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -34477,7 +34477,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic-3e8f0",
+            "name": "Basic-3e8f0-ae96c",
             "req": [
                 [
                     0,
@@ -34536,7 +34536,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze++",
+            "name": "Cloze++-3571d",
             "req": [
                 [
                     0,
