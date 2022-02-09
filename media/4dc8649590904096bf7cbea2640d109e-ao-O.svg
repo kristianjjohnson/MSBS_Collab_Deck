@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1574" height="1018.0000000000001">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="4dc8649590904096bf7cbea2640d109e-ao-1">
+   <text font-weight="bold" transform="matrix(1.426998994195969,0,0,1.220933437347412,-18.67195185842261,-109.58988915383816) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="462.74699" x="137.79498" stroke-width="0" fill="#000000">(Mucosa)</text>
+   <text font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="531.01963" x="155.41178" stroke-width="0" fill="#000000">(Smooth Muscle Layer)</text>
+   <text font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="617.29414" x="167.17649" stroke-width="0" fill="#000000">(Serous Layer)</text>
+   <rect height="35.29412" width="235.29412" y="397.68629" x="20.11766" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25.4902" width="127.45098" y="434.9412" x="114.23531" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="33.33333" width="209.80392" y="474.15688" x="59.33335" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="21.56863" width="178.43138" y="511.41179" x="31.88237" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="27.45098" width="203.92157" y="568.27453" x="43.64708" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="19.60784" width="84.31373" y="601.60787" x="90.7059" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>
