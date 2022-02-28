@@ -1,0 +1,1568 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "6fed889c-98e2-11ec-b3ec-f45c899656dd",
+    "deck_config_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 600
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "09ea69e6d551405c9d7b564321d434ae-ao-1-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-1-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-10-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-10-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-11-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-11-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-12-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-12-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-13-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-13-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-14-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-14-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-15-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-15-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-16-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-16-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-2-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-2-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-3-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-3-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-4-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-4-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-5-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-5-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-6-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-6-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-7-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-7-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-8-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-8-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-9-A.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-9-Q.svg",
+        "09ea69e6d551405c9d7b564321d434ae-ao-O.svg",
+        "11fdaae284ef4a7997f5761ee8587229-ao-1-A.svg",
+        "11fdaae284ef4a7997f5761ee8587229-ao-1-Q.svg",
+        "11fdaae284ef4a7997f5761ee8587229-ao-2-A.svg",
+        "11fdaae284ef4a7997f5761ee8587229-ao-2-Q.svg",
+        "11fdaae284ef4a7997f5761ee8587229-ao-O.svg",
+        "14e2869f72c2411088785fd66d2dcb2c-ao-1-A.svg",
+        "14e2869f72c2411088785fd66d2dcb2c-ao-1-Q.svg",
+        "14e2869f72c2411088785fd66d2dcb2c-ao-2-A.svg",
+        "14e2869f72c2411088785fd66d2dcb2c-ao-2-Q.svg",
+        "14e2869f72c2411088785fd66d2dcb2c-ao-O.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-1-A.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-1-Q.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-2-A.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-2-Q.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-3-A.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-3-Q.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-4-A.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-4-Q.svg",
+        "20ac7565e4d24cbbad5d13afad24d1d9-ao-O.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-1-A.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-1-Q.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-2-A.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-2-Q.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-3-A.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-3-Q.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-4-A.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-4-Q.svg",
+        "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-O.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-1-A.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-1-Q.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-2-A.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-2-Q.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-3-A.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-3-Q.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-4-A.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-4-Q.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-5-A.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-5-Q.svg",
+        "34200e2d7f144d63855fa5fc656ec92c-ao-O.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-1-A.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-1-Q.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-2-A.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-2-Q.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-3-A.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-3-Q.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-4-A.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-4-Q.svg",
+        "36f9df10404e482bb0e7dd8368f883eb-ao-O.svg",
+        "3e0b62c68cbf4c899343a5043970aafc-ao-1-A.svg",
+        "3e0b62c68cbf4c899343a5043970aafc-ao-1-Q.svg",
+        "3e0b62c68cbf4c899343a5043970aafc-ao-2-A.svg",
+        "3e0b62c68cbf4c899343a5043970aafc-ao-2-Q.svg",
+        "3e0b62c68cbf4c899343a5043970aafc-ao-O.svg",
+        "59de1417f8d2465caf1189aeb031e619-ao-1-A.svg",
+        "59de1417f8d2465caf1189aeb031e619-ao-1-Q.svg",
+        "59de1417f8d2465caf1189aeb031e619-ao-2-A.svg",
+        "59de1417f8d2465caf1189aeb031e619-ao-2-Q.svg",
+        "59de1417f8d2465caf1189aeb031e619-ao-O.svg",
+        "82e46815c6f64611ac244b9b1e93a56e-ao-1-A.svg",
+        "82e46815c6f64611ac244b9b1e93a56e-ao-1-Q.svg",
+        "82e46815c6f64611ac244b9b1e93a56e-ao-2-A.svg",
+        "82e46815c6f64611ac244b9b1e93a56e-ao-2-Q.svg",
+        "82e46815c6f64611ac244b9b1e93a56e-ao-O.svg",
+        "871cd99ae07f4337975740e8b0fc3e80-ao-1-A.svg",
+        "871cd99ae07f4337975740e8b0fc3e80-ao-1-Q.svg",
+        "871cd99ae07f4337975740e8b0fc3e80-ao-2-A.svg",
+        "871cd99ae07f4337975740e8b0fc3e80-ao-2-Q.svg",
+        "871cd99ae07f4337975740e8b0fc3e80-ao-O.svg",
+        "Screen Shot 2022-02-27 at 4.01.57 PM.jpeg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-1-A.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-1-Q.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-2-A.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-2-Q.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-3-A.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-3-Q.svg",
+        "a943149815bd4a25ba4dbbc64df19be4-ao-O.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-1-A.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-1-Q.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-2-A.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-2-Q.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-3-A.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-3-Q.svg",
+        "cf6eac1f8d93424fa592e000461ea7ff-ao-O.svg",
+        "db7062c050c84dda9e68498972a1291c-ao-1-A.svg",
+        "db7062c050c84dda9e68498972a1291c-ao-1-Q.svg",
+        "db7062c050c84dda9e68498972a1291c-ao-O.svg",
+        "paste-1fec24d1964528753cc216ea7f8c5e608cad9635.jpg",
+        "paste-f35682e7bbae7d0fbd7465f9c55f0c5d07493691.jpg",
+        "tmp05yql830.png",
+        "tmp1xoo8ono.png",
+        "tmp275tlr7r.png",
+        "tmp4h00vlsb.png",
+        "tmp86ouk111.png",
+        "tmp8yvmxvnd.png",
+        "tmpe9xc300k.png",
+        "tmpgs1fj6it.png",
+        "tmpoaklkrtj.png",
+        "tmpoje0ktbn.png",
+        "tmpowhh971a.png",
+        "tmprxm6mgcs.png",
+        "tmpygndvaty.png"
+    ],
+    "name": "MSBS::Pharmacology::Block 3::Week 1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\npadding-bottom: 0px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .2px;\n font-weight: bold;\n font-size: 12px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Big Picture",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Mnemonic",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-f18ab",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n\n{{Big Picture}}\n\n{{#Tags}}\n<div id=\"tags-container\">{{Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Identify the\nten major sites of drug action in the CNS<br></span><div>(1) {{c1::Action potential in presynaptic\nfiber&nbsp;}}<br>(2) {{c2::synthesis of transmitter}}&nbsp;<br>(3) {{c3::storage&nbsp;}}<br>(4) {{c4::metabolism}}<br>(5) {{c5::release&nbsp;}}<br>(6) {{c6::reuptake into the nerve ending or uptake into a glial cell&nbsp;}}<br>(7)\n{{c7::degradation}}<br>(8) {{c8::receptor for the transmitter&nbsp;}}<br>(9) {{c9::receptor-induced increase or\ndecrease in ionic conductance&nbsp;}}<br>(10) {{c10::retrograde signaling}}<br><br>SLO 1</div></div>"
+            ],
+            "guid": "bd{rb[XIO_",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a943149815bd4a25ba4dbbc64df19be4-ao-1",
+                "SLO 1",
+                "<img src=\"tmpgs1fj6it.png\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-1-A.svg\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-O.svg\" />"
+            ],
+            "guid": "fK4NRB;wvG",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a943149815bd4a25ba4dbbc64df19be4-ao-2",
+                "SLO 1",
+                "<img src=\"tmpgs1fj6it.png\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-2-A.svg\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-O.svg\" />"
+            ],
+            "guid": "h]7{,}a+T1",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a943149815bd4a25ba4dbbc64df19be4-ao-3",
+                "SLO 1",
+                "<img src=\"tmpgs1fj6it.png\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-3-A.svg\" />",
+                "<img src=\"a943149815bd4a25ba4dbbc64df19be4-ao-O.svg\" />"
+            ],
+            "guid": "nNt()>FMHb",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(64, 64, 64);\">Identify major\ntypes of neurotransmitters; describe their basic molecular and physiologic\nfunctions in the CNS<br><br></span>1. <b>Peptides</b>-including {{c8::Amino acids and biogenic amines}} <br>a. {{c9::Amino acids}} are the the primary\nexcitatory ({{c10::glutamate and aspartate)}} and inhibitory ({{c11::glycine and γ-aminobutyric\nacid}}) neurotransmitters in the CNS. This category also includes {{c12::e<span style=\"color: rgb(64, 64, 64);\">ndogenous\nopioids (endorphins and </span><span style=\"color: rgb(64, 64, 64);\">enkephalins</span><span style=\"color: rgb(64, 64, 64);\">)</span>}}<span style=\"color: rgb(64, 64, 64);\">,</span>{{c13::<span style=\"color: rgb(64, 64, 64);\"> t</span><span style=\"color: rgb(64, 64, 64);\">achykinins –\nSubstance P, and&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">MANY others\n(glucagon, ADH, etc.)</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span><span style=\"color: rgb(64, 64, 64);\">2.&nbsp;</span>{{c14::Biogenic amines}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>are the primary {{c15::modulatory}}\nneurotransmitters in the CNS. These include {{c1::dopamine,\nnorepinephrine, and epinephrine}} which share a common {{c2::<span style=\"font-weight: bold;\">catechol</span>}} group; {{c3::histamine}} has an <span style=\"font-weight: bold;\">imidazole</span>\ngroup; and {{c4::serotonin}} has an <span style=\"font-weight: bold;\">indole</span>\ngroup.&nbsp;<br>2. {{c16::<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Endocannabinoids</span>}}<div><span style=\"color: rgb(153, 203, 56);\">•</span>{{c17::Endogenous\ncannabinoids}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;that activate cannabinoid receptors</span></div>\n<span style=\"color: rgb(153, 203, 56);\">•</span>{{c18::Arachidonic-acid\nderivatives (lipids)}}<span style=\"color: rgb(64, 64, 64);\"><br></span>3.?{{c5::Acetylcholine (a\nneurotransmitter in diffuse modulatory systems in the CNS)}}, {{c6::adenosine,}} and\n{{c7::nitric oxide (NO)}} do not fall into either structural category.&nbsp;"
+            ],
+            "guid": "K#5F$@Xe_:",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cf6eac1f8d93424fa592e000461ea7ff-ao-1",
+                "SLO 2",
+                "<img src=\"tmp86ouk111.png\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-1-A.svg\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-O.svg\" />"
+            ],
+            "guid": "uuZ-nP931&",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cf6eac1f8d93424fa592e000461ea7ff-ao-2",
+                "SLO 2",
+                "<img src=\"tmp86ouk111.png\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-2-A.svg\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-O.svg\" />"
+            ],
+            "guid": "KV8dr$Rd=3",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cf6eac1f8d93424fa592e000461ea7ff-ao-3",
+                "SLO 2",
+                "<img src=\"tmp86ouk111.png\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-3-A.svg\" />",
+                "<img src=\"cf6eac1f8d93424fa592e000461ea7ff-ao-O.svg\" />"
+            ],
+            "guid": "mJkO&yGDNO",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "11fdaae284ef4a7997f5761ee8587229-ao-1",
+                "SLO 2",
+                "<img src=\"tmpe9xc300k.png\" />",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-1-A.svg\" />",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-O.svg\" />"
+            ],
+            "guid": "zt`-{Ak5)`",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "11fdaae284ef4a7997f5761ee8587229-ao-2",
+                "SLO 2",
+                "<img src=\"tmpe9xc300k.png\" />",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-2-A.svg\" />",
+                "<img src=\"11fdaae284ef4a7997f5761ee8587229-ao-O.svg\" />"
+            ],
+            "guid": "r.Jp8Ww;1%",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3e0b62c68cbf4c899343a5043970aafc-ao-1",
+                "",
+                "<img src=\"tmp05yql830.png\" />",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-1-A.svg\" />",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-O.svg\" />"
+            ],
+            "guid": "E-m/#Z&N.8",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3e0b62c68cbf4c899343a5043970aafc-ao-2",
+                "",
+                "<img src=\"tmp05yql830.png\" />",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-2-A.svg\" />",
+                "<img src=\"3e0b62c68cbf4c899343a5043970aafc-ao-O.svg\" />"
+            ],
+            "guid": "KDXN#j|Hi>",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "82e46815c6f64611ac244b9b1e93a56e-ao-1",
+                "",
+                "<img src=\"tmp4h00vlsb.png\" />",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-1-A.svg\" />",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-O.svg\" />"
+            ],
+            "guid": "u^mn2z`4~7",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "82e46815c6f64611ac244b9b1e93a56e-ao-2",
+                "",
+                "<img src=\"tmp4h00vlsb.png\" />",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-2-A.svg\" />",
+                "<img src=\"82e46815c6f64611ac244b9b1e93a56e-ao-O.svg\" />"
+            ],
+            "guid": "L$[%]RfWW1",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "59de1417f8d2465caf1189aeb031e619-ao-1",
+                "",
+                "<img src=\"tmp1xoo8ono.png\" />",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-1-A.svg\" />",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-O.svg\" />"
+            ],
+            "guid": "d@?W,~0SEU",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "59de1417f8d2465caf1189aeb031e619-ao-2",
+                "",
+                "<img src=\"tmp1xoo8ono.png\" />",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-2-A.svg\" />",
+                "<img src=\"59de1417f8d2465caf1189aeb031e619-ao-O.svg\" />"
+            ],
+            "guid": "rmBV8${v!o",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "871cd99ae07f4337975740e8b0fc3e80-ao-1",
+                "",
+                "<img src=\"tmpygndvaty.png\" />",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-1-A.svg\" />",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-O.svg\" />"
+            ],
+            "guid": "pEPRU3DBhX",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "871cd99ae07f4337975740e8b0fc3e80-ao-2",
+                "",
+                "<img src=\"tmpygndvaty.png\" />",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-2-A.svg\" />",
+                "<img src=\"871cd99ae07f4337975740e8b0fc3e80-ao-O.svg\" />"
+            ],
+            "guid": "eb!,[ZmV$i",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "36f9df10404e482bb0e7dd8368f883eb-ao-1",
+                "",
+                "<img src=\"tmpoaklkrtj.png\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-1-A.svg\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-O.svg\" />"
+            ],
+            "guid": "E]HyET||a[",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "36f9df10404e482bb0e7dd8368f883eb-ao-2",
+                "",
+                "<img src=\"tmpoaklkrtj.png\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-2-A.svg\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-O.svg\" />"
+            ],
+            "guid": "B`mL;/$d-5",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "36f9df10404e482bb0e7dd8368f883eb-ao-3",
+                "",
+                "<img src=\"tmpoaklkrtj.png\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-3-A.svg\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-O.svg\" />"
+            ],
+            "guid": "iyR/=T+^lR",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "36f9df10404e482bb0e7dd8368f883eb-ao-4",
+                "",
+                "<img src=\"tmpoaklkrtj.png\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-4-A.svg\" />",
+                "<img src=\"36f9df10404e482bb0e7dd8368f883eb-ao-O.svg\" />"
+            ],
+            "guid": "rS.l(lR3`K",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the blood brain barrier do?",
+                "<div>Protects the brain from toxic substances</div>\n<div>-NTs such as Epi, NE, DA, and glutamate\nwould wreak havoc if allowed access to the CNS when released in the periphery</div>",
+                "",
+                ""
+            ],
+            "guid": "zW~yiG?TU8",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Which chemical characteristics would\nfacilitate or impede penetration of the blood-brain barrier?</div>",
+                "answer after class",
+                "",
+                ""
+            ],
+            "guid": "LY;E7>e@PK",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-1",
+                "",
+                "<img src=\"tmp275tlr7r.png\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-1-A.svg\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-O.svg\" />"
+            ],
+            "guid": "F?ePE0hWBy",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-2",
+                "",
+                "<img src=\"tmp275tlr7r.png\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-2-A.svg\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-O.svg\" />"
+            ],
+            "guid": "v~ZN?N:TS",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-3",
+                "",
+                "<img src=\"tmp275tlr7r.png\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-3-A.svg\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-O.svg\" />"
+            ],
+            "guid": "uUTo|/*IN}",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-4",
+                "",
+                "<img src=\"tmp275tlr7r.png\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-4-A.svg\" />",
+                "<img src=\"2ab9cfb95d4e4ce0bbd349362f7c7e3e-ao-O.svg\" />"
+            ],
+            "guid": "fuH:^r*71I",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regarding the blood brain barrier, there is a correlation\nbetween the {{c1::oil/water partition}} coefficient of a compound and its {{c2::ability to\nenter the brain from the systemic circulation.}}<br>Specific transporters facilitate\nthe entry into the brain of certain compounds (<span style=\"font-style: italic;\">squares</span>),\nsuch as glucose (glucose transporter) and L-DOP{{c3::A (large neutral L-amino acid\ntransporter).}} Transporters also pump certain compounds out of the CNS (<span style=\"font-style: italic;\">diamonds</span>),\nsuch as {{c4::phenobarbital and phenytoin}}"
+            ],
+            "guid": "K|69JUjv61",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Martha P is a\n66-year-old woman with a 4-year history of worsening Parkinson’s disease, a\nneurological disorder resulting from the progressive degeneration of </span><span style=\"color: rgb(64, 64, 64);\">nigrostriatal</span><span style=\"color: rgb(64, 64, 64);\"> neurons that\nuse dopamine as a neurotransmitter. The disease causes a resting tremor,\nrigidity, difficulty initiating movement, and postural instability. Ms. P takes\n</span><span style=\"color: rgb(64, 64, 64);\">Sinemet</span><span style=\"color: rgb(64, 64, 64);\">, which\ncontains levodopa and carbidopa.</span></div>\n<div></div>\n<div><span style=\"color: rgb(153, 203, 56);\">1.</span><span style=\"color: rgb(64, 64, 64);\">Why is\nlevodopa used in the treatment of Parkinson’s disease, and what is the\nrelationship of this compound to dopamine?</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">2.</span><span style=\"color: rgb(64, 64, 64);\">Why does </span><span style=\"color: rgb(64, 64, 64);\">Sinemet</span><span style=\"color: rgb(64, 64, 64);\"> contain both\nlevodopa and carbidopa?</span></div>",
+                "1. answer after class<br>2.&nbsp;",
+                "",
+                ""
+            ],
+            "guid": "[>Y3%rgXF",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "34200e2d7f144d63855fa5fc656ec92c-ao-1",
+                "",
+                "<img src=\"tmp8yvmxvnd.png\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-1-A.svg\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-O.svg\" />"
+            ],
+            "guid": "zijEFisr9-",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "34200e2d7f144d63855fa5fc656ec92c-ao-2",
+                "",
+                "<img src=\"tmp8yvmxvnd.png\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-2-A.svg\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-O.svg\" />"
+            ],
+            "guid": "oeNM/ZSy2o",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "34200e2d7f144d63855fa5fc656ec92c-ao-3",
+                "",
+                "<img src=\"tmp8yvmxvnd.png\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-3-A.svg\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-O.svg\" />"
+            ],
+            "guid": "PR2vH0iDk3",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "34200e2d7f144d63855fa5fc656ec92c-ao-4",
+                "",
+                "<img src=\"tmp8yvmxvnd.png\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-4-A.svg\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-O.svg\" />"
+            ],
+            "guid": "B&MnL^+aSd",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "34200e2d7f144d63855fa5fc656ec92c-ao-5",
+                "",
+                "<img src=\"tmp8yvmxvnd.png\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-5-A.svg\" />",
+                "<img src=\"34200e2d7f144d63855fa5fc656ec92c-ao-O.svg\" />"
+            ],
+            "guid": "K<`)7:JSLl",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "14e2869f72c2411088785fd66d2dcb2c-ao-1",
+                "",
+                "<img src=\"tmpoje0ktbn.png\" />",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-1-A.svg\" />",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-O.svg\" />"
+            ],
+            "guid": "q1D52>bY<_",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "14e2869f72c2411088785fd66d2dcb2c-ao-2",
+                "",
+                "<img src=\"tmpoje0ktbn.png\" />",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-2-A.svg\" />",
+                "<img src=\"14e2869f72c2411088785fd66d2dcb2c-ao-O.svg\" />"
+            ],
+            "guid": "CSagpK*2>N",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-1",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-1-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "fn37]zHL6l",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-2",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-2-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "vS3<%!}Cd`",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-3",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-3-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "G%?q8jir:h",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-4",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-4-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "hZ?<h}.49z",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-5",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-5-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "wkf=D+W69l",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-6",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-6-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "DV)5sfE>{_",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-7",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-7-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "cf$7:A$(@~",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-8",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-8-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "Kv;aV%=-O^",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-9",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-9-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "E>m;u5:x2D",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-10",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-10-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "qGHFRA<YnT",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-11",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-11-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "Akgj:>n.J_",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-12",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-12-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "tPHY[~vL.U",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-13",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-13-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "yPHwO,YZcd",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-14",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-14-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-14-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "JcXn#xf`;Q",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-15",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-15-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-15-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "p#lWW_Sm4Q",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "09ea69e6d551405c9d7b564321d434ae-ao-16",
+                "",
+                "<img src=\"Screen Shot 2022-02-27 at 4.01.57 PM.jpeg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-16-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-16-A.svg\" />",
+                "<img src=\"09ea69e6d551405c9d7b564321d434ae-ao-O.svg\" />"
+            ],
+            "guid": "Fo(|_A:;*a",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "20ac7565e4d24cbbad5d13afad24d1d9-ao-1",
+                "",
+                "<img src=\"tmpowhh971a.png\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-1-A.svg\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-O.svg\" />"
+            ],
+            "guid": "Rd3c7k.]W+",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "20ac7565e4d24cbbad5d13afad24d1d9-ao-2",
+                "",
+                "<img src=\"tmpowhh971a.png\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-2-A.svg\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-O.svg\" />"
+            ],
+            "guid": "vh$D~ORp(=",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "20ac7565e4d24cbbad5d13afad24d1d9-ao-3",
+                "",
+                "<img src=\"tmpowhh971a.png\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-3-A.svg\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-O.svg\" />"
+            ],
+            "guid": "bD0YS}#-(H",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "20ac7565e4d24cbbad5d13afad24d1d9-ao-4",
+                "",
+                "<img src=\"tmpowhh971a.png\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-4-A.svg\" />",
+                "<img src=\"20ac7565e4d24cbbad5d13afad24d1d9-ao-O.svg\" />"
+            ],
+            "guid": "F:Lp>e7k@T",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "db7062c050c84dda9e68498972a1291c-ao-1",
+                "",
+                "<img src=\"tmprxm6mgcs.png\" />",
+                "<img src=\"db7062c050c84dda9e68498972a1291c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"db7062c050c84dda9e68498972a1291c-ao-1-A.svg\" />",
+                "<img src=\"db7062c050c84dda9e68498972a1291c-ao-O.svg\" />"
+            ],
+            "guid": "l$aC;Nvx(p",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">patient\npresents for evaluation following diagnosis of substance use disorder. He has\nbeen using cocaine habitually for two years and wants to begin a journey of\nrecovery. Which neurotransmitter and site of action, as indicated in the image,\nis associated with this drug’s abuse potential? </span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">Dopamine, site 5</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">Dopamine, site 6</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">Norepinephrine, site 2</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">Norepinephrine, site 7</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">Serotonin, site 4</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">F.</span><span style=\"color: rgb(64, 64, 64);\">Serotonin,\nsite 8<br><br></span><img src=\"paste-f35682e7bbae7d0fbd7465f9c55f0c5d07493691.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>",
+                "B. Dopamine, site 6",
+                "",
+                ""
+            ],
+            "guid": "lJYUXB6yi%",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Which\nantidepressant inhibits serotonin neurotransmission at site 4 in the image and\nis rarely prescribed as first-line therapy due to high risk of interactions\nwith both foods and other pharmacotherapies? </span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">Amitriptyline</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">Bupropion</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">Paroxetine</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">Selegiline</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">Duloxetine<br></span><img src=\"paste-1fec24d1964528753cc216ea7f8c5e608cad9635.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>",
+                "D. Selegiline",
+                "",
+                ""
+            ],
+            "guid": "h]Y)$PHe1M",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Which\nneurotransmitter and ion current pair mediates the majority of excitatory\nneurotransmission in the central nervous system?</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">GABA; Cl-\nefflux</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">GABA; Cl-\ninflux</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">Serotonin; K+\nefflux</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">Serotonin; K+\ninflux</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">Glutamate; Na+\nefflux</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">F.</span><span style=\"color: rgb(64, 64, 64);\">Glutamate; Na+\ninflux</span></div>",
+                "",
+                "F. Gluatamate",
+                ""
+            ],
+            "guid": "B.t_ii7>!6",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">A patient\nsuffering from major depressive disorder presents for follow-up. It has been 4\nweeks since he began the prescribed pharmacotherapy. His depressive symptoms\nhave improved but he is experiencing intolerable loss of libido and asks if he\ncan switch to a different medication. He mentions that he also wants to quit\nsmoking. Which agent may be a good option at this time?</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">Citalopram</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">Bupropion</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">Fluoxetine</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">Sertraline</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">Venlafaxine</span></div>",
+                "B.&nbsp;",
+                "",
+                ""
+            ],
+            "guid": "j[OviIw_Vn",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">A 41 y/o\nfemale suffering from insomnia is prescribed a drug that enhances production of\nfast inhibitory postsynaptic potentials by hyperpolarizing neuronal cell\nmembranes. Activation of which receptor type most likely mediates the\ntherapeutic effect of the drug?</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">Ionotropic glutamate receptors</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">Metabotropic glutamate receptors</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">Ionotropic GABA receptors</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">Metabotropic GABA receptors</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">Ionotropic serotonin receptors</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">F.</span><span style=\"color: rgb(64, 64, 64);\">Metabotropic serotonin receptors</span></div>",
+                "C. Ionotropic GABA receptors",
+                "",
+                ""
+            ],
+            "guid": "c05m5Mu)cP",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">The\nblood-brain barrier is characterized by ___________ between capillary\nendothelial cells. As a result, drugs that lack a specific transporter must be\nhighly _____________ in order to penetrate the central nervous system.</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">A.</span><span style=\"color: rgb(64, 64, 64);\">fenestrations; lipophilic</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">B.</span><span style=\"color: rgb(64, 64, 64);\">fenestrations; hydrophilic</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">C.</span><span style=\"color: rgb(64, 64, 64);\">tight junctions; hydrophobic</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">D.</span><span style=\"color: rgb(64, 64, 64);\">tight junctions; hydrophilic</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">E.</span><span style=\"color: rgb(64, 64, 64);\">gap junctions; lipophilic</span></div>\n<div><span style=\"color: rgb(153, 203, 56);\">F.</span><span style=\"color: rgb(64, 64, 64);\">gap junctions; hydrophobic</span></div>",
+                "C. tight junctions, hydrophobic",
+                "",
+                ""
+            ],
+            "guid": "n[r/I$h#w0",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": []
+        }
+    ]
+}
