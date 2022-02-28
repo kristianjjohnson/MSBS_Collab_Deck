@@ -1,0 +1,2202 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "3d1bf41c-98e2-11ec-b3ec-f45c899656dd",
+    "deck_config_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 600
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-1-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-1-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-2-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-2-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-3-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-3-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-4-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-4-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-5-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-5-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-6-A.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-6-Q.svg",
+        "0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-1-A.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-1-Q.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-2-A.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-2-Q.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-3-A.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-3-Q.svg",
+        "2972fa144fe342c288f365d226c24be3-ao-O.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-1-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-1-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-10-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-10-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-11-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-11-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-12-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-12-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-13-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-13-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-2-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-2-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-3-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-3-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-4-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-4-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-5-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-5-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-6-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-6-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-7-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-7-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-8-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-8-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-9-A.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-9-Q.svg",
+        "48cda28a4a7c4512877700834cc122f8-ao-O.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-1-A.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-1-Q.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-2-A.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-2-Q.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-3-A.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-3-Q.svg",
+        "48e5fc3087b14acf829af83cf09dbd1e-ao-O.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-1-A.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-1-Q.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-2-A.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-2-Q.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-3-A.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-3-Q.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-4-A.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-4-Q.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-5-A.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-5-Q.svg",
+        "5ddbc4b35003447bade2d08abcfedc62-ao-O.svg",
+        "88e2cbfe843648afa924e0002d26e684-ao-1-A.svg",
+        "88e2cbfe843648afa924e0002d26e684-ao-1-Q.svg",
+        "88e2cbfe843648afa924e0002d26e684-ao-2-A.svg",
+        "88e2cbfe843648afa924e0002d26e684-ao-2-Q.svg",
+        "88e2cbfe843648afa924e0002d26e684-ao-O.svg",
+        "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-1-A.svg",
+        "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-1-Q.svg",
+        "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-2-A.svg",
+        "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-2-Q.svg",
+        "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-O.svg",
+        "95d3def4342749c6b50bb6226387c8d2-ao-1-A.svg",
+        "95d3def4342749c6b50bb6226387c8d2-ao-1-Q.svg",
+        "95d3def4342749c6b50bb6226387c8d2-ao-2-A.svg",
+        "95d3def4342749c6b50bb6226387c8d2-ao-2-Q.svg",
+        "95d3def4342749c6b50bb6226387c8d2-ao-O.svg",
+        "9bd39a8967e64810b6ce846db7191931-ao-1-A.svg",
+        "9bd39a8967e64810b6ce846db7191931-ao-1-Q.svg",
+        "9bd39a8967e64810b6ce846db7191931-ao-2-A.svg",
+        "9bd39a8967e64810b6ce846db7191931-ao-2-Q.svg",
+        "9bd39a8967e64810b6ce846db7191931-ao-O.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-1-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-1-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-10-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-10-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-11-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-11-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-12-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-12-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-13-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-13-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-14-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-14-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-15-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-15-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-2-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-2-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-3-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-3-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-4-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-4-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-5-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-5-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-6-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-6-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-7-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-7-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-8-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-8-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-9-A.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-9-Q.svg",
+        "d15d8677930643dc8800cab9c8732b00-ao-O.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-1-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-1-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-2-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-2-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-3-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-3-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-4-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-4-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-5-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-5-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-6-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-6-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-7-A.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-7-Q.svg",
+        "d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-1-A.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-1-Q.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-2-A.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-2-Q.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-3-A.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-3-Q.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-4-A.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-4-Q.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-5-A.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-5-Q.svg",
+        "ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg",
+        "paste-16fdae86ce03fa1174f80b3e2b3f9c1a62e34891.jpg",
+        "tmp0r2x3hgd.png",
+        "tmp1fatxj71.png",
+        "tmp7y6yc4zc.png",
+        "tmp9cuafgr1.png",
+        "tmp9nwbev_g.png",
+        "tmpcltffpfi.png",
+        "tmpftbz694k.png",
+        "tmpgv44mzty.png",
+        "tmpoi4xxreh.png",
+        "tmprhdktimn.png",
+        "tmpsyry5fun.png",
+        "tmpwzfsa40e.png"
+    ],
+    "name": "MSBS::Phys II::Block 3::Week 1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-fb18b",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\npadding-bottom: 0px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .2px;\n font-weight: bold;\n font-size: 12px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Big Picture",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Mnemonic",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-f18ab",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n\n{{Big Picture}}\n\n{{#Tags}}\n<div id=\"tags-container\">{{Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Distinguish\nbetween upper and lower motor neuron injury symptoms<br>SLO 1</span></div>",
+                "<div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Upper:&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">mild muscle wasting, spasticity and hypertonia</span></div>\n<div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Lower:&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">significant muscle wasting, hypotonia</span></div>"
+            ],
+            "guid": "FEFst-gz(N",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-1",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-1-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "I-K?n^s%n,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-2",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-2-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "f].!tqR1LN",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-3",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-3-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "G!O,$di99z",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-4",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-4-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "re..9Zm]wA",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-5",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-5-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "O$9jDbg|JA",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-6",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-6-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "g%j[HhRN+8",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-7",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-7-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "myHYRAiQr(",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-8",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-8-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "m=(gcrl9Gg",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-9",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-9-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "pr8>by2ycj",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-10",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-10-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "c<YE80u-GL",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-11",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-11-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "LmIZ~eQSYI",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-12",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-12-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "J<6/C%k;GC",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-13",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-13-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "LUNit3?Hb%",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-14",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-14-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-14-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "HmT&.`j/|,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d15d8677930643dc8800cab9c8732b00-ao-15",
+                "",
+                "<img src=\"tmp9nwbev_g.png\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-15-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-15-A.svg\" />",
+                "<img src=\"d15d8677930643dc8800cab9c8732b00-ao-O.svg\" />"
+            ],
+            "guid": "Lfye_iCx;,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-1",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-1-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "DP21Zk!x18",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-2",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-2-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "Ch]]vhj0@I",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-3",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-3-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "Hg!1|mZ%a5",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-4",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-4-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "z/X9=;LGzm",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-5",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-5-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "p.Y-hU[mWP",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-6",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-6-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "r0M&qOT8tH",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d5e4a5d04ed94b49ab4eef993e3ce436-ao-7",
+                "",
+                "<img src=\"tmpoi4xxreh.png\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-7-A.svg\" />",
+                "<img src=\"d5e4a5d04ed94b49ab4eef993e3ce436-ao-O.svg\" />"
+            ],
+            "guid": "NQV<&(dV_K",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why are there more cervical nerves/roots than vertebrae?",
+                "-Nerve roots are labeled cranially until the end of the 7th nerve. At C8, nerve roots are labeled caudally",
+                "",
+                ""
+            ],
+            "guid": "jj/c6_i0fA",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-1",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-1-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "OI[,<h>9*a",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-2",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-2-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "Fq|r375%]m",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-3",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-3-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "K,ipV0XcHw",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-4",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-4-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "Inc{Pw4`/f",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-5",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-5-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "F(1y`87Fx%",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-6",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-6-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "n@@oy{_;<#",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-7",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-7-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "P14ap+Q/>T",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-8",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-8-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "hdBb_x&!2]",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-9",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-9-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "w8<a|x6uB.",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-10",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-10-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "Cd;IwVSWHB",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-11",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-11-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "u[v7)^C8Uv",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-12",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-12-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "Jd444>Ta;n",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48cda28a4a7c4512877700834cc122f8-ao-13",
+                "",
+                "<img src=\"tmpftbz694k.png\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-13-A.svg\" />",
+                "<img src=\"48cda28a4a7c4512877700834cc122f8-ao-O.svg\" />"
+            ],
+            "guid": "KqJq0$RxQ$",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">Role of basal ganglia in movement:&nbsp;</span>{{c4::planning and programming&nbsp;}}<span style=\"color: rgb(64, 64, 64);\"><br>Role of cerebellum in movement:&nbsp;<br></span>{{c1::-equilibrium,\nproprioception}}<br></div>\n<div><font color=\"#a53010\">-</font>{{c2::evaluates\nmotor plan and performance to better coordination}}</div>\n<div><font color=\"#a53010\">-</font>{{c3::planning and\nprogramming}}</div>"
+            ],
+            "guid": "OE/TJmKMWI",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2972fa144fe342c288f365d226c24be3-ao-1",
+                "SLO 3",
+                "<img src=\"tmpcltffpfi.png\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-1-A.svg\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-O.svg\" />"
+            ],
+            "guid": "DfR7#c.~A",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2972fa144fe342c288f365d226c24be3-ao-2",
+                "SLO 3",
+                "<img src=\"tmpcltffpfi.png\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-2-A.svg\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-O.svg\" />"
+            ],
+            "guid": "q2Om|(19d!",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2972fa144fe342c288f365d226c24be3-ao-3",
+                "SLO 3",
+                "<img src=\"tmpcltffpfi.png\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-3-A.svg\" />",
+                "<img src=\"2972fa144fe342c288f365d226c24be3-ao-O.svg\" />"
+            ],
+            "guid": "G!WLcmQ.Xq",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><span style=\"color: rgb(64, 64, 64);\">A patient\npresents with left leg weakness. Leg extension is 2/5 strength and patellar\nreflex is 4+. Which of the following is the most likely location of injury?</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">A. Ipsilateral\nupper motor neuron, L1</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">B.\nContralateral upper motor neuron, S1</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">C. Ipsilateral\nlower motor neuron, L4</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">D.\nContralateral lower motor neuron, S1</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">E. Quadriceps\nmuscle fibers</span></div>",
+                "A-→hyper reflexia indicate an upper motor neuron injury. Hyper reflexia at the level of the patella indicates a dermatome of around L1.<br>We don't know for sure if the injury is contralateral, but it must have been ipsilateral at some point because upper motor neurons start ipsilaterally, then descend and dessicate&nbsp;",
+                "",
+                ""
+            ],
+            "guid": "KG8uR{WgT*",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ea9b5b6785654c1cb5921fb9d474ff2e-ao-1",
+                "SLO 4",
+                "<img src=\"tmp0r2x3hgd.png\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-1-A.svg\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg\" />"
+            ],
+            "guid": "H21~=vU]9r",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ea9b5b6785654c1cb5921fb9d474ff2e-ao-2",
+                "SLO 4",
+                "<img src=\"tmp0r2x3hgd.png\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-2-A.svg\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg\" />"
+            ],
+            "guid": "D7fKGM5q#J",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ea9b5b6785654c1cb5921fb9d474ff2e-ao-3",
+                "SLO 4",
+                "<img src=\"tmp0r2x3hgd.png\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-3-A.svg\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg\" />"
+            ],
+            "guid": "m@LPQ)~tO5",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ea9b5b6785654c1cb5921fb9d474ff2e-ao-4",
+                "SLO 4",
+                "<img src=\"tmp0r2x3hgd.png\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-4-A.svg\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg\" />"
+            ],
+            "guid": "Of}y%`!`WI",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ea9b5b6785654c1cb5921fb9d474ff2e-ao-5",
+                "SLO 4",
+                "<img src=\"tmp0r2x3hgd.png\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-5-A.svg\" />",
+                "<img src=\"ea9b5b6785654c1cb5921fb9d474ff2e-ao-O.svg\" />"
+            ],
+            "guid": "fd*v)wer/j",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ddbc4b35003447bade2d08abcfedc62-ao-1",
+                "SLO 4",
+                "<img src=\"tmpsyry5fun.png\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-1-A.svg\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-O.svg\" />"
+            ],
+            "guid": "Fw%nI._=Px",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ddbc4b35003447bade2d08abcfedc62-ao-2",
+                "SLO 4",
+                "<img src=\"tmpsyry5fun.png\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-2-A.svg\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-O.svg\" />"
+            ],
+            "guid": "O(k_9$q>`u",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ddbc4b35003447bade2d08abcfedc62-ao-3",
+                "SLO 4",
+                "<img src=\"tmpsyry5fun.png\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-3-A.svg\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-O.svg\" />"
+            ],
+            "guid": "KM9b%9#)T",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ddbc4b35003447bade2d08abcfedc62-ao-4",
+                "SLO 4",
+                "<img src=\"tmpsyry5fun.png\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-4-A.svg\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-O.svg\" />"
+            ],
+            "guid": "G{6R^59CZN",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ddbc4b35003447bade2d08abcfedc62-ao-5",
+                "SLO 4",
+                "<img src=\"tmpsyry5fun.png\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-5-A.svg\" />",
+                "<img src=\"5ddbc4b35003447bade2d08abcfedc62-ao-O.svg\" />"
+            ],
+            "guid": "I<A_uA+Red",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(64, 64, 64);\">Mr. Thompson, </span><span style=\"color: rgb(64, 64, 64);\">a</span><span style=\"color: rgb(64, 64, 64);\"> 82yM admitted\nto your hospital for an expanding intracranial tumor that is non-</span><span style=\"color: rgb(64, 64, 64);\">resectable</span><span style=\"color: rgb(64, 64, 64);\"> and has not\nresponded to chemo and radiation. The family has decided to pursue hospice\ncare. Over the last few days his mental status </span><span style=\"color: rgb(64, 64, 64);\">deteriorated</span><span style=\"color: rgb(64, 64, 64);\"> and he is now\nunresponsive. During your neurological exam, his response to pain is posturing\nseen below.<br><br></span><div>1. How can the difference between the two\nhelp you identify the level of injury?</div>\n<div></div>\n<br><img src=\"paste-16fdae86ce03fa1174f80b3e2b3f9c1a62e34891.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span>",
+                "1. Decorticate\noccurs if the lateral and medial brainstem pathways are both intact.<br>&nbsp;Decerebrate if the lateral pathway (from the red nucleus) is disrupted, but\nmedial pathways remain intact. I.e. the origin of the injury is distal to the red nucleus, but above the medial pathway.<br>Any kind of posturing=normal motor cortex/corticospinal pathway is disrupted"
+            ],
+            "guid": "i`lZwh4uAt",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "88e2cbfe843648afa924e0002d26e684-ao-1",
+                "SLO 7",
+                "<img src=\"tmp1fatxj71.png\" />",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-1-A.svg\" />",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-O.svg\" />"
+            ],
+            "guid": "DsrGw(Y81M",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "88e2cbfe843648afa924e0002d26e684-ao-2",
+                "SLO 7",
+                "<img src=\"tmp1fatxj71.png\" />",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-2-A.svg\" />",
+                "<img src=\"88e2cbfe843648afa924e0002d26e684-ao-O.svg\" />"
+            ],
+            "guid": "qLn0:t!NzG",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-1",
+                "",
+                "<img src=\"tmprhdktimn.png\" />",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-1-A.svg\" />",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-O.svg\" />"
+            ],
+            "guid": "jj|UULR6cU",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "8d5d7ae0f14a4c3790c534a1c06e9c10-ao-2",
+                "",
+                "<img src=\"tmprhdktimn.png\" />",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-2-A.svg\" />",
+                "<img src=\"8d5d7ae0f14a4c3790c534a1c06e9c10-ao-O.svg\" />"
+            ],
+            "guid": "yr}BT(J{t1",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48e5fc3087b14acf829af83cf09dbd1e-ao-1",
+                "",
+                "<img src=\"tmpwzfsa40e.png\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-1-A.svg\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-O.svg\" />"
+            ],
+            "guid": "d;h5alM;.(",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48e5fc3087b14acf829af83cf09dbd1e-ao-2",
+                "",
+                "<img src=\"tmpwzfsa40e.png\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-2-A.svg\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-O.svg\" />"
+            ],
+            "guid": "fr}4%NfGDx",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "48e5fc3087b14acf829af83cf09dbd1e-ao-3",
+                "",
+                "<img src=\"tmpwzfsa40e.png\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-3-A.svg\" />",
+                "<img src=\"48e5fc3087b14acf829af83cf09dbd1e-ao-O.svg\" />"
+            ],
+            "guid": "CpvB+qX^}>",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What would a right sided lesion at T10 result in in the spinothalamic tract?",
+                "<div>Traveling up\n1-2 levels clinical results in the following: sometimes a lesion of the\nright-sided T10 level results in ipsilateral loss of pain/temperature\nexperienced from T10 through T12 and than contralateral loss of\npain/temperature below T12.</div>"
+            ],
+            "guid": "QC2vU$4;l?",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9bd39a8967e64810b6ce846db7191931-ao-1",
+                "",
+                "<img src=\"tmp7y6yc4zc.png\" />",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-1-A.svg\" />",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-O.svg\" />"
+            ],
+            "guid": "JzN,eIK~/.",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9bd39a8967e64810b6ce846db7191931-ao-2",
+                "",
+                "<img src=\"tmp7y6yc4zc.png\" />",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-2-A.svg\" />",
+                "<img src=\"9bd39a8967e64810b6ce846db7191931-ao-O.svg\" />"
+            ],
+            "guid": "K,ixD!7W[8",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "95d3def4342749c6b50bb6226387c8d2-ao-1",
+                "",
+                "<img src=\"tmpgv44mzty.png\" />",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-1-A.svg\" />",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-O.svg\" />"
+            ],
+            "guid": "wd2l,=`K:z",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "95d3def4342749c6b50bb6226387c8d2-ao-2",
+                "",
+                "<img src=\"tmpgv44mzty.png\" />",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-2-A.svg\" />",
+                "<img src=\"95d3def4342749c6b50bb6226387c8d2-ao-O.svg\" />"
+            ],
+            "guid": "KeWeHnGeQh",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ventral={{c1::motor}}<br>Dorsal={{c2::sensory}}"
+            ],
+            "guid": "y/_EE,u}5N",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-1",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-1-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "bE6Arfa8SC",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-2",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-2-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "lCcf;&a1oc",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-3",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-3-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "Oiw5}=&:wl",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-4",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-4-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "sPDdFgBsQ0",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-5",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-5-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "t04GH>^LH,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f72b1c76e394d88bb23f499d05fcfc1-ao-6",
+                "",
+                "<img src=\"tmp9cuafgr1.png\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-6-A.svg\" />",
+                "<img src=\"0f72b1c76e394d88bb23f499d05fcfc1-ao-O.svg\" />"
+            ],
+            "guid": "t3re!E]+7*",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One more time!<br>-Spinothalamic tract functions={{c1::pain, temp, and touch}}. Part of the {{c2::ascending}} pathway. Can cause {{c3::contralateral and ipsilateral}} symptoms. Decussation {{c4::in cord near level it is sensing}}.&nbsp;<br>-Lateral corticospinal tract functions={{c5::voluntary motor control (upper and lower motor neurons).}} Decussation in {{c6::medullary pyramids}}. Can cause i{{c7::psilateral and contralateral symptoms.}} Part of the {{c8::descending}} pathway<br>-Posterior/dorsal columns functions={{c9::proprioception, touch, position and vibration.}} {{c10::Ipsilateral}} symptoms only. Motor and sensory neurons. Part of the {{c11::ascending}} pathway. Decussation={{c12::none}}"
+            ],
+            "guid": "MI+^xVHK%-",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Phys",
+                "1",
+                "3::Week",
+                "II::Block"
+            ]
+        }
+    ]
+}
