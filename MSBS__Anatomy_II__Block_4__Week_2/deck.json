@@ -1,0 +1,2630 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "76473b9e-bc6d-11ec-aaa3-f45c899656dd",
+    "deck_config_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "2fcf2790-769e-11ec-baf6-f45c899656dd",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 600
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-1-A.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-1-Q.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-2-A.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-2-Q.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-3-A.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-3-Q.svg",
+        "08f4a246cf8e420b96a6a7817eb5e2fc-ao-O.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-1-A.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-1-Q.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-2-A.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-2-Q.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-3-A.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-3-Q.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-4-A.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-4-Q.svg",
+        "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-O.svg",
+        "294238ef58bf4a4c9ee027fca9b7fd86-ao-1-A.svg",
+        "294238ef58bf4a4c9ee027fca9b7fd86-ao-1-Q.svg",
+        "294238ef58bf4a4c9ee027fca9b7fd86-ao-2-A.svg",
+        "294238ef58bf4a4c9ee027fca9b7fd86-ao-2-Q.svg",
+        "294238ef58bf4a4c9ee027fca9b7fd86-ao-O.svg",
+        "326e3690c283442fab0d383bc7f9abc4-ao-1-A.svg",
+        "326e3690c283442fab0d383bc7f9abc4-ao-1-Q.svg",
+        "326e3690c283442fab0d383bc7f9abc4-ao-2-A.svg",
+        "326e3690c283442fab0d383bc7f9abc4-ao-2-Q.svg",
+        "326e3690c283442fab0d383bc7f9abc4-ao-O.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-1-A.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-1-Q.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-2-A.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-2-Q.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-3-A.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-3-Q.svg",
+        "39cfdcbb66bc45ad8fcee7eead5767f2-ao-O.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-1-A.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-1-Q.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-2-A.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-2-Q.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-3-A.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-3-Q.svg",
+        "45ef515d1ace4679ad8ad6fe469697da-ao-O.svg",
+        "584fbbdd952a444794b236d67cc3c90a-ao-1-A.svg",
+        "584fbbdd952a444794b236d67cc3c90a-ao-1-Q.svg",
+        "584fbbdd952a444794b236d67cc3c90a-ao-2-A.svg",
+        "584fbbdd952a444794b236d67cc3c90a-ao-2-Q.svg",
+        "584fbbdd952a444794b236d67cc3c90a-ao-O.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-1-A.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-1-Q.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-2-A.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-2-Q.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-3-A.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-3-Q.svg",
+        "5ca897c21b2044f580413358bcd7c1ff-ao-O.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-1-A.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-1-Q.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-2-A.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-2-Q.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-3-A.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-3-Q.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-4-A.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-4-Q.svg",
+        "6651924771cc4a4d84231ae1d11257ad-ao-O.svg",
+        "7168527273964e1d8ef2359af2c07983-ao-1-A.svg",
+        "7168527273964e1d8ef2359af2c07983-ao-1-Q.svg",
+        "7168527273964e1d8ef2359af2c07983-ao-O.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-1-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-1-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-2-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-2-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-3-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-3-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-4-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-4-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-5-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-5-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-6-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-6-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-7-A.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-7-Q.svg",
+        "775e6d356cc54ba0adf8313a7c35b661-ao-O.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-1-A.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-1-Q.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-2-A.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-2-Q.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-3-A.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-3-Q.svg",
+        "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-O.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-1-A.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-1-Q.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-2-A.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-2-Q.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-3-A.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-3-Q.svg",
+        "94c44e9a303849148d9f50574590e7d4-ao-O.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-1-A.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-1-Q.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-2-A.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-2-Q.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-3-A.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-3-Q.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-4-A.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-4-Q.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-5-A.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-5-Q.svg",
+        "986278ac4aab4cf782cb4e9563cef078-ao-O.svg",
+        "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-1-A.svg",
+        "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-1-Q.svg",
+        "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-2-A.svg",
+        "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-2-Q.svg",
+        "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-O.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-1-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-1-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-2-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-2-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-3-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-3-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-4-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-4-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-5-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-5-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-6-A.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-6-Q.svg",
+        "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg",
+        "9f9ac592527040bd882b16359bff0e4c-ao-1-A.svg",
+        "9f9ac592527040bd882b16359bff0e4c-ao-1-Q.svg",
+        "9f9ac592527040bd882b16359bff0e4c-ao-2-A.svg",
+        "9f9ac592527040bd882b16359bff0e4c-ao-2-Q.svg",
+        "9f9ac592527040bd882b16359bff0e4c-ao-O.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-1-A.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-1-Q.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-2-A.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-2-Q.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-3-A.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-3-Q.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-4-A.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-4-Q.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-5-A.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-5-Q.svg",
+        "a92d413e44f0465ea65d89dddc658847-ao-O.svg",
+        "ad4c36a6db104199ac6b549666b6641a-ao-1-A.svg",
+        "ad4c36a6db104199ac6b549666b6641a-ao-1-Q.svg",
+        "ad4c36a6db104199ac6b549666b6641a-ao-O.svg",
+        "c07bd8b15a844b55a606882322c034c5-ao-1-A.svg",
+        "c07bd8b15a844b55a606882322c034c5-ao-1-Q.svg",
+        "c07bd8b15a844b55a606882322c034c5-ao-2-A.svg",
+        "c07bd8b15a844b55a606882322c034c5-ao-2-Q.svg",
+        "c07bd8b15a844b55a606882322c034c5-ao-O.svg",
+        "cc9b42f3843746e08797f241bfa3a6f2-ao-1-A.svg",
+        "cc9b42f3843746e08797f241bfa3a6f2-ao-1-Q.svg",
+        "cc9b42f3843746e08797f241bfa3a6f2-ao-O.svg",
+        "cd67d03301574a07b2e6eab1ac662a8f-ao-1-A.svg",
+        "cd67d03301574a07b2e6eab1ac662a8f-ao-1-Q.svg",
+        "cd67d03301574a07b2e6eab1ac662a8f-ao-2-A.svg",
+        "cd67d03301574a07b2e6eab1ac662a8f-ao-2-Q.svg",
+        "cd67d03301574a07b2e6eab1ac662a8f-ao-O.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-1-A.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-1-Q.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-2-A.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-2-Q.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-3-A.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-3-Q.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-4-A.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-4-Q.svg",
+        "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-O.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-1-A.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-1-Q.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-2-A.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-2-Q.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-3-A.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-3-Q.svg",
+        "d7514a95a03f4aa2a1a5933c9b085a27-ao-O.svg",
+        "e5caf1a1b93447e1b2efb88897c1ed51-ao-1-A.svg",
+        "e5caf1a1b93447e1b2efb88897c1ed51-ao-1-Q.svg",
+        "e5caf1a1b93447e1b2efb88897c1ed51-ao-2-A.svg",
+        "e5caf1a1b93447e1b2efb88897c1ed51-ao-2-Q.svg",
+        "e5caf1a1b93447e1b2efb88897c1ed51-ao-O.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-1-A.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-1-Q.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-2-A.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-2-Q.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-3-A.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-3-Q.svg",
+        "e9c91010c040486983afd83fb02d7a06-ao-O.svg",
+        "eb6909ac7f624514b01da0f3b610f6b3-ao-1-A.svg",
+        "eb6909ac7f624514b01da0f3b610f6b3-ao-1-Q.svg",
+        "eb6909ac7f624514b01da0f3b610f6b3-ao-2-A.svg",
+        "eb6909ac7f624514b01da0f3b610f6b3-ao-2-Q.svg",
+        "eb6909ac7f624514b01da0f3b610f6b3-ao-O.svg",
+        "efcc3f17e49a47d2a8d3d672da038dd6-ao-1-A.svg",
+        "efcc3f17e49a47d2a8d3d672da038dd6-ao-1-Q.svg",
+        "efcc3f17e49a47d2a8d3d672da038dd6-ao-2-A.svg",
+        "efcc3f17e49a47d2a8d3d672da038dd6-ao-2-Q.svg",
+        "efcc3f17e49a47d2a8d3d672da038dd6-ao-O.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-1-A.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-1-Q.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-2-A.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-2-Q.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-3-A.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-3-Q.svg",
+        "f8cdb642aee54515aac270112a7046cd-ao-O.svg",
+        "tmp0aeks7q8.png",
+        "tmp0nusx1aj.png",
+        "tmp1j9qzfaz.png",
+        "tmp2h7xwy76.png",
+        "tmp2zzp79l1.png",
+        "tmp3zoy7qto.png",
+        "tmp4klqq73l.png",
+        "tmp66oy0jw_.png",
+        "tmp7kcneb1k.png",
+        "tmp7l5gsvwf.png",
+        "tmp9jsgtkzd.png",
+        "tmp_gxm4dv1.png",
+        "tmpc3lq7dzq.png",
+        "tmpccdmbkc4.png",
+        "tmpcg4892n_.png",
+        "tmpgv85_ks2.png",
+        "tmph0eg28wy.png",
+        "tmphk563lhb.png",
+        "tmpi0i5a_vx.png",
+        "tmpkcr7eu03.png",
+        "tmpn63j3cyf.png",
+        "tmpncdcr9xk.png",
+        "tmps4qez0rk.png",
+        "tmptl0c2nqm.png",
+        "tmpwalboksc.png",
+        "tmpxlbxhuhg.png"
+    ],
+    "name": "MSBS::Anatomy II::Block 4::Week 2",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n/* TAGS */\n/* Container To Fix Tags At Bottom Of Screen */\n#tags-container{\nposition: fixed;\nbottom: .5px;\npadding-bottom: 0px;\nwidth: 100%;\nline-height: .45rem;\nmargin-left: -15px;\n}\n\n/* Clickable Tags (need to download the add-on) */\nkbd {\n display: inline-block;\n letter-spacing: .2px;\n font-weight: bold;\n font-size: 12px !important;\n text-shadow: none !important;\n padding: 0.05rem 0.1rem !important;\n margin: 1px -3px !important;\n border-radius: 4px;\n border-width: 1.5px !important;\n border-style: solid;\n background-color: transparent !important;\n box-shadow: none !important;\n opacity: 0.5;\n vertical-align: middle;\n}\n\n/* Tag Becomes More Visible On Hover */\nkbd:hover { opacity: 1; transition: opacity 0.2s ease; }\n\n/* Tag Colors */\nkbd:nth-of-type(1n+0) { border-color: #F44336; color: #F44336; }\nkbd:nth-of-type(2n+0) { border-color: #9C27B0; color: #9C27B0; }\nkbd:nth-of-type(3n+0) { border-color: #3F51B5; color: #3F51B5; }\nkbd:nth-of-type(4n+0) { border-color: #03A9F4; color: #03A9F4; }\nkbd:nth-of-type(5n+0) { border-color: #009688; color: #009688; }\nkbd:nth-of-type(6n+0) { border-color: #C0CA33; color: #C0CA33; }\nkbd:nth-of-type(7n+0) { border-color: #FF9800; color: #FF9800}\nkbd:nth-of-type(8n+0) { border-color: #FF5722; color: #FF5722; }\nkbd:nth-of-type(9n+0) { border-color: #9E9E9E; color: #9E9E9E; }\nkbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B; }\n\n/* Tag Mobile Adjustments */\n.mobile kbd { opacity: .9; margin: 1px !important; display: inline-block; font-size: 10px !important; }\n.mobile #tags-container {line-height:0.6rem; margin-left: 0px; }\n",
+            "flds": [
+                {
+                    "collapsibleFieldsCollapseByDefault": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Big Picture",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Mnemonic",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-f18ab",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n\n{{Big Picture}}\n\n{{#Tags}}\n<div id=\"tags-container\">{{Tags}}</div>\n<script>\nvar tagContainer = document.getElementById(\"tags-container\")\nif (tagContainer.childElementCount == 0) {\n var tagList= tagContainer.innerHTML.split(\" \");\n var kbdList = [];\n var newTagContent = document.createElement(\"div\");\n\n for (var i = 0; i < tagList.length;  i++) {\n  var newTag = document.createElement(\"kbd\");\n  newTag.innerHTML = tagList[i];\n  newTagContent.append(newTag)\n }\n tagContainer.innerHTML = newTagContent.innerHTML;\n tagContainer.style.cursor = \"default\";\n}\n</script>\n{{/Tags}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-fb18b",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Boundaries of the temporal fossa?<br><div>Posterior/Superior – {{c1::temporal lines}}</div>\n<div>Anterior – {{c2::frontal &amp; zygomatic bones}}</div>\n<div>Lateral – {{c3::zygomatic arch}}</div>\n<div>Inferior – {{c4::infratemporal fossa}}</div>\n<div>Roof – {{c5::temporal fascia}}</div>\n<div>Floor – {{c6::parts of four bones that form the\npterion}}</div>"
+            ],
+            "guid": "DWGz%<^+4C",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the muscles of mastication?",
+                "<div>•Temporalis,\nMasseter, Medial Pterygoid, Lateral Pterygoid</div>",
+                "",
+                ""
+            ],
+            "guid": "Qo3XD%w/A<",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Innervation for muscles of mastication?",
+                "<div>•Mandibular\nnerve (CN V3)</div>",
+                "",
+                ""
+            ],
+            "guid": "grjyH|B4kf",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Functions of the muscles of the mastication?",
+                "<div>Used\nto move the mandible for chewing &amp; speech</div>",
+                "",
+                ""
+            ],
+            "guid": "Lbb]Mj__N%",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Muscles of mastication attachment?",
+                "<div>Attach\nfrom somewhere on the cranium to the mandible</div>",
+                "",
+                ""
+            ],
+            "guid": "J1?$AIT&tf",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "39cfdcbb66bc45ad8fcee7eead5767f2-ao-1",
+                "",
+                "<img src=\"tmpccdmbkc4.png\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-1-A.svg\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-O.svg\" />"
+            ],
+            "guid": "u~DI6L~qd9",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "39cfdcbb66bc45ad8fcee7eead5767f2-ao-2",
+                "",
+                "<img src=\"tmpccdmbkc4.png\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-2-A.svg\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-O.svg\" />"
+            ],
+            "guid": "gWI^f8^U%,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "39cfdcbb66bc45ad8fcee7eead5767f2-ao-3",
+                "",
+                "<img src=\"tmpccdmbkc4.png\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-3-A.svg\" />",
+                "<img src=\"39cfdcbb66bc45ad8fcee7eead5767f2-ao-O.svg\" />"
+            ],
+            "guid": "sp<N3@4T?l",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-1",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-1-A.svg\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-O.svg\" />"
+            ],
+            "guid": "Fv<FXI|:*s",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-2",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-2-A.svg\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-O.svg\" />"
+            ],
+            "guid": "k6az%klI#h",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-3",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-3-A.svg\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-O.svg\" />"
+            ],
+            "guid": "yp|5F+u},]",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ced3a7fb9d4d4936a34cb8fac13d7c77-ao-4",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-4-A.svg\" />",
+                "<img src=\"ced3a7fb9d4d4936a34cb8fac13d7c77-ao-O.svg\" />"
+            ],
+            "guid": "C0L[Sa0:#}",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-1",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-1-A.svg\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-O.svg\" />"
+            ],
+            "guid": "L4/siHcf/4",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-2",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-2-A.svg\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-O.svg\" />"
+            ],
+            "guid": "Cl#X<SBl6.",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-3",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-3-A.svg\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-O.svg\" />"
+            ],
+            "guid": "o2H_96,8oL",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-4",
+                "",
+                "<img src=\"tmp4klqq73l.png\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-4-A.svg\" />",
+                "<img src=\"0c6e5fb6b9ec4009a3e46529ba0b12e9-ao-O.svg\" />"
+            ],
+            "guid": "f<Qrwsn(zz",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Functions of the TMJ?",
+                "allows hinge and gliding movement as well as rotation",
+                "",
+                ""
+            ],
+            "guid": "MAXw8:0{JC",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>In the TMJ,&nbsp;<br>Temporal bone and mandible separated by {{c1::fibrocartilaginous <span style=\"font-weight: bold;\">articular\ndisc</span>}}</div>\n<div>•<span style=\"font-weight: bold;\">Articular tubercle</span> prevents {{c2::anterior dislocation}}</div>"
+            ],
+            "guid": "mR+=zGtg-*",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the boundaries of the infratemporal fossa?<br><div>Posterior\n–{{c1::Mastoid &amp; styloid processes}}</div>\n<div>Superior\n– {{c2::Greater wing of sphenoid}}</div>\n<div>Anterior\n–{{c3::Maxilla}}</div>\n<div></div>\n<div></div>\n<div></div>\n<div>Lateral\n– {{c4::ramus of mandible}}</div>\n<div>Medial\n– {{c5::lateral pterygoid plate}}</div>\n<div>Inferior\n– {{c6::angle of mandible}}</div>"
+            ],
+            "guid": "bRpqcd;<#8",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "986278ac4aab4cf782cb4e9563cef078-ao-1",
+                "",
+                "<img src=\"tmp0aeks7q8.png\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-1-A.svg\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-O.svg\" />"
+            ],
+            "guid": "l/@7tRD4jR",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "986278ac4aab4cf782cb4e9563cef078-ao-2",
+                "",
+                "<img src=\"tmp0aeks7q8.png\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-2-A.svg\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-O.svg\" />"
+            ],
+            "guid": "ChDn5lQCMp",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "986278ac4aab4cf782cb4e9563cef078-ao-3",
+                "",
+                "<img src=\"tmp0aeks7q8.png\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-3-A.svg\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-O.svg\" />"
+            ],
+            "guid": "bVq[NR?Vi$",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "986278ac4aab4cf782cb4e9563cef078-ao-4",
+                "",
+                "<img src=\"tmp0aeks7q8.png\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-4-A.svg\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-O.svg\" />"
+            ],
+            "guid": "raU?xXPgW2",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "986278ac4aab4cf782cb4e9563cef078-ao-5",
+                "",
+                "<img src=\"tmp0aeks7q8.png\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-5-A.svg\" />",
+                "<img src=\"986278ac4aab4cf782cb4e9563cef078-ao-O.svg\" />"
+            ],
+            "guid": "oQ5tCGU!]@",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-1",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-1-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "NpA|6M|V(-",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-2",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-2-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "c03h<*HP]w",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-3",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-3-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "IFg$p-t@nM",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-4",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-4-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "ng(`!h#?)w",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-5",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-5-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "y`qLRn-S#=",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-6",
+                "",
+                "<img src=\"tmpcg4892n_.png\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-6-A.svg\" />",
+                "<img src=\"9f0cfa45947c42e4ab8caeeb7d7c52a4-ao-O.svg\" />"
+            ],
+            "guid": "nr7a3-Z}Rp",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pathway of pterygoid venous plexus? What does it communicate with?",
+                "<div>-Drains\nthrough maxillary v.-→retromandibular v.-→&nbsp;int. or ext. jugular v.<br>-Communicates with cavernous sinus</div>"
+            ],
+            "guid": "v)i~n}DL4Z",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "584fbbdd952a444794b236d67cc3c90a-ao-1",
+                "",
+                "<img src=\"tmpn63j3cyf.png\" />",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-1-A.svg\" />",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-O.svg\" />"
+            ],
+            "guid": "v9d.b:;Yco",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "584fbbdd952a444794b236d67cc3c90a-ao-2",
+                "",
+                "<img src=\"tmpn63j3cyf.png\" />",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-2-A.svg\" />",
+                "<img src=\"584fbbdd952a444794b236d67cc3c90a-ao-O.svg\" />"
+            ],
+            "guid": "GFyLHD|jcO",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ad4c36a6db104199ac6b549666b6641a-ao-1",
+                "",
+                "<img src=\"tmpncdcr9xk.png\" />",
+                "<img src=\"ad4c36a6db104199ac6b549666b6641a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ad4c36a6db104199ac6b549666b6641a-ao-1-A.svg\" />",
+                "<img src=\"ad4c36a6db104199ac6b549666b6641a-ao-O.svg\" />"
+            ],
+            "guid": "x{mk;2_}*O",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the autonomic innervation of the submandibular and sublingual glands?",
+                "Parasympathetic"
+            ],
+            "guid": "k;(^,3uTZ?",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6651924771cc4a4d84231ae1d11257ad-ao-1",
+                "",
+                "<img src=\"tmphk563lhb.png\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-1-A.svg\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-O.svg\" />"
+            ],
+            "guid": "v-S6k:J:_)",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6651924771cc4a4d84231ae1d11257ad-ao-2",
+                "",
+                "<img src=\"tmphk563lhb.png\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-2-A.svg\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-O.svg\" />"
+            ],
+            "guid": "rF>+T^5#rC",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6651924771cc4a4d84231ae1d11257ad-ao-3",
+                "",
+                "<img src=\"tmphk563lhb.png\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-3-A.svg\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-O.svg\" />"
+            ],
+            "guid": "Go^yJY!MBQ",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6651924771cc4a4d84231ae1d11257ad-ao-4",
+                "",
+                "<img src=\"tmphk563lhb.png\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-4-A.svg\" />",
+                "<img src=\"6651924771cc4a4d84231ae1d11257ad-ao-O.svg\" />"
+            ],
+            "guid": "p9Z1.(({e!",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e5caf1a1b93447e1b2efb88897c1ed51-ao-1",
+                "",
+                "<img src=\"tmph0eg28wy.png\" />",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-1-A.svg\" />",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-O.svg\" />"
+            ],
+            "guid": "?c41B-&*9",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e5caf1a1b93447e1b2efb88897c1ed51-ao-2",
+                "",
+                "<img src=\"tmph0eg28wy.png\" />",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-2-A.svg\" />",
+                "<img src=\"e5caf1a1b93447e1b2efb88897c1ed51-ao-O.svg\" />"
+            ],
+            "guid": "qv!(djSi%&",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "08f4a246cf8e420b96a6a7817eb5e2fc-ao-1",
+                "",
+                "<img src=\"tmp9jsgtkzd.png\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-1-A.svg\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-O.svg\" />"
+            ],
+            "guid": "Pj6SDgk#nT",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "08f4a246cf8e420b96a6a7817eb5e2fc-ao-2",
+                "",
+                "<img src=\"tmp9jsgtkzd.png\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-2-A.svg\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-O.svg\" />"
+            ],
+            "guid": "J$t$8#{,D5",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "08f4a246cf8e420b96a6a7817eb5e2fc-ao-3",
+                "",
+                "<img src=\"tmp9jsgtkzd.png\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-3-A.svg\" />",
+                "<img src=\"08f4a246cf8e420b96a6a7817eb5e2fc-ao-O.svg\" />"
+            ],
+            "guid": "Fi,$z%~-sB",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d7514a95a03f4aa2a1a5933c9b085a27-ao-1",
+                "",
+                "<img src=\"tmpc3lq7dzq.png\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-1-A.svg\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-O.svg\" />"
+            ],
+            "guid": "D,T(a#iF8a",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d7514a95a03f4aa2a1a5933c9b085a27-ao-2",
+                "",
+                "<img src=\"tmpc3lq7dzq.png\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-2-A.svg\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-O.svg\" />"
+            ],
+            "guid": "q-vFUvMaU6",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d7514a95a03f4aa2a1a5933c9b085a27-ao-3",
+                "",
+                "<img src=\"tmpc3lq7dzq.png\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-3-A.svg\" />",
+                "<img src=\"d7514a95a03f4aa2a1a5933c9b085a27-ao-O.svg\" />"
+            ],
+            "guid": "C-Ykd]xAlv",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ca897c21b2044f580413358bcd7c1ff-ao-1",
+                "",
+                "<img src=\"tmp0nusx1aj.png\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-1-A.svg\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-O.svg\" />"
+            ],
+            "guid": "t]NA{z|uYE",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ca897c21b2044f580413358bcd7c1ff-ao-2",
+                "",
+                "<img src=\"tmp0nusx1aj.png\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-2-A.svg\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-O.svg\" />"
+            ],
+            "guid": "m3tE34#wsD",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5ca897c21b2044f580413358bcd7c1ff-ao-3",
+                "",
+                "<img src=\"tmp0nusx1aj.png\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-3-A.svg\" />",
+                "<img src=\"5ca897c21b2044f580413358bcd7c1ff-ao-O.svg\" />"
+            ],
+            "guid": "C?YvGw>b+H",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "efcc3f17e49a47d2a8d3d672da038dd6-ao-1",
+                "",
+                "<img src=\"tmph0eg28wy.png\" />",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-1-A.svg\" />",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-O.svg\" />"
+            ],
+            "guid": "hri556kqng",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "efcc3f17e49a47d2a8d3d672da038dd6-ao-2",
+                "",
+                "<img src=\"tmph0eg28wy.png\" />",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-2-A.svg\" />",
+                "<img src=\"efcc3f17e49a47d2a8d3d672da038dd6-ao-O.svg\" />"
+            ],
+            "guid": "mi2*65TEK",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eb6909ac7f624514b01da0f3b610f6b3-ao-1",
+                "",
+                "<img src=\"tmp2zzp79l1.png\" />",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-1-A.svg\" />",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-O.svg\" />"
+            ],
+            "guid": "D.jcByW(XU",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eb6909ac7f624514b01da0f3b610f6b3-ao-2",
+                "",
+                "<img src=\"tmp2zzp79l1.png\" />",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-2-A.svg\" />",
+                "<img src=\"eb6909ac7f624514b01da0f3b610f6b3-ao-O.svg\" />"
+            ],
+            "guid": "^0%ty_(>6",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How would a pt with <b>left</b> oculomotor nerve palsy present?",
+                "At resting position: left eye rotated down and out, eyelid drooping<br>Attempting to look right: eye is center, eyelid drooping<br>looking left: can look left, eyelid dropping<br>",
+                "",
+                ""
+            ],
+            "guid": "yIt+Erx(EA",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "7168527273964e1d8ef2359af2c07983-ao-1",
+                "",
+                "<img src=\"tmpxlbxhuhg.png\" />",
+                "<img src=\"7168527273964e1d8ef2359af2c07983-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7168527273964e1d8ef2359af2c07983-ao-1-A.svg\" />",
+                "<img src=\"7168527273964e1d8ef2359af2c07983-ao-O.svg\" />"
+            ],
+            "guid": "z:1X;3Afv/",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Symptoms of trochlear (superior oblique) left palsy?",
+                "-Head tilted to opposite side to compensate for diplopia<br>-can't look down and out or intort eye<br>",
+                "",
+                ""
+            ],
+            "guid": "eDry61Q~5_",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-1",
+                "",
+                "<img src=\"tmpkcr7eu03.png\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-1-A.svg\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-O.svg\" />"
+            ],
+            "guid": "sViR<^PUK|",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-2",
+                "",
+                "<img src=\"tmpkcr7eu03.png\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-2-A.svg\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-O.svg\" />"
+            ],
+            "guid": "PuddUr,3ZQ",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-3",
+                "",
+                "<img src=\"tmpkcr7eu03.png\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-3-A.svg\" />",
+                "<img src=\"7ef0a0b02f454f8aa70ceebe4d4c05d1-ao-O.svg\" />"
+            ],
+            "guid": "bu;(LMSesC",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "45ef515d1ace4679ad8ad6fe469697da-ao-1",
+                "",
+                "<img src=\"tmpwalboksc.png\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-1-A.svg\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-O.svg\" />"
+            ],
+            "guid": "emPLpzL5$A",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "45ef515d1ace4679ad8ad6fe469697da-ao-2",
+                "",
+                "<img src=\"tmpwalboksc.png\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-2-A.svg\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-O.svg\" />"
+            ],
+            "guid": "hP$OhJ@xoi",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "45ef515d1ace4679ad8ad6fe469697da-ao-3",
+                "",
+                "<img src=\"tmpwalboksc.png\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-3-A.svg\" />",
+                "<img src=\"45ef515d1ace4679ad8ad6fe469697da-ao-O.svg\" />"
+            ],
+            "guid": "hj:S0RvBE!",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Retina contains?",
+                "Rods: sensitive to light<br>Cones: need lots of light to function",
+                "",
+                ""
+            ],
+            "guid": "M$0~>&`bq%",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Role of fovea centralis?",
+                "where you ideally want image focused",
+                "",
+                ""
+            ],
+            "guid": "v&=v[hFXCf",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Role of macula lutea?",
+                "visual acuity, central vision, color vision, contains high concentration of cones. Contains macula lutea",
+                "",
+                ""
+            ],
+            "guid": "MWvAKT#9x|",
+            "note_model_uuid": "67fe187c-79b1-11ec-a1eb-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c07bd8b15a844b55a606882322c034c5-ao-1",
+                "",
+                "<img src=\"tmps4qez0rk.png\" />",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-1-A.svg\" />",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-O.svg\" />"
+            ],
+            "guid": "INf:c^,Mbw",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c07bd8b15a844b55a606882322c034c5-ao-2",
+                "",
+                "<img src=\"tmps4qez0rk.png\" />",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-2-A.svg\" />",
+                "<img src=\"c07bd8b15a844b55a606882322c034c5-ao-O.svg\" />"
+            ],
+            "guid": "l-Ov]Ir5gy",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-1",
+                "",
+                "<img src=\"tmp1j9qzfaz.png\" />",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-1-A.svg\" />",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-O.svg\" />"
+            ],
+            "guid": "v$rCMM>VUN",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9aecdb18188f4f4f8e6fb4ef81c279eb-ao-2",
+                "",
+                "<img src=\"tmp1j9qzfaz.png\" />",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-2-A.svg\" />",
+                "<img src=\"9aecdb18188f4f4f8e6fb4ef81c279eb-ao-O.svg\" />"
+            ],
+            "guid": "vej,;:9MxF",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a92d413e44f0465ea65d89dddc658847-ao-1",
+                "",
+                "<img src=\"tmp66oy0jw_.png\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-1-A.svg\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-O.svg\" />"
+            ],
+            "guid": "uR~VQnJ+k^",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a92d413e44f0465ea65d89dddc658847-ao-2",
+                "",
+                "<img src=\"tmp66oy0jw_.png\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-2-A.svg\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-O.svg\" />"
+            ],
+            "guid": "Bh(RMV;]{Y",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a92d413e44f0465ea65d89dddc658847-ao-3",
+                "",
+                "<img src=\"tmp66oy0jw_.png\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-3-A.svg\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-O.svg\" />"
+            ],
+            "guid": "ycY9y+IRh9",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a92d413e44f0465ea65d89dddc658847-ao-4",
+                "",
+                "<img src=\"tmp66oy0jw_.png\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-4-A.svg\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-O.svg\" />"
+            ],
+            "guid": "e7g]:sYZO9",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a92d413e44f0465ea65d89dddc658847-ao-5",
+                "",
+                "<img src=\"tmp66oy0jw_.png\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-5-A.svg\" />",
+                "<img src=\"a92d413e44f0465ea65d89dddc658847-ao-O.svg\" />"
+            ],
+            "guid": "M[S62cjItl",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94c44e9a303849148d9f50574590e7d4-ao-1",
+                "",
+                "<img src=\"tmpi0i5a_vx.png\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-1-A.svg\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-O.svg\" />"
+            ],
+            "guid": "QigW2V$Og=",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94c44e9a303849148d9f50574590e7d4-ao-2",
+                "",
+                "<img src=\"tmpi0i5a_vx.png\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-2-A.svg\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-O.svg\" />"
+            ],
+            "guid": "qhs+~4p6oX",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94c44e9a303849148d9f50574590e7d4-ao-3",
+                "",
+                "<img src=\"tmpi0i5a_vx.png\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-3-A.svg\" />",
+                "<img src=\"94c44e9a303849148d9f50574590e7d4-ao-O.svg\" />"
+            ],
+            "guid": "D7n0k3ymx(",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f8cdb642aee54515aac270112a7046cd-ao-1",
+                "",
+                "<img src=\"tmp3zoy7qto.png\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-1-A.svg\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-O.svg\" />"
+            ],
+            "guid": "bL?&wxD<CG",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f8cdb642aee54515aac270112a7046cd-ao-2",
+                "",
+                "<img src=\"tmp3zoy7qto.png\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-2-A.svg\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-O.svg\" />"
+            ],
+            "guid": "Jq@_f0iGQ,",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f8cdb642aee54515aac270112a7046cd-ao-3",
+                "",
+                "<img src=\"tmp3zoy7qto.png\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-3-A.svg\" />",
+                "<img src=\"f8cdb642aee54515aac270112a7046cd-ao-O.svg\" />"
+            ],
+            "guid": "ip%xzb6?@1",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-1",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-1-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "L-K#EfSUqD",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-2",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-2-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "DQdJw{%;ZY",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-3",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-3-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "i@2Gu?Z(H1",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-4",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-4-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "oO*db{>Hn]",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-5",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-5-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "BZd^5C:PJU",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-6",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-6-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "i=<0Nd!R*J",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "775e6d356cc54ba0adf8313a7c35b661-ao-7",
+                "",
+                "<img src=\"tmp7l5gsvwf.png\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-7-A.svg\" />",
+                "<img src=\"775e6d356cc54ba0adf8313a7c35b661-ao-O.svg\" />"
+            ],
+            "guid": "gR`^3*kZ9b",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cc9b42f3843746e08797f241bfa3a6f2-ao-1",
+                "",
+                "<img src=\"tmp7kcneb1k.png\" />",
+                "<img src=\"cc9b42f3843746e08797f241bfa3a6f2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cc9b42f3843746e08797f241bfa3a6f2-ao-1-A.svg\" />",
+                "<img src=\"cc9b42f3843746e08797f241bfa3a6f2-ao-O.svg\" />"
+            ],
+            "guid": "it}x3H2eNN",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "326e3690c283442fab0d383bc7f9abc4-ao-1",
+                "",
+                "<img src=\"tmptl0c2nqm.png\" />",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-1-A.svg\" />",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-O.svg\" />"
+            ],
+            "guid": "xAJ<(aKkrz",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "326e3690c283442fab0d383bc7f9abc4-ao-2",
+                "",
+                "<img src=\"tmptl0c2nqm.png\" />",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-2-A.svg\" />",
+                "<img src=\"326e3690c283442fab0d383bc7f9abc4-ao-O.svg\" />"
+            ],
+            "guid": "L2jWE)6]bb",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e9c91010c040486983afd83fb02d7a06-ao-1",
+                "",
+                "<img src=\"tmp2h7xwy76.png\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-1-A.svg\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-O.svg\" />"
+            ],
+            "guid": "ckRBaH9B6U",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e9c91010c040486983afd83fb02d7a06-ao-2",
+                "",
+                "<img src=\"tmp2h7xwy76.png\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-2-A.svg\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-O.svg\" />"
+            ],
+            "guid": "Mrg1gYv:;+",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e9c91010c040486983afd83fb02d7a06-ao-3",
+                "",
+                "<img src=\"tmp2h7xwy76.png\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-3-A.svg\" />",
+                "<img src=\"e9c91010c040486983afd83fb02d7a06-ao-O.svg\" />"
+            ],
+            "guid": "L*.rWkJV&C",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>If a sound is too loud, muscles can\nrestrict movements of the {{c1::ossicles}} to dampen sound.</div>"
+            ],
+            "guid": "E?u>|ku4hH",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Innervation of middle ear?<br>Tensor tympani: {{c1::trigeminal n (CN V3)}}<br>Stapedius: {{c2::Facial n (CN VII)}}"
+            ],
+            "guid": "QZ/BAlq-%h",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the cochlea, bony\nlabyrinth contains {{c1::perilymph}}<div>Membranous\nlabyrinth contains endolymph and sensory organs{{c2::}}</div>"
+            ],
+            "guid": "Ia@9jJ>>R.",
+            "note_model_uuid": "2fcfec84-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cd67d03301574a07b2e6eab1ac662a8f-ao-1",
+                "",
+                "<img src=\"tmp_gxm4dv1.png\" />",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-1-A.svg\" />",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-O.svg\" />"
+            ],
+            "guid": "z]*_cJUwmT",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cd67d03301574a07b2e6eab1ac662a8f-ao-2",
+                "",
+                "<img src=\"tmp_gxm4dv1.png\" />",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-2-A.svg\" />",
+                "<img src=\"cd67d03301574a07b2e6eab1ac662a8f-ao-O.svg\" />"
+            ],
+            "guid": "o5Xi*tgucp",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f9ac592527040bd882b16359bff0e4c-ao-1",
+                "",
+                "<img src=\"tmp_gxm4dv1.png\" />",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-1-A.svg\" />",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-O.svg\" />"
+            ],
+            "guid": "O2,;U?8b!",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "9f9ac592527040bd882b16359bff0e4c-ao-2",
+                "",
+                "<img src=\"tmp_gxm4dv1.png\" />",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-2-A.svg\" />",
+                "<img src=\"9f9ac592527040bd882b16359bff0e4c-ao-O.svg\" />"
+            ],
+            "guid": "x*&g=*:=&/",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2 main components of vestibular system and their roles?",
+                "-Semicircular canals: detect rotational acceleration when head is in motion&nbsp;<br>-Otolith organs: utricle/saccule; detects lear acceleration and detects head position in static equilibrium"
+            ],
+            "guid": "wUAP8v6{E+",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do otolith organs detect linear acceleration?",
+                "<div>•Gelatin\nlayer containing otoliths shifts due to gravity or linear movement.</div>\n<div>•Hair\ncells detect shift, signal movement<br><div>-Saccule:\nvertical motion</div>\n<div>-Utricle:\nhorizontal motion</div></div>"
+            ],
+            "guid": "H[1$3V~D{Y",
+            "note_model_uuid": "3d1e12ec-98e2-11ec-b3ec-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "294238ef58bf4a4c9ee027fca9b7fd86-ao-1",
+                "",
+                "<img src=\"tmpgv85_ks2.png\" />",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-1-A.svg\" />",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-O.svg\" />"
+            ],
+            "guid": "M4]H(i-r*x",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "294238ef58bf4a4c9ee027fca9b7fd86-ao-2",
+                "",
+                "<img src=\"tmpgv85_ks2.png\" />",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-2-A.svg\" />",
+                "<img src=\"294238ef58bf4a4c9ee027fca9b7fd86-ao-O.svg\" />"
+            ],
+            "guid": "dN~9pzL,!S",
+            "note_model_uuid": "2fd26b26-769e-11ec-baf6-f45c899656dd",
+            "tags": [
+                "**MSBS::Anat2::Block4::Week2"
+            ]
+        }
+    ]
+}
