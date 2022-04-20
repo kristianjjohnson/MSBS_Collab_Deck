@@ -24552,6 +24552,198 @@
                                     "guid": "MU,WpA!r!.",
                                     "note_model_uuid": "5a1cfb7c-c00d-11ec-9a92-acde48001122",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Marasmus}} disease is a total caloric restriction that is not limited to protein. This often occurs under the age of {{c1::one}} when {{c1::breastmilk is substituted for watered- down sources (formulas or cereals)}}.",
+                                        ""
+                                    ],
+                                    "guid": "e7~N}a9:P&",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Marasmus disease symptoms include {{c1::arrested}} growth, extreme {{c1::muscle wasting}}, depletion of f{{c1::at deposits (emaciation)}}, weakness, and anemia. There is NO {{c1::edema}} in Marasmus disease.",
+                                        ""
+                                    ],
+                                    "guid": "n-i,Wp,dG!",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Cachexia}} is a disorder that consists of loss of appetite and muscle atrophy that is NOT reversable with traditional nutritional supplement. This is commonly seen with chronic conditions like {{c1::cancer}}, {{c1::pulmonary}} disease, and {{c1::renal}} disease. It is&nbsp;associated with decrease tolerance for treatment and increased risk for death.",
+                                        ""
+                                    ],
+                                    "guid": "ca,+VR|HOR",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fat soluble vitamins are not readily excreted and are stored in the {{c1::liver}} and {{c1::adipose tissues}}.&nbsp; {{c1::Toxicity}} can occur due to build up of large quantities.",
+                                        ""
+                                    ],
+                                    "guid": "w8`7grKd]n",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vitamin {{c1::B9}} ({{c1::folic acid}}) deficiency leads to {{c1::macrocytic}} ({{c1::megaloblastic}}) anemia leading to the accumulation of large immature {{c1::megaloblasts}}. This form of anemia is caused by the {{c1::decrease}} in purine synthesis and {{c1::decrease}} in TMP, preventing the {{c1::megaloblasts}} from dividing and forming RBCs.",
+                                        ""
+                                    ],
+                                    "guid": "r)RZ=#HI{N",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Folic acid is converted to {{c1::dihydrofolate}} ({{c1::FH2}}) and {{c1::tetrahydrofolate}} ({{c1::FH4}}) by the enzyme {{c1::dihydrofolate}} reductase, the enzyme inhibited by the drug&nbsp;{{c1::methotrexate}}.",
+                                        ""
+                                    ],
+                                    "guid": "OFTc!!N>S(",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vitamin {{c1::B 12}} ({{c1::cobalamin}})&nbsp;deficiency include fatigue, weakness, dyspnea, and pale skin but may take several months to appear. Conversion of homocysteine to cysteine require both vitamin {{c1::B12}} and vitamin {{c1::B9}}, \"&nbsp;{{c1::folate}} trap.\"",
+                                        ""
+                                    ],
+                                    "guid": "vWH[#i.z,+",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vitamin {{c1::C}} ({{c1::ascorbic acid}}) found in fruits and vegetables.&nbsp;Deficiencies of vitamin {{c1::C}} present as scurvy, a disease with sore and spongy gums, loose teeth, fragile blood vessels leading to hemorrhages, swollen joints, bone changes and fatigue.&nbsp; {{c1::Microcytic}} anemia can present due to decreased {{c1::iron}} absorption.",
+                                        ""
+                                    ],
+                                    "guid": "oO$1^,i9Cx",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mild Vitamin {{c1::B1}} ({{c1::thiamine}}) deficiency will present as gastrointestinal irregularities and a burning sensation in the feet.&nbsp; A more moderate deficiency with present with peripheral {{c1::neuropathy}}, CNS {{c1::abnormalities}} and {{c1::ataxia}}.",
+                                        ""
+                                    ],
+                                    "guid": "lVL9122@)l",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Beriberi}} is a thiamine deficiency seen in populations that eat high amounts of {{c1::polished rice}}.&nbsp; Symptoms include muscle weakness/ wasting, delirium, weakness of eye muscles, memory loss, and impaired myocardial contractility.",
+                                        ""
+                                    ],
+                                    "guid": "AWJh5bpW3(",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Wernicke-Korsakoff}} syndrome is a thiamine deficiency found in {{c1::chronic alcoholics}} due to poor diet and impaired absorption of thiamine. Symptoms include mental confusion, gait ataxia, {{c1::nystagmus}} (to-fro eye movement), {{c1::ophthalmoplegia}} (weakness of eye muscles), and hallucinations.",
+                                        ""
+                                    ],
+                                    "guid": "gy>Z0aWGCr",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "The {{c1::D}} vitamins are a groups of sterol molecules that function similar to hormones.<br>Vitamin {{c1::D}} deficiency can cause {{c1::rickets}}/ {{c1::osteomalacia}}, a disease that is characteristic of demineralization of bone.<br>{{c1::Rickets}} (form found in children) shows formation of the collagen matrix of bone but not filled in by minerals, leading to soft malleable bones.<br>{{c1::Osteomalacia}} (adult form) the demineralization of existing bones increases chance of fractures.",
+                                        ""
+                                    ],
+                                    "guid": "hlb9^Pco>Q",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A deficiency in iron may cause {{c1::microcytic}}, {{c1::hypochromic}} anemia<br>Hereditary {{c1::hemochromatosis}} (autosomal recessive disorder) can also cause iron toxicity.",
+                                        ""
+                                    ],
+                                    "guid": "hkeKIObpW",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ethanol metabolism leads to an increase in the {{c1::NADH/NAD+}} ratio.&nbsp;The high {{c1::NADH/NAD+}} ratio inhibits fatty acid oxidation and the tricarboxylic acid (TCA) cycle, resulting in accumulation of {{c1::fatty acids}} in the liver. High levels of NADH leads for the conversion of {{c1::lactate}} from {{c1::pyruvate}} and of {{c1::malate}} from {{c1::oxaloacetate}}, inhibiting gluconeogenesis. The high {{c1::NADH/NAD+}} ratio shifts oxaloacetate toward {{c1::malate}}, and {{c1::acetyl-CoA}} is directed into ketone- body synthesis.",
+                                        ""
+                                    ],
+                                    "guid": "A/]Op*@t2S",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "33d100fe-c04d-11ec-bc07-acde48001122",
+                            "deck_config_uuid": "a319ee4a-70ce-11ec-9756-8c85906ce275",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "_AnKingRound.png",
+                                "_Anking_v3.png",
+                                "_b&b.icon.png",
+                                "_first-aid.icon_v2.1.png",
+                                "_omelogo.icon.png",
+                                "_pathoma.icon.png",
+                                "_physeologo.icon.png",
+                                "_pixorize.png",
+                                "_sketchy.icon.png"
+                            ],
+                            "name": "Wk15",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diabetes is classified as type 1 ({{c1::insulin-dependent}} diabetes mellitus) and type 2 ({{c1::non-insulin- dependent}} diabetes mellitus).",
+                                        "Compare and contrast type 1 and type 2 diabetes mellitus with respect to incidence, age of<br>onset and distinguishing characteristics."
+                                    ],
+                                    "guid": "M/nWHHfENk",
+                                    "note_model_uuid": "59e12cdc-c00d-11ec-9a92-acde48001122",
+                                    "tags": [
+                                        "**MSBS::MBM::Block8::MBM"
+                                    ]
                                 }
                             ]
                         }
@@ -54952,7 +55144,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -55207,7 +55399,15 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Cloze-88141-0b7ad",
-            "req": [],
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
             "sortf": 2,
             "tags": [],
             "tmpls": [
